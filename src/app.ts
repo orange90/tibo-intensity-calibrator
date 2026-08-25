@@ -25,6 +25,7 @@ export type Language = "zh" | "en";
 const copy = {
   zh: {
     title: "Tibo 滑动变祖器",
+    sourceCode: "GitHub 源码",
     languageButton: "EN",
     languageLabel: "切换至英文",
     currentState: "当前状态",
@@ -56,6 +57,7 @@ const copy = {
   },
   en: {
     title: "Sliding Intensity Calibrator",
+    sourceCode: "Source on GitHub",
     languageButton: "中文",
     languageLabel: "Switch to Chinese",
     currentState: "Current state",
@@ -106,7 +108,7 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
             <p class="eyebrow">TIBO INTENSITY CALIBRATOR</p>
             <h1 class="page-title">Tibo 滑动变祖器</h1>
           </div>
-          <div class="masthead-actions"><button class="language-toggle" type="button" aria-label="切换至英文" data-language="zh"><span class="language-option language-option--zh">中文</span><span class="language-divider" aria-hidden="true">/</span><span class="language-option language-option--en">EN</span></button><div class="level-meter" aria-live="polite"><span>TIBO RATING</span><output class="level-output">15</output></div></div>
+          <div class="masthead-actions"><a class="source-link" href="https://github.com/orange90/tibo-intensity-calibrator" target="_blank" rel="noopener noreferrer">GitHub 源码 <span aria-hidden="true">↗</span></a><button class="language-toggle" type="button" aria-label="切换至英文" data-language="zh"><span class="language-option language-option--zh">中文</span><span class="language-divider" aria-hidden="true">/</span><span class="language-option language-option--en">EN</span></button><div class="level-meter" aria-live="polite"><span>TIBO RATING</span><output class="level-output">15</output></div></div>
         </header>
         <section class="portrait-zone" aria-labelledby="current-stage-label">
           <p class="stage-ghost" aria-hidden="true">笑TIBO</p>
@@ -233,6 +235,7 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
     document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
     const pageTitle = root.querySelector<HTMLElement>(".page-title")!;
     pageTitle.textContent = languageCopy.title;
+    root.querySelector<HTMLAnchorElement>(".source-link")!.firstChild!.textContent = `${languageCopy.sourceCode} `;
     languageToggle.dataset.language = language;
     languageToggle.setAttribute("aria-label", languageCopy.languageLabel);
     root.querySelector<HTMLElement>(".current-state-label")!.textContent = languageCopy.currentState;

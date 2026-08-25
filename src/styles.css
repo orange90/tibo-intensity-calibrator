@@ -134,6 +134,32 @@ label {
   gap: 12px;
 }
 
+.source-link {
+  display: inline-flex;
+  min-height: 38px;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 10px;
+  border: 1px solid color-mix(in srgb, currentColor 38%, transparent);
+  color: inherit;
+  background: color-mix(in srgb, var(--thumb-bg) 70%, transparent);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  transition: border-color 180ms ease, background 180ms ease, color 180ms ease;
+}
+
+.source-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.source-link:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
 .language-toggle {
   display: inline-flex;
   min-width: 96px;
@@ -1081,8 +1107,17 @@ h1 {
     gap: 8px;
   }
 
+  .masthead > div:first-child {
+    min-width: 0;
+  }
+
   h1 {
     font-size: clamp(32px, 9vw, 40px);
+  }
+
+  .page-title {
+    max-width: calc(100vw - 152px);
+    white-space: normal;
   }
 
   .level-meter {
@@ -1091,6 +1126,16 @@ h1 {
 
   .masthead-actions {
     gap: 7px;
+  }
+
+  .source-link {
+    min-width: 32px;
+    padding-inline: 7px;
+    font-size: 0;
+  }
+
+  .source-link span {
+    font-size: 13px;
   }
 
   .level-meter span {
