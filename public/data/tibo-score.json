@@ -7,25 +7,25 @@
   "signalActive": true,
   "postCount": 22,
   "eventCount": 51,
-  "updatedAt": "2026-08-25T16:51:52.000Z",
+  "updatedAt": "2026-08-25T17:41:52.000Z",
   "recentTweets": [
     {
       "id": "2092058556707344708",
       "url": "https://x.com/thsottiaux/status/2092058556707344708",
       "text": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.\n\nThis is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of",
       "at": "2026-08-25T01:16:43.000Z",
-      "replies": 4244,
-      "reposts": 692,
-      "likes": 13391
+      "replies": 4319,
+      "reposts": 703,
+      "likes": 13550
     },
     {
       "id": "2091688655828246890",
       "url": "https://x.com/thsottiaux/status/2091688655828246890",
       "text": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
       "at": "2026-08-24T00:46:51.000Z",
-      "replies": 1602,
+      "replies": 1603,
       "reposts": 371,
-      "likes": 10168
+      "likes": 10176
     },
     {
       "id": "2091412393368945027",
@@ -34,7 +34,7 @@
       "at": "2026-08-23T06:29:05.000Z",
       "replies": 742,
       "reposts": 243,
-      "likes": 4568
+      "likes": 4569
     }
   ]
 }
