@@ -1,7 +1,7 @@
 import "./styles.css";
 
 import { mountApp } from "./app";
-import { createApiClient, type ScoreData } from "./api";
+import { createScoreSource, type ScoreData } from "./score-source";
 import { FrameRenderer } from "./frame-renderer";
 import { clampScore } from "./score-domain";
 
@@ -9,7 +9,7 @@ const MANUAL_SCORE_KEY = "tibo-slider:manual-score:v1";
 const root = document.querySelector<HTMLElement>("#app");
 if (!root) throw new Error("找不到应用挂载节点");
 
-const api = createApiClient(import.meta.env.VITE_API_BASE_URL);
+const scoreSource = createScoreSource(import.meta.env.VITE_SCORE_URL, import.meta.env.VITE_TIMELINE_URL);
 let renderer: FrameRenderer | null = null;
 let latestAutoScore: ScoreData | null = null;
 let manualScore: number | null = readManualScore();
@@ -53,12 +53,8 @@ async function loadMedia(): Promise<void> {
 }
 
 async function loadSignal(): Promise<void> {
-  if (!api.configured) {
-    controller.setDataUnavailable("未配置 VITE_API_BASE_URL；当前仅支持本地预览。");
-    return;
-  }
   try {
-    const [score, timeline] = await Promise.all([api.fetchScore(), api.fetchTimeline()]);
+    const [score, timeline] = await Promise.all([scoreSource.fetchScore(), scoreSource.fetchTimeline()]);
     latestAutoScore = score;
     controller.setSignalData(score);
     controller.setTimelineEvents(timeline);

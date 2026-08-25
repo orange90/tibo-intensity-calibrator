@@ -1,4 +1,4 @@
-import type { ScoreData, TimelineDayData } from "./api";
+import type { ScoreData, TimelineDayData } from "./score-source";
 import { MAX_SCORE, MIN_SCORE, SCORE_COUNT, SCORES_PER_STAGE, STAGES, clampScore, describeScore, formatScore } from "./score-domain";
 
 export interface AppController {

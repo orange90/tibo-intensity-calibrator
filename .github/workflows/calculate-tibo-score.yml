@@ -1,0 +1,46 @@
+name: Calculate TIBO score
+
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "UTC date to analyze (YYYY-MM-DD); leave blank for yesterday"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calculate-tibo-score
+  cancel-in-progress: false
+
+jobs:
+  calculate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Calculate daily score
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_SENTIMENT_MODEL: ${{ vars.OPENAI_SENTIMENT_MODEL }}
+          TIBO_SCORE_DATE: ${{ inputs.date }}
+        run: node scripts/calculate-tibo-score.mjs
+      - name: Commit score data
+        run: |
+          if git diff --quiet -- public/data; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- public/data/tibo-score.json public/data/tibo-timeline.json
+          git commit -m "chore(score): update daily TIBO snapshot"
+          git push
