@@ -1,7 +1,8 @@
-import type { Env } from "../api/shared";
-import { previousBeijingDate } from "../api/shared";
-import { recordDailySnapshot } from "../api/timeline";
+import { analyzePreviousDay } from "../sentiment-analysis";
+import { previousUtcDate, type Env } from "./shared";
+import { recordSnapshot } from "./timeline";
 
 export async function handleScheduled(env: Env, now = Date.now()): Promise<void> {
-  await recordDailySnapshot(env, previousBeijingDate(now), now);
+  const snapshot = await analyzePreviousDay(env, previousUtcDate(now), now);
+  await recordSnapshot(env, snapshot);
 }

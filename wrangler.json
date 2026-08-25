@@ -1,20 +1,18 @@
 {
-  "name": "liang-intensity-api",
+  "name": "tibo-intensity-api",
   "compatibility_date": "2026-08-08",
   "main": "./src/worker.ts",
   "workers_dev": true,
   "vars": {
-    "ALLOWED_ORIGINS": "https://lichtspektrum.github.io,http://127.0.0.1:5173,http://127.0.0.1:5174"
+    "ALLOWED_ORIGINS": "https://orange90.github.io,http://127.0.0.1:5173"
   },
-  "d1_databases": [
+  "kv_namespaces": [
     {
-      "binding": "DB",
-      "database_name": "liang-intensity-db",
-      "database_id": "f5abb4d0-552e-49ef-94b6-78331c6562e2",
-      "migrations_dir": "./migrations"
+      "binding": "TIBO_SCORE",
+      "id": "00000000000000000000000000000000"
     }
   ],
   "triggers": {
-    "crons": ["5 16 * * *"]
+    "crons": ["10 0 * * *"]
   }
 }

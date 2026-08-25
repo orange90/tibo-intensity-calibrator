@@ -1,40 +1,61 @@
-# 滑动变祖器
+# TIBO 评级滑动变阻器
 
-一个「梁系强度校准器」网页小玩具。拖动滑杆，人物会在 31 个等级间连续变化，从「小难梁」一路到戴上帝冕的「梁祖」。
+一个 31 档的 TIBO 头像滑杆：从「牢TIBO / TIBO: CONTAINED」逐步过渡到「金TIBO · SAINT TIBO」。拖动滑杆只会在当前浏览器本地预览；每日自动评级由 Tibo 在 X 的公开评论情绪和明确的 Codex reset 信号共同决定。
 
-[在线体验](https://lichtspektrum.github.io/liang-intensity-calibrator/)
+## 评级规则
 
-## 现在能做什么
+每日 UTC 00:10，Cloudflare Worker 分析前一天的数据并保存一份快照：
 
-- 六个状态：小难梁、牢梁、梁子、梁圣、梁神、梁祖
-- 滑杆对应 -15 到 +15，视频帧让中间状态平滑过渡
-- 每个浏览器保留一张投票，每 3 小时可修改一次；投票后短暂显示剩余冷却时间，随后自动淡出
-- 灰色圆点显示社区平均分，滑杆两端显示正向 / 负向投票人数
-- 状态行实时显示你的投票、社区平均，以及今日与累计的投票人数
-- 每天记录一个社区平均值快照，用于时间线
-- 支持鼠标、触摸和键盘，适配桌面和手机浏览器
+```
+最终档位 = round(30 × (0.5 × 评论情绪 + 0.5 × reset 信号))
+```
 
-## 项目结构
+- 评论情绪：通过 X API 拉取 `@thsottiaux` 当日原创推文及同一 conversation 下的公开回复；OpenAI 以 0–1 逐条评分，取平均。无评论时为中性 `0.5`。
+- reset 信号：OpenAI 只在推文明确确认 Codex 配额/使用额度已经或将要 reset 时给 `1`，否则为 `0`。
+- 评分、推文与评论数量以及最近 90 天快照保存在 Cloudflare KV，项目不再使用 Cloudflare D1，也没有社区投票接口。
 
-前端与视频文件放在 GitHub Pages。Cloudflare Worker 提供 `/api/score`、`/api/vote` 和 `/api/timeline`，投票与每日快照存在 D1。项目不使用 SSR、R2 或新闻采集。
+## 六个锚点
 
-如需本地部署或安装，请使用 coding agent 来了解项目架构等细节。
+| 档位 | 中文昵称 | 英文状态名 |
+| --- | --- | --- |
+| 0 | 牢TIBO | TIBO: CONTAINED |
+| 6 | 小TIBO | TIBO: STANDBY |
+| 12 | 笑TIBO | TIBO: ONLINE |
+| 18 | 硬TIBO | TIBO: IN COMMAND |
+| 24 | 神TIBO | TIBO: ASCENDANT |
+| 30 | 金TIBO | SAINT TIBO |
 
-## 素材与致谢
+## 本地运行
 
-本项目源代码以 [MIT 协议](LICENSE) 发布。
+```bash
+npm install
+npm run dev
+```
 
-`media` 与 `public/frames` 里的人像素材用于趣味演示，**素材不随 MIT 协议共享**。复用或二次发布前，请确认你拥有相关肖像与素材的使用权。
+单独启动 API：
 
-社区投票功能的最初思路来自 [PR #7](https://github.com/Lichtspektrum/liang-intensity-calibrator/pull/7) 的 [@loggerhead](https://github.com/loggerhead)。
+```bash
+npx wrangler kv namespace create TIBO_SCORE
+# 用输出的 id 替换 wrangler.json 内 kv_namespaces[0].id
+npx wrangler secret put X_BEARER_TOKEN
+npx wrangler secret put OPENAI_API_KEY
+# 可选，默认为 gpt-5-mini
+npx wrangler secret put OPENAI_SENTIMENT_MODEL
+npm run dev:worker
+```
 
----
+前端部署时设置 `VITE_API_BASE_URL=https://<你的-worker>.<你的子域>.workers.dev`。如果把 GitHub Pages 部署在非 `orange90.github.io` 域名，请同步更新 `wrangler.json` 的 `ALLOWED_ORIGINS`。
 
-## Awesome Sliders
+## 部署前检查
 
-这里收集社区基于「滑动变祖器」的二创作品。把滑杆玩出花样的朋友们，欢迎通过 [Pull Request](https://github.com/Lichtspektrum/liang-intensity-calibrator/pulls) 提交你的项目：
+```bash
+npm test
+npm run build
+npm run build:pages
+```
 
-- [Liang-Saint-Slider](https://github.com/BruzWJ/Liang-Saint-Slider) — by [@BruzWJ](https://github.com/BruzWJ)：把滑杆做成 DeepSeek Harness 的模型与思考强度选择器。
-- [liang-intensity-calibrator-ascii](https://github.com/Lichtspektrum/liang-intensity-calibrator-ascii) — by [@Lichtspektrum](https://github.com/Lichtspektrum)：ASCII 版，由原项目 31 张关键帧逐帧转出的纯 ASCII 动画。
-- [dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) — by [@kingOfSoySauce](https://github.com/kingOfSoySauce)：DeepSeek Harness 滑动变阻器皮肤。
-- [dsh-liang-watch](https://github.com/huangmouren2023/deepseek-harness-toolkit/tree/main/tools/dsh-liang-watch) — by [@huangmouren2023](https://github.com/huangmouren2023)：DeepSeek Harness 梁强度雷达——把社区投票与每日时间线变成模型工具和侧边栏面板，可在对话里直接查分、投票、看趋势。
+`wrangler.json` 中的全零 KV id 是一个明确的部署占位符，必须替换成实际 KV namespace id 后才能部署 Worker。不要把 X 或 OpenAI 密钥提交到仓库。
+
+## 素材与许可
+
+源代码以 [MIT](LICENSE) 协议发布。`media/source-frames` 与 `public/frames` 中的人像仅用于此趣味演示，不随 MIT 协议授权；再次发布前请确认获得本人及素材权利人的许可。

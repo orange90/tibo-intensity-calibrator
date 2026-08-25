@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/liang-intensity-calibrator/",
+  base: "/tibo-intensity-calibrator/",
   build: {
     outDir: "dist-pages",
   },

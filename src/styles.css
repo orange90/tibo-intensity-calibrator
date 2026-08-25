@@ -259,6 +259,77 @@ h1 {
   object-fit: cover;
 }
 
+.signal-panel {
+  width: min(720px, 100%);
+  margin: 14px auto 0;
+  padding: 14px 16px;
+  border: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  background: color-mix(in srgb, var(--thumb-bg) 82%, transparent);
+  backdrop-filter: blur(8px);
+}
+
+.signal-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  color: var(--muted);
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+}
+
+.mode-pill {
+  padding: 3px 6px;
+  border: 1px solid currentColor;
+  color: var(--accent);
+  font-size: 9px;
+}
+
+.mode-pill.is-manual {
+  color: var(--ink);
+  background: var(--gold);
+}
+
+.signal-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 12px 0 0;
+}
+
+.signal-metrics div { min-width: 0; }
+.signal-metrics dt { color: var(--muted); font-size: 11px; }
+.signal-metrics dd { margin: 3px 0 0; font-family: "SFMono-Regular", Consolas, monospace; font-size: 15px; font-variant-numeric: tabular-nums; }
+
+.restore-auto {
+  margin-top: 12px;
+  padding: 7px 10px;
+  border: 1px solid currentColor;
+  color: inherit;
+  background: transparent;
+  cursor: pointer;
+}
+
+.timeline-list {
+  display: grid;
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+  gap: 4px;
+  margin: 14px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.timeline-list li { display: grid; min-width: 0; padding-top: 5px; border-top: 2px solid color-mix(in srgb, var(--accent) 70%, transparent); color: var(--muted); font-family: "SFMono-Regular", Consolas, monospace; font-size: 9px; }
+.timeline-list span { overflow: hidden; color: var(--ink); text-overflow: ellipsis; white-space: nowrap; }
+.timeline-list strong { color: var(--accent); font-size: 11px; }
+
+@media (max-width: 640px) {
+  .experience { padding: 20px 16px 16px; }
+  .signal-metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .timeline-list { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+}
+
 .imperial-halo {
   position: absolute;
   z-index: 0;
