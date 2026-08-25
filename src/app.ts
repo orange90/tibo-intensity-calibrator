@@ -49,19 +49,19 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
         </section>
         <section class="control-panel" aria-label="TIBO 评级控制">
           <div class="range-control">
-            <p class="signal-status" role="status" aria-live="polite">等待每日 X 评论情绪快照…</p>
+            <p class="signal-status" role="status" aria-live="polite">正在读取 Tibo 社区信号…</p>
             <div class="range-wrap"><div class="tick-track">${ticks()}</div><input id="strength-slider" class="strength-slider" type="range" min="${MIN_SCORE}" max="${MAX_SCORE}" step="1" value="15" aria-label="TIBO 强度" disabled /></div>
             <ol class="stage-markers">${stageMarkers()}</ol>
           </div>
           <p class="drag-hint"><span aria-hidden="true">←</span> 拖动以本地预览 31 档状态；不会影响每日自动评级。 <span aria-hidden="true">→</span></p>
         </section>
         <section class="signal-panel" aria-label="自动评级详情">
-          <div class="signal-panel-head"><span>YESTERDAY'S X SIGNAL</span><span class="mode-pill">AUTO</span></div>
-          <dl class="signal-metrics"><div><dt>评论情绪</dt><dd class="metric-sentiment">--</dd></div><div><dt>重置信号</dt><dd class="metric-reset">--</dd></div><div><dt>分析评论</dt><dd class="metric-comments">--</dd></div><div><dt>数据日期</dt><dd class="metric-date">--</dd></div></dl>
+          <div class="signal-panel-head"><span>COMMUNITY TIBO SIGNAL</span><span class="mode-pill">AUTO</span></div>
+          <dl class="signal-metrics"><div><dt>信号强度</dt><dd class="metric-strength">--</dd></div><div><dt>当前信号</dt><dd class="metric-kind">--</dd></div><div><dt>相关动态</dt><dd class="metric-posts">--</dd></div><div><dt>数据时间</dt><dd class="metric-date">--</dd></div></dl>
           <button class="restore-auto" type="button" hidden>恢复实时追踪</button>
           <ol class="timeline-list" aria-label="近 30 日评级时间线"></ol>
         </section>
-        <footer class="footer-note"><span>31 级连续进化</span><span>X 评论情绪 × Codex reset 信号</span></footer>
+        <footer class="footer-note"><span>31 级连续进化</span><span>社区 Tibo 信号 × 最近 reset 事件</span></footer>
       </div>
     </main>`;
 
@@ -116,13 +116,13 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
       if (mode === "manual") status.textContent = "本地预览中；自动评级未被修改。";
     },
     setSignalData(data) {
-      root.querySelector<HTMLElement>(".metric-sentiment")!.textContent = `${Math.round(data.sentimentScore * 100)}%`;
-      root.querySelector<HTMLElement>(".metric-reset")!.textContent = data.resetScore === 1 ? "确认" : "未确认";
-      root.querySelector<HTMLElement>(".metric-comments")!.textContent = String(data.analyzedCommentCount);
-      root.querySelector<HTMLElement>(".metric-date")!.textContent = data.date;
-      status.textContent = `昨日 ${data.postCount} 条 Tibo 推文、${data.commentCount} 条评论已完成情绪分析。`;
+      root.querySelector<HTMLElement>(".metric-strength")!.textContent = `${Math.round(data.signalStrength * 100)}%`;
+      root.querySelector<HTMLElement>(".metric-kind")!.textContent = data.signalKind === "reset" ? "重置" : data.signalKind === "banked" ? "储备重置" : data.signalKind === "candidate" ? "候选" : data.signalKind === "related" ? "相关动态" : "平静";
+      root.querySelector<HTMLElement>(".metric-posts")!.textContent = String(data.postCount);
+      root.querySelector<HTMLElement>(".metric-date")!.textContent = data.updatedAt.replace("T", " ").slice(0, 16);
+      status.textContent = `社区源返回 ${data.postCount} 条相关动态、${data.eventCount} 条事件；${data.signalActive ? "活跃信号已检测到。" : "当前没有活跃信号。"}`;
     },
-    setDataUnavailable(message = "自动评级暂不可用；仍可本地预览。") { status.textContent = message; },
+    setDataUnavailable(message = "社区信号暂不可用；仍可本地预览。") { status.textContent = message; },
     setTimelineEvents(days) {
       timeline.innerHTML = days.slice(-30).reverse().map((day) => `<li><time>${day.date.slice(5)}</time><span>${day.stage}</span><strong>${formatScore(day.score)}</strong></li>`).join("");
     },

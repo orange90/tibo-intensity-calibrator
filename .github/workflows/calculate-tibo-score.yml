@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "UTC date to analyze (YYYY-MM-DD); leave blank for yesterday"
+        description: "UTC date to label the snapshot (YYYY-MM-DD); leave blank for today"
         required: false
         type: string
 
@@ -29,9 +29,6 @@ jobs:
           node-version: 22
       - name: Calculate daily score
         env:
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_SENTIMENT_MODEL: ${{ vars.OPENAI_SENTIMENT_MODEL }}
           TIBO_SCORE_DATE: ${{ inputs.date }}
         run: node scripts/calculate-tibo-score.mjs
       - name: Commit score data

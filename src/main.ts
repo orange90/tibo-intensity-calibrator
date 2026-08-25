@@ -60,7 +60,7 @@ async function loadSignal(): Promise<void> {
     controller.setTimelineEvents(timeline);
     if (manualScore === null) renderCurrent();
   } catch {
-    controller.setDataUnavailable("每日 X 情绪快照尚未生成或暂时不可用；仍可本地预览。");
+    controller.setDataUnavailable("Tibo 社区信号暂不可用；仍可本地预览。");
   }
 }
 

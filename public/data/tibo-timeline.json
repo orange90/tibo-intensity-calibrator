@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "date": "2026-08-25",
+    "score": 30,
+    "stage": "金TIBO",
+    "signalStrength": 1,
+    "signalKind": "reset",
+    "signalActive": true,
+    "postCount": 22,
+    "eventCount": 51,
+    "updatedAt": "2026-08-25T09:10:46.000Z"
+  }
+]

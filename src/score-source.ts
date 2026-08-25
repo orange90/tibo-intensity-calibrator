@@ -4,11 +4,11 @@ export interface ScoreData {
   date: string;
   score: number;
   stage: string;
-  sentimentScore: number;
-  resetScore: number;
+  signalStrength: number;
+  signalKind: string;
+  signalActive: boolean;
   postCount: number;
-  commentCount: number;
-  analyzedCommentCount: number;
+  eventCount: number;
   updatedAt: string;
 }
 
@@ -29,7 +29,7 @@ function isCount(value: unknown): value is number { return typeof value === "num
 
 export function isScoreData(value: unknown): value is ScoreData {
   if (!isRecord(value) || !isDate(value.date) || typeof value.score !== "number" || !Number.isInteger(value.score) || value.score < MIN_SCORE || value.score > MAX_SCORE || typeof value.stage !== "string" || describeScore(value.score).stage !== value.stage) return false;
-  return isRatio(value.sentimentScore) && isRatio(value.resetScore) && isCount(value.postCount) && isCount(value.commentCount) && isCount(value.analyzedCommentCount) && value.analyzedCommentCount <= value.commentCount && typeof value.updatedAt === "string" && STAGES.includes(value.stage as (typeof STAGES)[number]);
+  return isRatio(value.signalStrength) && typeof value.signalKind === "string" && value.signalKind.length > 0 && typeof value.signalActive === "boolean" && isCount(value.postCount) && isCount(value.eventCount) && typeof value.updatedAt === "string" && STAGES.includes(value.stage as (typeof STAGES)[number]);
 }
 
 function scoreUrl(value: string | undefined, fallback: string): string {

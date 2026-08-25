@@ -1,13 +1,12 @@
 # TIBO 评级滑动变阻器
 
-部署在 Vercel 的 31 档 TIBO 头像滑杆。每日评级由 GitHub Actions 在仓库内计算，并把最新快照写入 `public/data/tibo-score.json`；网站直接从该 GitHub 文件读取数据，不需要 Cloudflare Worker、D1 或数据库。
+部署在 Vercel 的 31 档 TIBO 头像滑杆。每日评级由 GitHub Actions 从公开的 codex-reset.com 社区信号源计算，并把最新快照写入 `public/data/tibo-score.json`；网站直接从该 GitHub 文件读取数据。
 
 ## 数据流
 
 ```text
 GitHub Actions（每日 UTC 00:10）
-  → X API：Tibo 当日原创推文与评论
-  → OpenAI：评论情绪 + Codex reset 信号
+  → codex-reset.com/api/feed：Tibo 公开 reset 信号与事件
   → 提交 public/data/tibo-score.json 与 public/data/tibo-timeline.json
   → Vercel 页面直接读取 raw GitHub JSON
 ```
@@ -15,24 +14,16 @@ GitHub Actions（每日 UTC 00:10）
 最终档位为：
 
 ```text
-round(30 × (0.5 × 评论情绪 + 0.5 × reset 信号))
+round(30 × 信号强度)
 ```
 
-- 评论情绪为 0–1 的逐条评分平均值；无评论时为中性 `0.5`。
-- reset 信号只在推文明确确认 Codex 配额/额度 reset 时为 `1`，否则为 `0`。
+- 活跃的全量 reset 为 `1.0`；已结束的 reset 和 banked reset 会在 24 小时、3 天、7 天后逐档衰减；候选、相关动态与平静状态依次降低。
+- 该分数反映公开社区信号的强度，不是 X 评论区情感分析，也不是 OpenAI 的官方状态。
 - 历史保留 90 天。滑杆的手动拖动只在当前浏览器预览，不会写回仓库。
 
 ## GitHub 设置
 
-在仓库 **Settings → Secrets and variables → Actions** 中添加：
-
-| 类型 | 名称 | 用途 |
-| --- | --- | --- |
-| Secret | `X_BEARER_TOKEN` | 调用 X API |
-| Secret | `OPENAI_API_KEY` | 调用 OpenAI Responses API |
-| Variable（可选） | `OPENAI_SENTIMENT_MODEL` | 默认 `gpt-5-mini` |
-
-同时确认 **Settings → Actions → General → Workflow permissions** 允许工作流读写仓库内容。随后在 **Actions → Calculate TIBO score → Run workflow** 手动运行一次；之后会每天自动运行。
+无需配置 X 或 OpenAI 密钥。确认仓库 **Settings → Actions → General → Workflow permissions** 允许工作流读写仓库内容；随后在 **Actions → Calculate TIBO score → Run workflow** 手动运行一次，之后会每天自动运行。
 
 数据文件位置：
 
@@ -50,7 +41,7 @@ round(30 × (0.5 × 评论情绪 + 0.5 × reset 信号))
 | `VITE_SCORE_URL` | 最新评分 JSON 的 HTTPS 地址 |
 | `VITE_TIMELINE_URL` | 历史 JSON 的 HTTPS 地址 |
 
-Vercel 不需要保存 X 或 OpenAI 密钥；这些密钥只存在 GitHub Actions 的 Secrets 中。
+Vercel 与 GitHub Actions 都不需要保存 X 或 OpenAI 密钥。社区数据源不可用或标记为 stale 时，工作流会失败而不会覆盖上一次有效快照。
 
 默认 raw GitHub 数据源要求仓库保持公开。若仓库设为私有，请为两个 `VITE_*_URL` 提供浏览器可读取的公开 HTTPS 数据地址。
 
