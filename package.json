@@ -6,22 +6,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "dev:worker": "wrangler dev --config wrangler.json",
-    "build": "npm run build:worker",
-    "build:worker": "tsc --noEmit && wrangler deploy --dry-run --config wrangler.json --outdir dist-worker",
-    "build:pages": "tsc --noEmit && vite build --config vite.pages.config.ts --mode github-pages",
+    "build": "tsc --noEmit && vite build",
     "media:posters": "bash scripts/media/build-posters.sh",
     "preview": "vite preview",
-    "preview:pages": "vite preview --config vite.pages.config.ts --host 127.0.0.1 --port 5173",
     "test": "vitest"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^5.20260813.1",
     "@types/node": "^26.2.0",
     "typescript": "^7.0.2",
     "vite": "^8.2.1",
-    "vitest": "^4.1.10",
-    "wrangler": "^4.120.0"
+    "vitest": "^4.1.10"
   },
   "dependencies": {}
 }

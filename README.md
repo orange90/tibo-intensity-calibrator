@@ -1,18 +1,67 @@
 # TIBO 评级滑动变阻器
 
-一个 31 档的 TIBO 头像滑杆：从「牢TIBO / TIBO: CONTAINED」逐步过渡到「金TIBO · SAINT TIBO」。拖动滑杆只会在当前浏览器本地预览；每日自动评级由 Tibo 在 X 的公开评论情绪和明确的 Codex reset 信号共同决定。
+部署在 Vercel 的 31 档 TIBO 头像滑杆。每日评级由 GitHub Actions 在仓库内计算，并把最新快照写入 `public/data/tibo-score.json`；网站直接从该 GitHub 文件读取数据，不需要 Cloudflare Worker、D1 或数据库。
 
-## 评级规则
+## 数据流
 
-每日 UTC 00:10，Cloudflare Worker 分析前一天的数据并保存一份快照：
-
+```text
+GitHub Actions（每日 UTC 00:10）
+  → X API：Tibo 当日原创推文与评论
+  → OpenAI：评论情绪 + Codex reset 信号
+  → 提交 public/data/tibo-score.json 与 public/data/tibo-timeline.json
+  → Vercel 页面直接读取 raw GitHub JSON
 ```
-最终档位 = round(30 × (0.5 × 评论情绪 + 0.5 × reset 信号))
+
+最终档位为：
+
+```text
+round(30 × (0.5 × 评论情绪 + 0.5 × reset 信号))
 ```
 
-- 评论情绪：通过 X API 拉取 `@thsottiaux` 当日原创推文及同一 conversation 下的公开回复；OpenAI 以 0–1 逐条评分，取平均。无评论时为中性 `0.5`。
-- reset 信号：OpenAI 只在推文明确确认 Codex 配额/使用额度已经或将要 reset 时给 `1`，否则为 `0`。
-- 评分、推文与评论数量以及最近 90 天快照保存在 Cloudflare KV，项目不再使用 Cloudflare D1，也没有社区投票接口。
+- 评论情绪为 0–1 的逐条评分平均值；无评论时为中性 `0.5`。
+- reset 信号只在推文明确确认 Codex 配额/额度 reset 时为 `1`，否则为 `0`。
+- 历史保留 90 天。滑杆的手动拖动只在当前浏览器预览，不会写回仓库。
+
+## GitHub 设置
+
+在仓库 **Settings → Secrets and variables → Actions** 中添加：
+
+| 类型 | 名称 | 用途 |
+| --- | --- | --- |
+| Secret | `X_BEARER_TOKEN` | 调用 X API |
+| Secret | `OPENAI_API_KEY` | 调用 OpenAI Responses API |
+| Variable（可选） | `OPENAI_SENTIMENT_MODEL` | 默认 `gpt-5-mini` |
+
+同时确认 **Settings → Actions → General → Workflow permissions** 允许工作流读写仓库内容。随后在 **Actions → Calculate TIBO score → Run workflow** 手动运行一次；之后会每天自动运行。
+
+数据文件位置：
+
+- 最新评分：`public/data/tibo-score.json`
+- 90 天历史：`public/data/tibo-timeline.json`
+
+## Vercel 部署
+
+在 Vercel 中导入此 GitHub 仓库，Framework Preset 选择 **Vite**，构建命令为 `npm run build`，输出目录为 `dist`（这些已在 `vercel.json` 中声明）。
+
+默认数据源是当前仓库的 raw GitHub 地址。若未来迁移仓库或想改用自己的数据镜像，在 Vercel 的 Environment Variables 中设置：
+
+| 名称 | 作用 |
+| --- | --- |
+| `VITE_SCORE_URL` | 最新评分 JSON 的 HTTPS 地址 |
+| `VITE_TIMELINE_URL` | 历史 JSON 的 HTTPS 地址 |
+
+Vercel 不需要保存 X 或 OpenAI 密钥；这些密钥只存在 GitHub Actions 的 Secrets 中。
+
+默认 raw GitHub 数据源要求仓库保持公开。若仓库设为私有，请为两个 `VITE_*_URL` 提供浏览器可读取的公开 HTTPS 数据地址。
+
+## 本地运行
+
+```bash
+npm install
+npm run dev
+npm test
+npm run build
+```
 
 ## 六个锚点
 
@@ -24,37 +73,6 @@
 | 18 | 硬TIBO | TIBO: IN COMMAND |
 | 24 | 神TIBO | TIBO: ASCENDANT |
 | 30 | 金TIBO | SAINT TIBO |
-
-## 本地运行
-
-```bash
-npm install
-npm run dev
-```
-
-单独启动 API：
-
-```bash
-npx wrangler kv namespace create TIBO_SCORE
-# 用输出的 id 替换 wrangler.json 内 kv_namespaces[0].id
-npx wrangler secret put X_BEARER_TOKEN
-npx wrangler secret put OPENAI_API_KEY
-# 可选，默认为 gpt-5-mini
-npx wrangler secret put OPENAI_SENTIMENT_MODEL
-npm run dev:worker
-```
-
-前端部署时设置 `VITE_API_BASE_URL=https://<你的-worker>.<你的子域>.workers.dev`。如果把 GitHub Pages 部署在非 `orange90.github.io` 域名，请同步更新 `wrangler.json` 的 `ALLOWED_ORIGINS`。
-
-## 部署前检查
-
-```bash
-npm test
-npm run build
-npm run build:pages
-```
-
-`wrangler.json` 中的全零 KV id 是一个明确的部署占位符，必须替换成实际 KV namespace id 后才能部署 Worker。不要把 X 或 OpenAI 密钥提交到仓库。
 
 ## 素材与许可
 
