@@ -153,6 +153,7 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
   const stageName = root.querySelector<HTMLElement>(".stage-name")!;
   const stageGhost = root.querySelector<HTMLElement>(".stage-ghost")!;
   const stageIndex = root.querySelector<HTMLElement>(".stage-index")!;
+  const resistorBase = root.querySelector<HTMLImageElement>(".resistor-base")!;
   const resistorThumb = root.querySelector<HTMLImageElement>(".resistor-thumb")!;
   const status = root.querySelector<HTMLElement>(".signal-status")!;
   const loadState = root.querySelector<HTMLElement>(".load-state")!;
@@ -172,6 +173,8 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
   let mediaError = false;
 
   const text = () => copy[language];
+  const resistorBasePath = (nextLanguage: Language): string =>
+    `${import.meta.env.BASE_URL}slider/tibo-resistor-base${nextLanguage === "en" ? "-en" : ""}.svg`;
 
   const renderSignal = (): void => {
     if (signalData) {
@@ -233,6 +236,7 @@ export function mountApp(root: HTMLElement, onScoreChange: (score: number) => vo
   const renderLanguage = (): void => {
     const languageCopy = text();
     document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+    resistorBase.src = resistorBasePath(language);
     const pageTitle = root.querySelector<HTMLElement>(".page-title")!;
     pageTitle.textContent = languageCopy.title;
     root.querySelector<HTMLAnchorElement>(".source-link")!.firstChild!.textContent = `${languageCopy.sourceCode} `;

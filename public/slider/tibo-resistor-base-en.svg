@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 55 1600 550" role="img" aria-labelledby="title desc">
+  <title id="title">TIBO Sliding Intensity Calibrator</title>
+  <desc id="desc">A sliding intensity calibrator made of brass, paper and wood.</desc>
+  <defs>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6e4218"/>
+      <stop offset=".18" stop-color="#d2a45b"/>
+      <stop offset=".38" stop-color="#7d4b1c"/>
+      <stop offset=".62" stop-color="#e1b76d"/>
+      <stop offset="1" stop-color="#5d3513"/>
+    </linearGradient>
+    <linearGradient id="brassLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0cc82"/>
+      <stop offset=".35" stop-color="#9b6128"/>
+      <stop offset=".7" stop-color="#d39c4d"/>
+      <stop offset="1" stop-color="#5f3614"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fffdf5"/>
+      <stop offset=".22" stop-color="#f5ead3"/>
+      <stop offset=".72" stop-color="#ead8b9"/>
+      <stop offset="1" stop-color="#cbb086"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9d542b"/>
+      <stop offset=".18" stop-color="#c67a42"/>
+      <stop offset=".48" stop-color="#8d4323"/>
+      <stop offset=".78" stop-color="#b96331"/>
+      <stop offset="1" stop-color="#5f2a18"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff4b18"/>
+      <stop offset=".45" stop-color="#b41608"/>
+      <stop offset="1" stop-color="#5e0804"/>
+    </linearGradient>
+    <pattern id="woodGrain" width="180" height="28" patternUnits="userSpaceOnUse">
+      <path d="M0 8c38-10 72 8 112 0s52-5 68-1M-20 22c45-8 72 7 124-2s62-4 96 1" fill="none" stroke="#f0b27a" stroke-opacity=".22" stroke-width="3"/>
+    </pattern>
+    <pattern id="ticks" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M2 0v18" stroke="#2b2118" stroke-width="3"/>
+    </pattern>
+    <filter id="shadow" x="-15%" y="-25%" width="130%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#160e08" flood-opacity=".34"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="476" width="1516" height="118" rx="25" fill="url(#wood)" stroke="#552512" stroke-width="5"/>
+    <rect x="54" y="489" width="1492" height="86" rx="18" fill="url(#woodGrain)" opacity=".75"/>
+
+    <g fill="url(#brass)" stroke="#5b3517" stroke-width="5">
+      <rect x="106" y="83" width="35" height="414" rx="16"/>
+      <rect x="1459" y="83" width="35" height="414" rx="16"/>
+      <rect x="119" y="77" width="1362" height="34" rx="16"/>
+      <rect x="140" y="449" width="1320" height="36" rx="17"/>
+      <path d="M73 462h110l22 45H52z"/>
+      <path d="M1417 462h110l21 45h-152z"/>
+    </g>
+
+    <g fill="url(#brassLight)" stroke="#5b3517" stroke-width="5">
+      <rect x="80" y="81" width="56" height="78" rx="18"/>
+      <rect x="1464" y="81" width="56" height="78" rx="18"/>
+      <rect x="52" y="239" width="118" height="74" rx="22"/>
+      <rect x="1430" y="239" width="118" height="74" rx="22"/>
+      <path d="M41 251h44v50H41a17 17 0 0 1-17-17v-16a17 17 0 0 1 17-17z"/>
+      <path d="M1559 251h-44v50h44a17 17 0 0 0 17-17v-16a17 17 0 0 0-17-17z"/>
+    </g>
+
+    <rect x="153" y="139" width="1294" height="299" rx="139" fill="url(#paper)" stroke="#a98250" stroke-width="7"/>
+    <rect x="236" y="180" width="1128" height="28" fill="url(#ticks)"/>
+    <rect x="236" y="394" width="1128" height="28" fill="url(#ticks)" transform="rotate(180 800 408)"/>
+    <path d="M800 174v58M800 365v58" stroke="#17120e" stroke-width="12"/>
+
+    <g fill="#171512" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">
+      <text x="260" y="252">TIBO: CONTAINED</text>
+      <text x="472" y="252">TIBO: STANDBY</text>
+      <text x="684" y="252">TIBO: ONLINE</text>
+      <text x="916" y="252">TIBO: IN COMMAND</text>
+      <text x="1128" y="252">TIBO: ASCENDANT</text>
+      <text x="1340" y="252">SAINT TIBO</text>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="900" text-anchor="middle">
+      <text x="506" y="357" fill="#0c64b9" font-family="Arial Black, Arial, sans-serif" font-size="92" letter-spacing="-4">TIBO</text>
+      <text x="1014" y="357" fill="#0d0c0a" font-size="47" letter-spacing="-2" textLength="690" lengthAdjust="spacingAndGlyphs">SLIDING INTENSITY CALIBRATOR</text>
+    </g>
+
+    <g stroke="#5b3517" stroke-width="5">
+      <ellipse cx="117" cy="474" rx="34" ry="24" fill="url(#red)"/>
+      <ellipse cx="117" cy="474" rx="15" ry="10" fill="#2a120b"/>
+      <ellipse cx="1483" cy="474" rx="34" ry="24" fill="url(#red)"/>
+      <ellipse cx="1483" cy="474" rx="15" ry="10" fill="#2a120b"/>
+    </g>
+  </g>
+</svg>
