@@ -11,7 +11,7 @@ function currentUtcDate(now = Date.now()) {
 }
 
 function stageForScore(score) {
-  return ["牢TIBO", "小TIBO", "笑TIBO", "硬TIBO", "神TIBO", "金TIBO"][Math.min(5, Math.floor(score / 6))];
+  return ["牢TIBO", "小TIBO", "笑TIBO", "硬TIBO", "神TIBO", "圣TIBO"][Math.min(5, Math.floor(score / 6))];
 }
 
 function isRecord(value) {
@@ -36,6 +36,26 @@ function latestRelatedPost(feed) {
   return [...feed.tweets]
     .filter((post) => isRecord(post) && typeof post.at === "string" && post.tibo_lane === "reset_related")
     .sort((left, right) => right.at.localeCompare(left.at))[0];
+}
+
+function recentTweets(feed) {
+  return [...feed.tweets]
+    .filter((post) => isRecord(post)
+      && typeof post.id === "string"
+      && typeof post.url === "string"
+      && typeof post.text === "string"
+      && typeof post.at === "string")
+    .sort((left, right) => right.at.localeCompare(left.at))
+    .slice(0, 3)
+    .map((post) => ({
+      id: post.id,
+      url: post.url,
+      text: post.text,
+      at: post.at,
+      replies: Number.isSafeInteger(post.replies) ? post.replies : 0,
+      reposts: Number.isSafeInteger(post.reposts) ? post.reposts : 0,
+      likes: Number.isSafeInteger(post.likes) ? post.likes : 0,
+    }));
 }
 
 function ageInHours(then, now) {
@@ -104,8 +124,11 @@ async function main() {
     postCount: feed.tweets.length,
     eventCount: feed.events.length,
     updatedAt: feed.fetched_at,
+    recentTweets: recentTweets(feed),
   };
-  const history = [...(await readTimeline()).filter((entry) => entry?.date !== date), snapshot]
+  const timelineSnapshot = { ...snapshot };
+  delete timelineSnapshot.recentTweets;
+  const history = [...(await readTimeline()).filter((entry) => entry?.date !== date), timelineSnapshot]
     .sort((left, right) => left.date.localeCompare(right.date)).slice(-90);
   await mkdir(dirname(scorePath), { recursive: true });
   await Promise.all([

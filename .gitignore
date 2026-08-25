@@ -9,3 +9,5 @@ playwright-report/
 .wrangler/
 output/video-prototype/*
 !output/video-prototype/.gitkeep
+.vercel
+.env*

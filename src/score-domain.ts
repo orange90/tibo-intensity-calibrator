@@ -5,7 +5,7 @@ export const SCORE_SPAN = MAX_SCORE - MIN_SCORE;
 export const SCORE_COUNT = SCORE_SPAN + 1;
 export const SCORES_PER_STAGE = 6;
 
-export const STAGES = ["牢TIBO", "小TIBO", "笑TIBO", "硬TIBO", "神TIBO", "金TIBO"] as const;
+export const STAGES = ["牢TIBO", "小TIBO", "笑TIBO", "硬TIBO", "神TIBO", "圣TIBO"] as const;
 export const STAGE_ENGLISH = [
   "TIBO: CONTAINED",
   "TIBO: STANDBY",

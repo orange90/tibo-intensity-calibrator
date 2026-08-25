@@ -1,11 +1,13 @@
 import "./styles.css";
 
-import { mountApp } from "./app";
+import { mountApp, type Language } from "./app";
 import { createScoreSource, type ScoreData } from "./score-source";
 import { FrameRenderer } from "./frame-renderer";
 import { clampScore } from "./score-domain";
 
 const MANUAL_SCORE_KEY = "tibo-slider:manual-score:v1";
+const LANGUAGE_KEY = "tibo-slider:language:v1";
+const SIGNAL_REFRESH_INTERVAL_MS = 60 * 60 * 1000;
 const root = document.querySelector<HTMLElement>("#app");
 if (!root) throw new Error("找不到应用挂载节点");
 
@@ -13,7 +15,11 @@ const scoreSource = createScoreSource(import.meta.env.VITE_SCORE_URL, import.met
 let renderer: FrameRenderer | null = null;
 let latestAutoScore: ScoreData | null = null;
 let manualScore: number | null = readManualScore();
-const controller = mountApp(root, (score) => renderer?.render(score));
+const controller = mountApp(root, (score) => renderer?.render(score), readLanguage());
+
+function readLanguage(): Language {
+  return localStorage.getItem(LANGUAGE_KEY) === "en" ? "en" : "zh";
+}
 
 function readManualScore(): number | null {
   const raw = localStorage.getItem(MANUAL_SCORE_KEY);
@@ -40,13 +46,18 @@ controller.onRestoreAuto = () => {
   renderCurrent();
 };
 
+controller.onLanguageChange = (language) => localStorage.setItem(LANGUAGE_KEY, language);
+
 async function loadMedia(): Promise<void> {
   try {
     renderer = new FrameRenderer(controller.canvas, import.meta.env.BASE_URL);
     controller.setLoading(1, 31);
-    await renderer.preload();
+    await renderer.preloadThumbnail(controller.score);
     controller.setReady();
     renderCurrent();
+    void renderer.preloadThumbnails()
+      .then(() => renderer?.preload())
+      .catch(() => undefined);
   } catch {
     controller.setError("TIBO 画面加载失败，请刷新重试");
   }
@@ -60,11 +71,12 @@ async function loadSignal(): Promise<void> {
     controller.setTimelineEvents(timeline);
     if (manualScore === null) renderCurrent();
   } catch {
-    controller.setDataUnavailable("Tibo 社区信号暂不可用；仍可本地预览。");
+    controller.setDataUnavailable();
   }
 }
 
 void loadMedia();
 void loadSignal();
+window.setInterval(() => void loadSignal(), SIGNAL_REFRESH_INTERVAL_MS);
 window.addEventListener("resize", () => renderer?.redraw());
 window.addEventListener("focus", () => void loadSignal());
