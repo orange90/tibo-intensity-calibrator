@@ -1,31 +1,31 @@
 {
-  "date": "2026-08-25",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
+  "date": "2026-08-26",
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
   "signalKind": "reset",
-  "signalActive": true,
+  "signalActive": false,
   "postCount": 22,
-  "eventCount": 51,
-  "updatedAt": "2026-08-25T23:33:52.000Z",
+  "eventCount": 52,
+  "updatedAt": "2026-08-26T01:54:53.000Z",
   "recentTweets": [
     {
       "id": "2092058556707344708",
       "url": "https://x.com/thsottiaux/status/2092058556707344708",
       "text": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.\n\nThis is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of",
       "at": "2026-08-25T01:16:43.000Z",
-      "replies": 4589,
-      "reposts": 724,
-      "likes": 14001
+      "replies": 4676,
+      "reposts": 733,
+      "likes": 14124
     },
     {
       "id": "2091688655828246890",
       "url": "https://x.com/thsottiaux/status/2091688655828246890",
       "text": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
       "at": "2026-08-24T00:46:51.000Z",
-      "replies": 1607,
+      "replies": 1611,
       "reposts": 371,
-      "likes": 10193
+      "likes": 10196
     },
     {
       "id": "2091412393368945027",
