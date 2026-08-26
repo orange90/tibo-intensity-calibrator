@@ -5,36 +5,36 @@
   "signalStrength": 0.85,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 22,
+  "postCount": 25,
   "eventCount": 52,
-  "updatedAt": "2026-08-26T05:46:53.000Z",
+  "updatedAt": "2026-08-26T07:04:46.000Z",
   "recentTweets": [
     {
-      "id": "2092058556707344708",
-      "url": "https://x.com/thsottiaux/status/2092058556707344708",
-      "text": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.\n\nThis is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of",
-      "at": "2026-08-25T01:16:43.000Z",
-      "replies": 4830,
-      "reposts": 745,
-      "likes": 14293
+      "id": "2092491252449366355",
+      "url": "https://x.com/thsottiaux/status/2092491252449366355",
+      "text": "Both",
+      "at": "2026-08-26T05:56:05.000Z",
+      "replies": 10,
+      "reposts": 0,
+      "likes": 51
     },
     {
-      "id": "2091688655828246890",
-      "url": "https://x.com/thsottiaux/status/2091688655828246890",
-      "text": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
-      "at": "2026-08-24T00:46:51.000Z",
-      "replies": 1611,
-      "reposts": 371,
-      "likes": 10196
+      "id": "2092490655864127909",
+      "url": "https://x.com/thsottiaux/status/2092490655864127909",
+      "text": "Reseted you mean?",
+      "at": "2026-08-26T05:53:43.000Z",
+      "replies": 22,
+      "reposts": 3,
+      "likes": 306
     },
     {
-      "id": "2091412393368945027",
-      "url": "https://x.com/thsottiaux/status/2091412393368945027",
-      "text": "Reset will land around 14pm PST tomorrow.",
-      "at": "2026-08-23T06:29:05.000Z",
-      "replies": 742,
-      "reposts": 243,
-      "likes": 4569
+      "id": "2092316228497063958",
+      "url": "https://x.com/thsottiaux/status/2092316228497063958",
+      "text": "@s_batzoglou Not so random, but yes",
+      "at": "2026-08-25T18:20:36.000Z",
+      "replies": 48,
+      "reposts": 5,
+      "likes": 504
     }
   ]
 }
