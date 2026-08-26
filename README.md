@@ -1,5 +1,7 @@
 # 滑动变祖器
 
+[English version](README.en.md)
+
 部署在 Vercel 的 31 档 TIBO 头像滑杆。评级由 GitHub Actions 每小时从公开的 codex-reset.com 社区信号源计算，并把最新快照和 Tibo 最近的 3 条动态写入 `public/data/tibo-score.json`；网站直接从该 GitHub 文件读取数据。
 
 ## 数据流
