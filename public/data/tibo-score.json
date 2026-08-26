@@ -1,40 +1,40 @@
 {
   "date": "2026-08-26",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "score": 21,
+  "stage": "硬TIBO",
+  "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 24,
+  "postCount": 25,
   "eventCount": 52,
-  "updatedAt": "2026-08-26T16:32:11.000Z",
+  "updatedAt": "2026-08-26T19:16:11.000Z",
   "recentTweets": [
+    {
+      "id": "2092675679724978506",
+      "url": "https://x.com/thsottiaux/status/2092675679724978506",
+      "text": "@slopshipper Dear Viktor, it's all forgiven. Glad you found your usage back. Let's build!",
+      "at": "2026-08-26T18:08:56.000Z",
+      "replies": 27,
+      "reposts": 0,
+      "likes": 223
+    },
     {
       "id": "2092491252449366355",
       "url": "https://x.com/thsottiaux/status/2092491252449366355",
       "text": "Both",
       "at": "2026-08-26T05:56:05.000Z",
-      "replies": 23,
+      "replies": 25,
       "reposts": 1,
-      "likes": 171
+      "likes": 183
     },
     {
       "id": "2092490655864127909",
       "url": "https://x.com/thsottiaux/status/2092490655864127909",
       "text": "Reseted you mean?",
       "at": "2026-08-26T05:53:43.000Z",
-      "replies": 43,
-      "reposts": 6,
-      "likes": 898
-    },
-    {
-      "id": "2092316228497063958",
-      "url": "https://x.com/thsottiaux/status/2092316228497063958",
-      "text": "@s_batzoglou Not so random, but yes",
-      "at": "2026-08-25T18:20:36.000Z",
-      "replies": 54,
-      "reposts": 5,
-      "likes": 559
+      "replies": 45,
+      "reposts": 7,
+      "likes": 961
     }
   ]
 }
