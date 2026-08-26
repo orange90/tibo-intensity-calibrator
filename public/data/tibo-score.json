@@ -7,16 +7,16 @@
   "signalActive": false,
   "postCount": 25,
   "eventCount": 52,
-  "updatedAt": "2026-08-26T19:16:11.000Z",
+  "updatedAt": "2026-08-26T23:27:11.000Z",
   "recentTweets": [
     {
       "id": "2092675679724978506",
       "url": "https://x.com/thsottiaux/status/2092675679724978506",
       "text": "@slopshipper Dear Viktor, it's all forgiven. Glad you found your usage back. Let's build!",
       "at": "2026-08-26T18:08:56.000Z",
-      "replies": 27,
+      "replies": 30,
       "reposts": 0,
-      "likes": 223
+      "likes": 241
     },
     {
       "id": "2092491252449366355",
@@ -25,16 +25,16 @@
       "at": "2026-08-26T05:56:05.000Z",
       "replies": 25,
       "reposts": 1,
-      "likes": 183
+      "likes": 197
     },
     {
       "id": "2092490655864127909",
       "url": "https://x.com/thsottiaux/status/2092490655864127909",
       "text": "Reseted you mean?",
       "at": "2026-08-26T05:53:43.000Z",
-      "replies": 45,
-      "reposts": 7,
-      "likes": 961
+      "replies": 48,
+      "reposts": 8,
+      "likes": 1025
     }
   ]
 }
