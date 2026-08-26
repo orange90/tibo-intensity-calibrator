@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 24,
   "eventCount": 52,
-  "updatedAt": "2026-08-26T14:58:46.000Z",
+  "updatedAt": "2026-08-26T16:32:11.000Z",
   "recentTweets": [
     {
       "id": "2092491252449366355",
       "url": "https://x.com/thsottiaux/status/2092491252449366355",
       "text": "Both",
       "at": "2026-08-26T05:56:05.000Z",
-      "replies": 21,
-      "reposts": 0,
-      "likes": 153
+      "replies": 23,
+      "reposts": 1,
+      "likes": 171
     },
     {
       "id": "2092490655864127909",
       "url": "https://x.com/thsottiaux/status/2092490655864127909",
       "text": "Reseted you mean?",
       "at": "2026-08-26T05:53:43.000Z",
-      "replies": 42,
+      "replies": 43,
       "reposts": 6,
-      "likes": 846
+      "likes": 898
     },
     {
       "id": "2092316228497063958",
@@ -34,7 +34,7 @@
       "at": "2026-08-25T18:20:36.000Z",
       "replies": 54,
       "reposts": 5,
-      "likes": 555
+      "likes": 559
     }
   ]
 }
