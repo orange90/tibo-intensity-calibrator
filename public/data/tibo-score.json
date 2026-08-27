@@ -1,40 +1,40 @@
 {
   "date": "2026-08-27",
-  "score": 21,
-  "stage": "硬TIBO",
-  "signalStrength": 0.7,
+  "score": 30,
+  "stage": "圣TIBO",
+  "signalStrength": 1,
   "signalKind": "reset",
-  "signalActive": false,
-  "postCount": 25,
-  "eventCount": 52,
-  "updatedAt": "2026-08-27T09:35:58.000Z",
+  "signalActive": true,
+  "postCount": 27,
+  "eventCount": 53,
+  "updatedAt": "2026-08-27T20:25:35.000Z",
   "recentTweets": [
+    {
+      "id": "2093014447833116908",
+      "url": "https://x.com/thsottiaux/status/2093014447833116908",
+      "text": "Never slept better and feeling reseted. Brand new me and brand new usage for all ChatGPT Work and Codex users. Regaining my youth one button press at a time.\n\nHappy Thursday",
+      "at": "2026-08-27T16:35:05.000Z",
+      "replies": 1424,
+      "reposts": 338,
+      "likes": 12396
+    },
+    {
+      "id": "2092993835953787255",
+      "url": "https://x.com/thsottiaux/status/2092993835953787255",
+      "text": "I always deliver",
+      "at": "2026-08-27T15:13:11.000Z",
+      "replies": 40,
+      "reposts": 1,
+      "likes": 314
+    },
     {
       "id": "2092862554632826968",
       "url": "https://x.com/thsottiaux/status/2092862554632826968",
       "text": "A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow and dust it up",
       "at": "2026-08-27T06:31:31.000Z",
-      "replies": 995,
-      "reposts": 198,
-      "likes": 6793
-    },
-    {
-      "id": "2092675679724978506",
-      "url": "https://x.com/thsottiaux/status/2092675679724978506",
-      "text": "@slopshipper Dear Viktor, it's all forgiven. Glad you found your usage back. Let's build!",
-      "at": "2026-08-26T18:08:56.000Z",
-      "replies": 30,
-      "reposts": 1,
-      "likes": 271
-    },
-    {
-      "id": "2092491252449366355",
-      "url": "https://x.com/thsottiaux/status/2092491252449366355",
-      "text": "Both",
-      "at": "2026-08-26T05:56:05.000Z",
-      "replies": 26,
-      "reposts": 1,
-      "likes": 220
+      "replies": 1615,
+      "reposts": 315,
+      "likes": 12593
     }
   ]
 }
