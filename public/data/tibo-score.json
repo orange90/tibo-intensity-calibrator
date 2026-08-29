@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
@@ -7,34 +7,34 @@
   "signalActive": true,
   "postCount": 28,
   "eventCount": 53,
-  "updatedAt": "2026-08-28T18:36:02.000Z",
+  "updatedAt": "2026-08-29T02:08:02.000Z",
   "recentTweets": [
     {
       "id": "2093351797830422812",
       "url": "https://x.com/thsottiaux/status/2093351797830422812",
       "text": "@buildwithrajath Always improving. Team working hard on infra and usage optimizations",
       "at": "2026-08-28T14:55:35.000Z",
-      "replies": 36,
-      "reposts": 2,
-      "likes": 455
+      "replies": 53,
+      "reposts": 3,
+      "likes": 742
     },
     {
       "id": "2093214036972474405",
       "url": "https://x.com/thsottiaux/status/2093214036972474405",
       "text": "Just in a good mood",
       "at": "2026-08-28T05:48:11.000Z",
-      "replies": 72,
+      "replies": 79,
       "reposts": 6,
-      "likes": 985
+      "likes": 1095
     },
     {
       "id": "2093014447833116908",
       "url": "https://x.com/thsottiaux/status/2093014447833116908",
       "text": "Never slept better and feeling reseted. Brand new me and brand new usage for all ChatGPT Work and Codex users. Regaining my youth one button press at a time.\n\nHappy Thursday",
       "at": "2026-08-27T16:35:05.000Z",
-      "replies": 1760,
-      "reposts": 455,
-      "likes": 17000
+      "replies": 1763,
+      "reposts": 462,
+      "likes": 17158
     }
   ]
 }
