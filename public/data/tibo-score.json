@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 29,
-  "eventCount": 53,
-  "updatedAt": "2026-08-29T18:24:45.000Z",
+  "postCount": 31,
+  "eventCount": 55,
+  "updatedAt": "2026-08-29T21:40:45.000Z",
   "recentTweets": [
+    {
+      "id": "2093801838504186008",
+      "url": "https://x.com/thsottiaux/status/2093801838504186008",
+      "text": "Landing 2:30pm PST",
+      "at": "2026-08-29T20:43:53.000Z",
+      "replies": 132,
+      "reposts": 24,
+      "likes": 985
+    },
+    {
+      "id": "2093801758665715784",
+      "url": "https://x.com/thsottiaux/status/2093801758665715784",
+      "text": "We are reseting usage for all paid users of Codex and ChatGPT Work.\n\nPlease continue reading for an update on Codex usage limits. The team has been working around the clock, going through thousands of reports and shipping fixes.\n\nDepending on how you use Codex, you should see",
+      "at": "2026-08-29T20:43:34.000Z",
+      "replies": 597,
+      "reposts": 319,
+      "likes": 5912
+    },
     {
       "id": "2093551005711679557",
       "url": "https://x.com/thsottiaux/status/2093551005711679557",
       "text": "There is a place and a time for resets. Soon, but not today",
       "at": "2026-08-29T04:07:10.000Z",
-      "replies": 82,
+      "replies": 86,
       "reposts": 9,
-      "likes": 1183
-    },
-    {
-      "id": "2093351797830422812",
-      "url": "https://x.com/thsottiaux/status/2093351797830422812",
-      "text": "@buildwithrajath Always improving. Team working hard on infra and usage optimizations",
-      "at": "2026-08-28T14:55:35.000Z",
-      "replies": 56,
-      "reposts": 3,
-      "likes": 833
-    },
-    {
-      "id": "2093214036972474405",
-      "url": "https://x.com/thsottiaux/status/2093214036972474405",
-      "text": "Just in a good mood",
-      "at": "2026-08-28T05:48:11.000Z",
-      "replies": 83,
-      "reposts": 8,
-      "likes": 1210
+      "likes": 1253
     }
   ]
 }
