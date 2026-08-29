@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 28,
+  "postCount": 29,
   "eventCount": 53,
-  "updatedAt": "2026-08-29T02:08:02.000Z",
+  "updatedAt": "2026-08-29T09:00:51.000Z",
   "recentTweets": [
+    {
+      "id": "2093551005711679557",
+      "url": "https://x.com/thsottiaux/status/2093551005711679557",
+      "text": "There is a place and a time for resets. Soon, but not today",
+      "at": "2026-08-29T04:07:10.000Z",
+      "replies": 66,
+      "reposts": 9,
+      "likes": 745
+    },
     {
       "id": "2093351797830422812",
       "url": "https://x.com/thsottiaux/status/2093351797830422812",
       "text": "@buildwithrajath Always improving. Team working hard on infra and usage optimizations",
       "at": "2026-08-28T14:55:35.000Z",
-      "replies": 53,
+      "replies": 55,
       "reposts": 3,
-      "likes": 742
+      "likes": 791
     },
     {
       "id": "2093214036972474405",
       "url": "https://x.com/thsottiaux/status/2093214036972474405",
       "text": "Just in a good mood",
       "at": "2026-08-28T05:48:11.000Z",
-      "replies": 79,
-      "reposts": 6,
-      "likes": 1095
-    },
-    {
-      "id": "2093014447833116908",
-      "url": "https://x.com/thsottiaux/status/2093014447833116908",
-      "text": "Never slept better and feeling reseted. Brand new me and brand new usage for all ChatGPT Work and Codex users. Regaining my youth one button press at a time.\n\nHappy Thursday",
-      "at": "2026-08-27T16:35:05.000Z",
-      "replies": 1763,
-      "reposts": 462,
-      "likes": 17158
+      "replies": 81,
+      "reposts": 8,
+      "likes": 1154
     }
   ]
 }
