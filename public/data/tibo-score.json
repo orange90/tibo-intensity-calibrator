@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 30,
-  "eventCount": 54,
-  "updatedAt": "2026-08-30T00:15:45.000Z",
+  "postCount": 25,
+  "eventCount": 56,
+  "updatedAt": "2026-08-30T06:35:37.000Z",
   "recentTweets": [
+    {
+      "id": "2093811840258293947",
+      "url": "https://x.com/thsottiaux/status/2093811840258293947",
+      "text": "This celebration is moved to tomorrow as the button was already pressed today. https://t.co/lAywb9TV44",
+      "at": "2026-08-29T21:23:38.000Z",
+      "replies": 789,
+      "reposts": 227,
+      "likes": 6801
+    },
     {
       "id": "2093801838504186008",
       "url": "https://x.com/thsottiaux/status/2093801838504186008",
       "text": "Landing 2:30pm PST",
       "at": "2026-08-29T20:43:53.000Z",
-      "replies": 152,
-      "reposts": 29,
-      "likes": 1458
+      "replies": 171,
+      "reposts": 32,
+      "likes": 1877
     },
     {
       "id": "2093801758665715784",
       "url": "https://x.com/thsottiaux/status/2093801758665715784",
       "text": "We are reseting usage for all paid users of Codex and ChatGPT Work.\n\nPlease continue reading for an update on Codex usage limits. The team has been working around the clock, going through thousands of reports and shipping fixes.\n\nDepending on how you use Codex, you should see",
       "at": "2026-08-29T20:43:34.000Z",
-      "replies": 918,
-      "reposts": 583,
-      "likes": 11020
-    },
-    {
-      "id": "2093551005711679557",
-      "url": "https://x.com/thsottiaux/status/2093551005711679557",
-      "text": "There is a place and a time for resets. Soon, but not today",
-      "at": "2026-08-29T04:07:10.000Z",
-      "replies": 87,
-      "reposts": 9,
-      "likes": 1276
+      "replies": 1267,
+      "reposts": 860,
+      "likes": 15935
     }
   ]
 }
