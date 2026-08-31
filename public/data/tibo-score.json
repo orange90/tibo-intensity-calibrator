@@ -1,40 +1,40 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 27,
-  "eventCount": 58,
-  "updatedAt": "2026-08-30T23:25:18.000Z",
+  "postCount": 28,
+  "eventCount": 60,
+  "updatedAt": "2026-08-31T05:26:05.000Z",
   "recentTweets": [
     {
-      "id": "2094144275957350900",
-      "url": "https://x.com/thsottiaux/status/2094144275957350900",
-      "text": "Your Codex and ChatGPT Work reset will land at 6pm PST. \n\nI challenge you to burn as much usage as you can and discover and the latest awesome features. \n\nTime to go /fast",
-      "at": "2026-08-30T19:24:37.000Z",
-      "replies": 1536,
-      "reposts": 404,
-      "likes": 9332
+      "id": "2094293383573545000",
+      "url": "https://x.com/thsottiaux/status/2094293383573545000",
+      "text": "I try to pre-announce them these days when I can",
+      "at": "2026-08-31T05:17:07.000Z",
+      "replies": 6,
+      "reposts": 0,
+      "likes": 67
     },
     {
-      "id": "2094143384273461546",
-      "url": "https://x.com/thsottiaux/status/2094143384273461546",
-      "text": "More ultra, more fast",
-      "at": "2026-08-30T19:21:04.000Z",
-      "replies": 83,
-      "reposts": 6,
-      "likes": 800
+      "id": "2094254532020818191",
+      "url": "https://x.com/thsottiaux/status/2094254532020818191",
+      "text": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.\n\nThe Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin. https://t.co/vMchMCT80Z",
+      "at": "2026-08-31T02:42:44.000Z",
+      "replies": 320,
+      "reposts": 191,
+      "likes": 4630
     },
     {
-      "id": "2094143054039183573",
-      "url": "https://x.com/thsottiaux/status/2094143054039183573",
-      "text": "Yes",
-      "at": "2026-08-30T19:19:46.000Z",
-      "replies": 69,
-      "reposts": 3,
-      "likes": 690
+      "id": "2094252447271366730",
+      "url": "https://x.com/thsottiaux/status/2094252447271366730",
+      "text": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.\n\nSee you soon for more news from The Reset Company. https://t.co/7Yc5znAJIc",
+      "at": "2026-08-31T02:34:27.000Z",
+      "replies": 474,
+      "reposts": 210,
+      "likes": 5776
     }
   ]
 }
