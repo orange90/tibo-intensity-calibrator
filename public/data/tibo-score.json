@@ -7,16 +7,16 @@
   "signalActive": true,
   "postCount": 28,
   "eventCount": 59,
-  "updatedAt": "2026-09-02T00:04:47.000Z",
+  "updatedAt": "2026-09-02T04:27:51.000Z",
   "recentTweets": [
     {
       "id": "2094826841622348106",
       "url": "https://x.com/thsottiaux/status/2094826841622348106",
       "text": "https://t.co/DxRAhWI0y8",
       "at": "2026-09-01T16:36:53.000Z",
-      "replies": 161,
+      "replies": 174,
       "reposts": 12,
-      "likes": 1169
+      "likes": 1345
     },
     {
       "id": "2094293383573545000",
@@ -25,16 +25,16 @@
       "at": "2026-08-31T05:17:07.000Z",
       "replies": 117,
       "reposts": 14,
-      "likes": 2059
+      "likes": 2068
     },
     {
       "id": "2094254532020818191",
       "url": "https://x.com/thsottiaux/status/2094254532020818191",
       "text": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.\n\nThe Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin. https://t.co/vMchMCT80Z",
       "at": "2026-08-31T02:42:44.000Z",
-      "replies": 696,
-      "reposts": 486,
-      "likes": 12305
+      "replies": 700,
+      "reposts": 488,
+      "likes": 12364
     }
   ]
 }
