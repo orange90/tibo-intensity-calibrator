@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
@@ -7,16 +7,16 @@
   "signalActive": false,
   "postCount": 25,
   "eventCount": 59,
-  "updatedAt": "2026-09-02T21:45:51.000Z",
+  "updatedAt": "2026-09-03T00:09:51.000Z",
   "recentTweets": [
     {
       "id": "2094826841622348106",
       "url": "https://x.com/thsottiaux/status/2094826841622348106",
       "text": "https://t.co/DxRAhWI0y8",
       "at": "2026-09-01T16:36:53.000Z",
-      "replies": 203,
+      "replies": 205,
       "reposts": 15,
-      "likes": 1612
+      "likes": 1641
     },
     {
       "id": "2094293383573545000",
@@ -25,7 +25,7 @@
       "at": "2026-08-31T05:17:07.000Z",
       "replies": 117,
       "reposts": 14,
-      "likes": 2071
+      "likes": 2074
     },
     {
       "id": "2094254532020818191",
@@ -34,7 +34,7 @@
       "at": "2026-08-31T02:42:44.000Z",
       "replies": 702,
       "reposts": 491,
-      "likes": 12442
+      "likes": 12447
     }
   ]
 }
