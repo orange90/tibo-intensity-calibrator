@@ -100,13 +100,13 @@
   },
   {
     "date": "2026-09-03",
-    "score": 21,
-    "stage": "硬TIBO",
-    "signalStrength": 0.7,
+    "score": 17,
+    "stage": "笑TIBO",
+    "signalStrength": 0.55,
     "signalKind": "reset",
     "signalActive": false,
-    "postCount": 25,
+    "postCount": 26,
     "eventCount": 59,
-    "updatedAt": "2026-09-03T00:09:51.000Z"
+    "updatedAt": "2026-09-03T05:43:51.000Z"
   }
 ]
