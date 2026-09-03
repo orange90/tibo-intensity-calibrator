@@ -5,18 +5,27 @@
   "signalStrength": 0.55,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 26,
+  "postCount": 27,
   "eventCount": 59,
-  "updatedAt": "2026-09-03T18:34:00.000Z",
+  "updatedAt": "2026-09-03T21:39:00.000Z",
   "recentTweets": [
+    {
+      "id": "2095597659545591917",
+      "url": "https://x.com/thsottiaux/status/2095597659545591917",
+      "text": "Across the plans Astra will be included in the normal usage allocation and you will be able to use 100% of it towards Astra.",
+      "at": "2026-09-03T19:39:51.000Z",
+      "replies": 254,
+      "reposts": 159,
+      "likes": 5014
+    },
     {
       "id": "2095370639892955269",
       "url": "https://x.com/thsottiaux/status/2095370639892955269",
       "text": "Which Codex reset?",
       "at": "2026-09-03T04:37:45.000Z",
-      "replies": 314,
+      "replies": 317,
       "reposts": 17,
-      "likes": 2216
+      "likes": 2276
     },
     {
       "id": "2094826841622348106",
@@ -25,16 +34,7 @@
       "at": "2026-09-01T16:36:53.000Z",
       "replies": 215,
       "reposts": 17,
-      "likes": 1782
-    },
-    {
-      "id": "2094293383573545000",
-      "url": "https://x.com/thsottiaux/status/2094293383573545000",
-      "text": "I try to pre-announce them these days when I can",
-      "at": "2026-08-31T05:17:07.000Z",
-      "replies": 117,
-      "reposts": 14,
-      "likes": 2074
+      "likes": 1794
     }
   ]
 }
