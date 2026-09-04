@@ -1,40 +1,40 @@
 {
-  "date": "2026-09-03",
-  "score": 17,
-  "stage": "笑TIBO",
-  "signalStrength": 0.55,
-  "signalKind": "reset",
+  "date": "2026-09-04",
+  "score": 23,
+  "stage": "硬TIBO",
+  "signalStrength": 0.75,
+  "signalKind": "banked",
   "signalActive": false,
-  "postCount": 27,
-  "eventCount": 59,
-  "updatedAt": "2026-09-03T21:39:00.000Z",
+  "postCount": 28,
+  "eventCount": 60,
+  "updatedAt": "2026-09-04T00:01:00.000Z",
   "recentTweets": [
+    {
+      "id": "2095651088502591861",
+      "url": "https://x.com/thsottiaux/status/2095651088502591861",
+      "text": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today.  Team is moving mountains to give access as fast as we can.\n\nFirst one will land in ~ 3 hours. There is still time to create your account if you don't have one.",
+      "at": "2026-09-03T23:12:09.000Z",
+      "replies": 1651,
+      "reposts": 1145,
+      "likes": 13308
+    },
     {
       "id": "2095597659545591917",
       "url": "https://x.com/thsottiaux/status/2095597659545591917",
       "text": "Across the plans Astra will be included in the normal usage allocation and you will be able to use 100% of it towards Astra.",
       "at": "2026-09-03T19:39:51.000Z",
-      "replies": 254,
-      "reposts": 159,
-      "likes": 5014
+      "replies": 310,
+      "reposts": 226,
+      "likes": 6501
     },
     {
       "id": "2095370639892955269",
       "url": "https://x.com/thsottiaux/status/2095370639892955269",
       "text": "Which Codex reset?",
       "at": "2026-09-03T04:37:45.000Z",
-      "replies": 317,
+      "replies": 319,
       "reposts": 17,
-      "likes": 2276
-    },
-    {
-      "id": "2094826841622348106",
-      "url": "https://x.com/thsottiaux/status/2094826841622348106",
-      "text": "https://t.co/DxRAhWI0y8",
-      "at": "2026-09-01T16:36:53.000Z",
-      "replies": 215,
-      "reposts": 17,
-      "likes": 1794
+      "likes": 2305
     }
   ]
 }
