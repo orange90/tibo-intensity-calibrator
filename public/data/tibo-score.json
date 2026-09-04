@@ -5,27 +5,27 @@
   "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 28,
+  "postCount": 27,
   "eventCount": 60,
-  "updatedAt": "2026-09-04T04:23:40.000Z",
+  "updatedAt": "2026-09-04T09:33:58.000Z",
   "recentTweets": [
     {
       "id": "2095651088502591861",
       "url": "https://x.com/thsottiaux/status/2095651088502591861",
       "text": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today.  Team is moving mountains to give access as fast as we can.\n\nFirst one will land in ~ 3 hours. There is still time to create your account if you don't have one.",
       "at": "2026-09-03T23:12:09.000Z",
-      "replies": 3872,
-      "reposts": 2651,
-      "likes": 32438
+      "replies": 4922,
+      "reposts": 3197,
+      "likes": 42362
     },
     {
       "id": "2095597659545591917",
       "url": "https://x.com/thsottiaux/status/2095597659545591917",
       "text": "Across the plans Astra will be included in the normal usage allocation and you will be able to use 100% of it towards Astra.",
       "at": "2026-09-03T19:39:51.000Z",
-      "replies": 335,
-      "reposts": 264,
-      "likes": 7583
+      "replies": 349,
+      "reposts": 288,
+      "likes": 8264
     },
     {
       "id": "2095370639892955269",
@@ -34,7 +34,7 @@
       "at": "2026-09-03T04:37:45.000Z",
       "replies": 319,
       "reposts": 18,
-      "likes": 2318
+      "likes": 2339
     }
   ]
 }
