@@ -130,5 +130,16 @@
     "postCount": 11,
     "eventCount": 55,
     "updatedAt": "2026-09-24T22:19:52.000Z"
+  },
+  {
+    "date": "2026-09-25",
+    "score": 26,
+    "stage": "神TIBO",
+    "signalStrength": 0.85,
+    "signalKind": "banked",
+    "signalActive": true,
+    "postCount": 11,
+    "eventCount": 55,
+    "updatedAt": "2026-09-25T01:24:52.000Z"
   }
 ]
