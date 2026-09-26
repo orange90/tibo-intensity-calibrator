@@ -1,31 +1,31 @@
 {
   "date": "2026-09-26",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "score": 30,
+  "stage": "圣TIBO",
+  "signalStrength": 1,
   "signalKind": "reset",
-  "signalActive": false,
+  "signalActive": true,
   "postCount": 8,
-  "eventCount": 55,
-  "updatedAt": "2026-09-26T13:01:00.000Z",
+  "eventCount": 58,
+  "updatedAt": "2026-09-26T17:06:00.000Z",
   "recentTweets": [
     {
       "id": "2103637477760311522",
       "url": "https://x.com/thsottiaux/status/2103637477760311522",
       "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
       "at": "2026-09-26T00:07:13.000Z",
-      "replies": 3230,
-      "reposts": 749,
-      "likes": 15704
+      "replies": 3998,
+      "reposts": 793,
+      "likes": 16634
     },
     {
       "id": "2103622639386574979",
       "url": "https://x.com/thsottiaux/status/2103622639386574979",
       "text": "o no :(",
       "at": "2026-09-25T23:08:15.000Z",
-      "replies": 517,
-      "reposts": 44,
-      "likes": 3056
+      "replies": 524,
+      "reposts": 48,
+      "likes": 3220
     },
     {
       "id": "2102466463156285686",
