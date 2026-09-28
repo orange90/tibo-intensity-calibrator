@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
@@ -7,7 +7,7 @@
   "signalActive": true,
   "postCount": 10,
   "eventCount": 60,
-  "updatedAt": "2026-09-27T22:04:51.000Z",
+  "updatedAt": "2026-09-28T00:38:51.000Z",
   "recentTweets": [
     {
       "id": "2103963215885701493",
@@ -15,17 +15,17 @@
       "text": "Sorry Gia. More resets coming next week",
       "at": "2026-09-26T21:41:35.000Z",
       "replies": 370,
-      "reposts": 249,
-      "likes": 6287
+      "reposts": 250,
+      "likes": 6352
     },
     {
       "id": "2103911959544610829",
       "url": "https://x.com/thsottiaux/status/2103911959544610829",
       "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
       "at": "2026-09-26T18:17:54.000Z",
-      "replies": 2077,
-      "reposts": 459,
-      "likes": 15392
+      "replies": 2083,
+      "reposts": 460,
+      "likes": 15492
     },
     {
       "id": "2103637477760311522",
@@ -33,8 +33,8 @@
       "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
       "at": "2026-09-26T00:07:13.000Z",
       "replies": 4264,
-      "reposts": 817,
-      "likes": 17677
+      "reposts": 818,
+      "likes": 17690
     }
   ]
 }
