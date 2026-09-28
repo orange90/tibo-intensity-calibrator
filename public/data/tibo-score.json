@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 10,
+  "postCount": 11,
   "eventCount": 60,
-  "updatedAt": "2026-09-28T06:47:18.000Z",
+  "updatedAt": "2026-09-28T15:20:18.000Z",
   "recentTweets": [
+    {
+      "id": "2104467346945675347",
+      "url": "https://x.com/thsottiaux/status/2104467346945675347",
+      "text": "Taken by none other than the incredible @ah20im",
+      "at": "2026-09-28T07:04:49.000Z",
+      "replies": 50,
+      "reposts": 4,
+      "likes": 341
+    },
     {
       "id": "2103963215885701493",
       "url": "https://x.com/thsottiaux/status/2103963215885701493",
       "text": "Sorry Gia. More resets coming next week",
       "at": "2026-09-26T21:41:35.000Z",
-      "replies": 375,
-      "reposts": 257,
-      "likes": 6487
+      "replies": 386,
+      "reposts": 258,
+      "likes": 6602
     },
     {
       "id": "2103911959544610829",
       "url": "https://x.com/thsottiaux/status/2103911959544610829",
       "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
       "at": "2026-09-26T18:17:54.000Z",
-      "replies": 2105,
-      "reposts": 464,
-      "likes": 15782
-    },
-    {
-      "id": "2103637477760311522",
-      "url": "https://x.com/thsottiaux/status/2103637477760311522",
-      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
-      "at": "2026-09-26T00:07:13.000Z",
-      "replies": 4268,
-      "reposts": 819,
-      "likes": 17714
+      "replies": 2136,
+      "reposts": 471,
+      "likes": 16042
     }
   ]
 }
