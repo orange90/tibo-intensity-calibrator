@@ -5,36 +5,36 @@
   "signalStrength": 0.65,
   "signalKind": "candidate",
   "signalActive": true,
-  "postCount": 13,
+  "postCount": 17,
   "eventCount": 61,
-  "updatedAt": "2026-09-29T15:44:17.000Z",
+  "updatedAt": "2026-09-29T20:42:17.000Z",
   "recentTweets": [
     {
-      "id": "2104951965184925941",
-      "url": "https://x.com/thsottiaux/status/2104951965184925941",
-      "text": "I’ll explain the new Pro 200 plan differently, before I start live tweeting from DevDay on things that are going out!\n\nToday we are going to ship a number of things that increase what you can do across the Plus and Pro plans. A lot of compute is online for this increase. As we increase the floor, we are changing the relative difference between plans to be\n\nPlus = 1X\nPro 100 = 5X\nPro 200 = 10X\n\nand we are reopening subscriptions for Pro 200 (we had paused it). If you have an existing plan you will keep the 20X multiplier for a bit and also receive a lot of additional credits because we know changes are hard even if it means that everyone will get more in the end.",
-      "at": "2026-09-29T15:10:31.000Z",
-      "replies": 1605,
-      "reposts": 240,
-      "likes": 4317
+      "id": "2105006253986738615",
+      "url": "https://x.com/thsottiaux/status/2105006253986738615",
+      "text": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go.",
+      "at": "2026-09-29T18:46:14.000Z",
+      "replies": 332,
+      "reposts": 103,
+      "likes": 3671
     },
     {
-      "id": "2104838506363408740",
-      "url": "https://x.com/thsottiaux/status/2104838506363408740",
-      "text": "That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps. https://t.co/oR1Prs6pkT",
-      "at": "2026-09-29T07:39:40.000Z",
-      "replies": 1814,
-      "reposts": 209,
-      "likes": 7635
+      "id": "2104991765904375896",
+      "url": "https://x.com/thsottiaux/status/2104991765904375896",
+      "text": "We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have over 1.2B weekly users and will surface relevant plugins right in the conversations.",
+      "at": "2026-09-29T17:48:40.000Z",
+      "replies": 234,
+      "reposts": 143,
+      "likes": 4354
     },
     {
-      "id": "2104823812042940713",
-      "url": "https://x.com/thsottiaux/status/2104823812042940713",
-      "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This wee",
-      "at": "2026-09-29T06:41:17.000Z",
-      "replies": 6603,
-      "reposts": 1468,
-      "likes": 19539
+      "id": "2104991529416999243",
+      "url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "text": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Lovable, and many more.\n\nSign in with ChatGPT and go.",
+      "at": "2026-09-29T17:47:44.000Z",
+      "replies": 288,
+      "reposts": 193,
+      "likes": 4833
     }
   ]
 }
