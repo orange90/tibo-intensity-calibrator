@@ -1,40 +1,40 @@
 {
   "date": "2026-09-29",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
-  "signalKind": "reset",
+  "score": 20,
+  "stage": "硬TIBO",
+  "signalStrength": 0.65,
+  "signalKind": "candidate",
   "signalActive": true,
   "postCount": 13,
-  "eventCount": 62,
-  "updatedAt": "2026-09-29T08:23:07.000Z",
+  "eventCount": 61,
+  "updatedAt": "2026-09-29T15:44:17.000Z",
   "recentTweets": [
+    {
+      "id": "2104951965184925941",
+      "url": "https://x.com/thsottiaux/status/2104951965184925941",
+      "text": "I’ll explain the new Pro 200 plan differently, before I start live tweeting from DevDay on things that are going out!\n\nToday we are going to ship a number of things that increase what you can do across the Plus and Pro plans. A lot of compute is online for this increase. As we increase the floor, we are changing the relative difference between plans to be\n\nPlus = 1X\nPro 100 = 5X\nPro 200 = 10X\n\nand we are reopening subscriptions for Pro 200 (we had paused it). If you have an existing plan you will keep the 20X multiplier for a bit and also receive a lot of additional credits because we know changes are hard even if it means that everyone will get more in the end.",
+      "at": "2026-09-29T15:10:31.000Z",
+      "replies": 1605,
+      "reposts": 240,
+      "likes": 4317
+    },
     {
       "id": "2104838506363408740",
       "url": "https://x.com/thsottiaux/status/2104838506363408740",
       "text": "That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps. https://t.co/oR1Prs6pkT",
       "at": "2026-09-29T07:39:40.000Z",
-      "replies": 739,
-      "reposts": 91,
-      "likes": 2382
+      "replies": 1814,
+      "reposts": 209,
+      "likes": 7635
     },
     {
       "id": "2104823812042940713",
       "url": "https://x.com/thsottiaux/status/2104823812042940713",
       "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This wee",
       "at": "2026-09-29T06:41:17.000Z",
-      "replies": 3172,
-      "reposts": 803,
-      "likes": 9305
-    },
-    {
-      "id": "2104467346945675347",
-      "url": "https://x.com/thsottiaux/status/2104467346945675347",
-      "text": "Taken by none other than the incredible @ah20im",
-      "at": "2026-09-28T07:04:49.000Z",
-      "replies": 83,
-      "reposts": 5,
-      "likes": 494
+      "replies": 6603,
+      "reposts": 1468,
+      "likes": 19539
     }
   ]
 }
