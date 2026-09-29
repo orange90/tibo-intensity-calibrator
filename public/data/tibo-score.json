@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
@@ -7,34 +7,34 @@
   "signalActive": true,
   "postCount": 11,
   "eventCount": 60,
-  "updatedAt": "2026-09-28T21:56:18.000Z",
+  "updatedAt": "2026-09-29T01:52:18.000Z",
   "recentTweets": [
     {
       "id": "2104467346945675347",
       "url": "https://x.com/thsottiaux/status/2104467346945675347",
       "text": "Taken by none other than the incredible @ah20im",
       "at": "2026-09-28T07:04:49.000Z",
-      "replies": 62,
+      "replies": 70,
       "reposts": 5,
-      "likes": 423
+      "likes": 445
     },
     {
       "id": "2103963215885701493",
       "url": "https://x.com/thsottiaux/status/2103963215885701493",
       "text": "Sorry Gia. More resets coming next week",
       "at": "2026-09-26T21:41:35.000Z",
-      "replies": 390,
+      "replies": 393,
       "reposts": 259,
-      "likes": 6639
+      "likes": 6646
     },
     {
       "id": "2103911959544610829",
       "url": "https://x.com/thsottiaux/status/2103911959544610829",
       "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
       "at": "2026-09-26T18:17:54.000Z",
-      "replies": 2142,
+      "replies": 2146,
       "reposts": 471,
-      "likes": 16127
+      "likes": 16142
     }
   ]
 }
