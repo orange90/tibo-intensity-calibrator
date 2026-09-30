@@ -1,13 +1,13 @@
 {
   "date": "2026-09-30",
-  "score": 23,
+  "score": 20,
   "stage": "硬TIBO",
-  "signalStrength": 0.75,
+  "signalStrength": 0.65,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 20,
+  "postCount": 19,
   "eventCount": 62,
-  "updatedAt": "2026-09-30T13:37:24.000Z",
+  "updatedAt": "2026-09-30T19:13:24.000Z",
   "recentTweets": [
     {
       "id": "2105120499177230798",
@@ -16,7 +16,7 @@
       "at": "2026-09-30T02:20:12.000Z",
       "replies": 13,
       "reposts": 1,
-      "likes": 118
+      "likes": 125
     },
     {
       "id": "2105120226027450685",
@@ -25,16 +25,16 @@
       "at": "2026-09-30T02:19:07.000Z",
       "replies": 14,
       "reposts": 3,
-      "likes": 152
+      "likes": 183
     },
     {
-      "id": "2105102312167575701",
-      "url": "https://x.com/thsottiaux/status/2105102312167575701",
-      "text": "I got community noted, but the note is wrong 😅\n\nYour primary dot is included in your plan and will be available 24/7. If you ask it to create a codex task for you, that one will be drawing usage as usual. But when your dot does work directly, that uses nothing and is all on top of your plans usage. In the future you will be able to increase the speed and allow your dot to have more bandwidth, this will be a paid feature, but the baseline functionality will always just be included in your plan.",
-      "at": "2026-09-30T01:07:56.000Z",
-      "replies": 535,
-      "reposts": 129,
-      "likes": 3832
+      "id": "2105006253986738615",
+      "url": "https://x.com/thsottiaux/status/2105006253986738615",
+      "text": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go.",
+      "at": "2026-09-29T18:46:14.000Z",
+      "replies": 429,
+      "reposts": 198,
+      "likes": 6354
     }
   ]
 }

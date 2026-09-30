@@ -188,13 +188,13 @@
   },
   {
     "date": "2026-09-30",
-    "score": 23,
+    "score": 20,
     "stage": "硬TIBO",
-    "signalStrength": 0.75,
+    "signalStrength": 0.65,
     "signalKind": "banked",
     "signalActive": false,
-    "postCount": 20,
+    "postCount": 19,
     "eventCount": 62,
-    "updatedAt": "2026-09-30T13:37:24.000Z"
+    "updatedAt": "2026-09-30T19:13:24.000Z"
   }
 ]
