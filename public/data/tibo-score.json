@@ -1,40 +1,40 @@
 {
   "date": "2026-09-30",
-  "score": 14,
-  "stage": "笑TIBO",
-  "signalStrength": 0.45,
-  "signalKind": "related",
+  "score": 23,
+  "stage": "硬TIBO",
+  "signalStrength": 0.75,
+  "signalKind": "banked",
   "signalActive": false,
   "postCount": 20,
-  "eventCount": 61,
-  "updatedAt": "2026-09-30T06:38:52.000Z",
+  "eventCount": 62,
+  "updatedAt": "2026-09-30T13:37:24.000Z",
   "recentTweets": [
     {
       "id": "2105120499177230798",
       "url": "https://x.com/thsottiaux/status/2105120499177230798",
       "text": "👋",
       "at": "2026-09-30T02:20:12.000Z",
-      "replies": 12,
+      "replies": 13,
       "reposts": 1,
-      "likes": 98
+      "likes": 118
     },
     {
       "id": "2105120226027450685",
       "url": "https://x.com/thsottiaux/status/2105120226027450685",
       "text": "Shhhhhh",
       "at": "2026-09-30T02:19:07.000Z",
-      "replies": 12,
+      "replies": 14,
       "reposts": 3,
-      "likes": 111
+      "likes": 152
     },
     {
       "id": "2105102312167575701",
       "url": "https://x.com/thsottiaux/status/2105102312167575701",
       "text": "I got community noted, but the note is wrong 😅\n\nYour primary dot is included in your plan and will be available 24/7. If you ask it to create a codex task for you, that one will be drawing usage as usual. But when your dot does work directly, that uses nothing and is all on top of your plans usage. In the future you will be able to increase the speed and allow your dot to have more bandwidth, this will be a paid feature, but the baseline functionality will always just be included in your plan.",
       "at": "2026-09-30T01:07:56.000Z",
-      "replies": 421,
-      "reposts": 106,
-      "likes": 2897
+      "replies": 535,
+      "reposts": 129,
+      "likes": 3832
     }
   ]
 }
