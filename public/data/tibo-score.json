@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-29",
-  "score": 20,
-  "stage": "硬TIBO",
-  "signalStrength": 0.65,
-  "signalKind": "candidate",
-  "signalActive": true,
+  "date": "2026-09-30",
+  "score": 14,
+  "stage": "笑TIBO",
+  "signalStrength": 0.45,
+  "signalKind": "related",
+  "signalActive": false,
   "postCount": 17,
   "eventCount": 61,
-  "updatedAt": "2026-09-29T20:42:17.000Z",
+  "updatedAt": "2026-09-30T00:21:52.000Z",
   "recentTweets": [
     {
       "id": "2105006253986738615",
       "url": "https://x.com/thsottiaux/status/2105006253986738615",
       "text": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go.",
       "at": "2026-09-29T18:46:14.000Z",
-      "replies": 332,
-      "reposts": 103,
-      "likes": 3671
+      "replies": 400,
+      "reposts": 175,
+      "likes": 5705
     },
     {
       "id": "2104991765904375896",
       "url": "https://x.com/thsottiaux/status/2104991765904375896",
       "text": "We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have over 1.2B weekly users and will surface relevant plugins right in the conversations.",
       "at": "2026-09-29T17:48:40.000Z",
-      "replies": 234,
-      "reposts": 143,
-      "likes": 4354
+      "replies": 265,
+      "reposts": 181,
+      "likes": 5458
     },
     {
       "id": "2104991529416999243",
