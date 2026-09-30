@@ -5,36 +5,36 @@
   "signalStrength": 0.45,
   "signalKind": "related",
   "signalActive": false,
-  "postCount": 17,
+  "postCount": 20,
   "eventCount": 61,
-  "updatedAt": "2026-09-30T00:21:52.000Z",
+  "updatedAt": "2026-09-30T06:38:52.000Z",
   "recentTweets": [
     {
-      "id": "2105006253986738615",
-      "url": "https://x.com/thsottiaux/status/2105006253986738615",
-      "text": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go.",
-      "at": "2026-09-29T18:46:14.000Z",
-      "replies": 400,
-      "reposts": 175,
-      "likes": 5705
+      "id": "2105120499177230798",
+      "url": "https://x.com/thsottiaux/status/2105120499177230798",
+      "text": "👋",
+      "at": "2026-09-30T02:20:12.000Z",
+      "replies": 12,
+      "reposts": 1,
+      "likes": 98
     },
     {
-      "id": "2104991765904375896",
-      "url": "https://x.com/thsottiaux/status/2104991765904375896",
-      "text": "We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have over 1.2B weekly users and will surface relevant plugins right in the conversations.",
-      "at": "2026-09-29T17:48:40.000Z",
-      "replies": 265,
-      "reposts": 181,
-      "likes": 5458
+      "id": "2105120226027450685",
+      "url": "https://x.com/thsottiaux/status/2105120226027450685",
+      "text": "Shhhhhh",
+      "at": "2026-09-30T02:19:07.000Z",
+      "replies": 12,
+      "reposts": 3,
+      "likes": 111
     },
     {
-      "id": "2104991529416999243",
-      "url": "https://x.com/thsottiaux/status/2104991529416999243",
-      "text": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Lovable, and many more.\n\nSign in with ChatGPT and go.",
-      "at": "2026-09-29T17:47:44.000Z",
-      "replies": 288,
-      "reposts": 193,
-      "likes": 4833
+      "id": "2105102312167575701",
+      "url": "https://x.com/thsottiaux/status/2105102312167575701",
+      "text": "I got community noted, but the note is wrong 😅\n\nYour primary dot is included in your plan and will be available 24/7. If you ask it to create a codex task for you, that one will be drawing usage as usual. But when your dot does work directly, that uses nothing and is all on top of your plans usage. In the future you will be able to increase the speed and allow your dot to have more bandwidth, this will be a paid feature, but the baseline functionality will always just be included in your plan.",
+      "at": "2026-09-30T01:07:56.000Z",
+      "replies": 421,
+      "reposts": 106,
+      "likes": 2897
     }
   ]
 }
