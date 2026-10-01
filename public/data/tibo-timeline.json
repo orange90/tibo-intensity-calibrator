@@ -199,13 +199,13 @@
   },
   {
     "date": "2026-10-01",
-    "score": 20,
-    "stage": "硬TIBO",
-    "signalStrength": 0.65,
-    "signalKind": "banked",
+    "score": 26,
+    "stage": "神TIBO",
+    "signalStrength": 0.85,
+    "signalKind": "reset",
     "signalActive": false,
-    "postCount": 20,
-    "eventCount": 62,
-    "updatedAt": "2026-10-01T13:04:17.000Z"
+    "postCount": 21,
+    "eventCount": 63,
+    "updatedAt": "2026-10-01T18:50:17.000Z"
   }
 ]

@@ -1,22 +1,31 @@
 {
   "date": "2026-10-01",
-  "score": 20,
-  "stage": "硬TIBO",
-  "signalStrength": 0.65,
-  "signalKind": "banked",
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
+  "signalKind": "reset",
   "signalActive": false,
-  "postCount": 20,
-  "eventCount": 62,
-  "updatedAt": "2026-10-01T13:04:17.000Z",
+  "postCount": 21,
+  "eventCount": 63,
+  "updatedAt": "2026-10-01T18:50:17.000Z",
   "recentTweets": [
+    {
+      "id": "2105672058269212820",
+      "url": "https://x.com/thsottiaux/status/2105672058269212820",
+      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
+      "at": "2026-10-01T14:51:54.000Z",
+      "replies": 2327,
+      "reposts": 171,
+      "likes": 6711
+    },
     {
       "id": "2105464274747527543",
       "url": "https://x.com/thsottiaux/status/2105464274747527543",
       "text": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. \n\nWithin ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday.",
       "at": "2026-10-01T01:06:15.000Z",
-      "replies": 1290,
-      "reposts": 437,
-      "likes": 11229
+      "replies": 1425,
+      "reposts": 470,
+      "likes": 12241
     },
     {
       "id": "2105120499177230798",
@@ -26,15 +35,6 @@
       "replies": 13,
       "reposts": 1,
       "likes": 132
-    },
-    {
-      "id": "2105120226027450685",
-      "url": "https://x.com/thsottiaux/status/2105120226027450685",
-      "text": "Shhhhhh",
-      "at": "2026-09-30T02:19:07.000Z",
-      "replies": 14,
-      "reposts": 3,
-      "likes": 192
     }
   ]
 }
