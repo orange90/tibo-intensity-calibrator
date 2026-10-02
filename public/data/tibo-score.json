@@ -7,34 +7,34 @@
   "signalActive": false,
   "postCount": 24,
   "eventCount": 64,
-  "updatedAt": "2026-10-02T09:39:19.000Z",
+  "updatedAt": "2026-10-02T16:13:26.000Z",
   "recentTweets": [
     {
       "id": "2105863620433453166",
       "url": "https://x.com/thsottiaux/status/2105863620433453166",
       "text": "Wrong strategy?",
       "at": "2026-10-02T03:33:06.000Z",
-      "replies": 174,
-      "reposts": 5,
-      "likes": 629
+      "replies": 231,
+      "reposts": 6,
+      "likes": 871
     },
     {
       "id": "2105863294267560169",
       "url": "https://x.com/thsottiaux/status/2105863294267560169",
       "text": "Please bask",
       "at": "2026-10-02T03:31:49.000Z",
-      "replies": 11,
+      "replies": 15,
       "reposts": 1,
-      "likes": 172
+      "likes": 253
     },
     {
       "id": "2105843926221660585",
       "url": "https://x.com/thsottiaux/status/2105843926221660585",
       "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
       "at": "2026-10-02T02:14:51.000Z",
-      "replies": 1798,
-      "reposts": 940,
-      "likes": 15112
+      "replies": 2181,
+      "reposts": 1071,
+      "likes": 18218
     }
   ]
 }
