@@ -5,36 +5,36 @@
   "signalStrength": 0.85,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 21,
-  "eventCount": 63,
-  "updatedAt": "2026-10-02T02:14:31.000Z",
+  "postCount": 24,
+  "eventCount": 64,
+  "updatedAt": "2026-10-02T09:39:19.000Z",
   "recentTweets": [
     {
-      "id": "2105672058269212820",
-      "url": "https://x.com/thsottiaux/status/2105672058269212820",
-      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
-      "at": "2026-10-01T14:51:54.000Z",
-      "replies": 2832,
-      "reposts": 224,
-      "likes": 8636
+      "id": "2105863620433453166",
+      "url": "https://x.com/thsottiaux/status/2105863620433453166",
+      "text": "Wrong strategy?",
+      "at": "2026-10-02T03:33:06.000Z",
+      "replies": 174,
+      "reposts": 5,
+      "likes": 629
     },
     {
-      "id": "2105464274747527543",
-      "url": "https://x.com/thsottiaux/status/2105464274747527543",
-      "text": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. \n\nWithin ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed compared to what we served yesterday.",
-      "at": "2026-10-01T01:06:15.000Z",
-      "replies": 1462,
-      "reposts": 490,
-      "likes": 12678
-    },
-    {
-      "id": "2105120499177230798",
-      "url": "https://x.com/thsottiaux/status/2105120499177230798",
-      "text": "👋",
-      "at": "2026-09-30T02:20:12.000Z",
-      "replies": 13,
+      "id": "2105863294267560169",
+      "url": "https://x.com/thsottiaux/status/2105863294267560169",
+      "text": "Please bask",
+      "at": "2026-10-02T03:31:49.000Z",
+      "replies": 11,
       "reposts": 1,
-      "likes": 132
+      "likes": 172
+    },
+    {
+      "id": "2105843926221660585",
+      "url": "https://x.com/thsottiaux/status/2105843926221660585",
+      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "at": "2026-10-02T02:14:51.000Z",
+      "replies": 1798,
+      "reposts": 940,
+      "likes": 15112
     }
   ]
 }
