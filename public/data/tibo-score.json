@@ -1,22 +1,31 @@
 {
-  "date": "2026-10-02",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "date": "2026-10-03",
+  "score": 30,
+  "stage": "圣TIBO",
+  "signalStrength": 1,
   "signalKind": "reset",
-  "signalActive": false,
-  "postCount": 24,
-  "eventCount": 64,
-  "updatedAt": "2026-10-02T21:17:40.000Z",
+  "signalActive": true,
+  "postCount": 25,
+  "eventCount": 65,
+  "updatedAt": "2026-10-03T01:08:40.000Z",
   "recentTweets": [
+    {
+      "id": "2106131810921136451",
+      "url": "https://x.com/thsottiaux/status/2106131810921136451",
+      "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
+      "at": "2026-10-02T21:18:48.000Z",
+      "replies": 1092,
+      "reposts": 243,
+      "likes": 6142
+    },
     {
       "id": "2105863620433453166",
       "url": "https://x.com/thsottiaux/status/2105863620433453166",
       "text": "Wrong strategy?",
       "at": "2026-10-02T03:33:06.000Z",
-      "replies": 247,
+      "replies": 250,
       "reposts": 6,
-      "likes": 964
+      "likes": 984
     },
     {
       "id": "2105863294267560169",
@@ -25,16 +34,7 @@
       "at": "2026-10-02T03:31:49.000Z",
       "replies": 16,
       "reposts": 2,
-      "likes": 290
-    },
-    {
-      "id": "2105843926221660585",
-      "url": "https://x.com/thsottiaux/status/2105843926221660585",
-      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
-      "at": "2026-10-02T02:14:51.000Z",
-      "replies": 3849,
-      "reposts": 1118,
-      "likes": 19389
+      "likes": 297
     }
   ]
 }
