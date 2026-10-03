@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 25,
+  "postCount": 26,
   "eventCount": 65,
-  "updatedAt": "2026-10-03T01:08:40.000Z",
+  "updatedAt": "2026-10-03T06:31:40.000Z",
   "recentTweets": [
+    {
+      "id": "2106239435461579088",
+      "url": "https://x.com/thsottiaux/status/2106239435461579088",
+      "text": "All fixed. Surprising number of Pro 500 users on here. https://t.co/fNbajjszn6",
+      "at": "2026-10-03T04:26:28.000Z",
+      "replies": 316,
+      "reposts": 41,
+      "likes": 1421
+    },
+    {
+      "id": "2106233145163141249",
+      "url": "https://x.com/thsottiaux/status/2106233145163141249",
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
+      "at": "2026-10-03T04:01:28.000Z",
+      "replies": 300,
+      "reposts": 47,
+      "likes": 1576
+    },
     {
       "id": "2106131810921136451",
       "url": "https://x.com/thsottiaux/status/2106131810921136451",
       "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
       "at": "2026-10-02T21:18:48.000Z",
-      "replies": 1092,
-      "reposts": 243,
-      "likes": 6142
-    },
-    {
-      "id": "2105863620433453166",
-      "url": "https://x.com/thsottiaux/status/2105863620433453166",
-      "text": "Wrong strategy?",
-      "at": "2026-10-02T03:33:06.000Z",
-      "replies": 250,
-      "reposts": 6,
-      "likes": 984
-    },
-    {
-      "id": "2105863294267560169",
-      "url": "https://x.com/thsottiaux/status/2105863294267560169",
-      "text": "Please bask",
-      "at": "2026-10-02T03:31:49.000Z",
-      "replies": 16,
-      "reposts": 2,
-      "likes": 297
+      "replies": 1317,
+      "reposts": 297,
+      "likes": 7851
     }
   ]
 }
