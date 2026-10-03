@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 26,
+  "postCount": 25,
   "eventCount": 65,
-  "updatedAt": "2026-10-03T12:27:40.000Z",
+  "updatedAt": "2026-10-03T17:11:40.000Z",
   "recentTweets": [
     {
       "id": "2106239435461579088",
       "url": "https://x.com/thsottiaux/status/2106239435461579088",
       "text": "All fixed. Surprising number of Pro 500 users on here. https://t.co/fNbajjszn6",
       "at": "2026-10-03T04:26:28.000Z",
-      "replies": 438,
-      "reposts": 52,
-      "likes": 2676
+      "replies": 518,
+      "reposts": 59,
+      "likes": 3207
     },
     {
       "id": "2106233145163141249",
       "url": "https://x.com/thsottiaux/status/2106233145163141249",
       "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
       "at": "2026-10-03T04:01:28.000Z",
-      "replies": 375,
-      "reposts": 62,
-      "likes": 2348
+      "replies": 401,
+      "reposts": 65,
+      "likes": 2692
     },
     {
       "id": "2106131810921136451",
       "url": "https://x.com/thsottiaux/status/2106131810921136451",
       "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
       "at": "2026-10-02T21:18:48.000Z",
-      "replies": 1372,
-      "reposts": 304,
-      "likes": 8310
+      "replies": 1398,
+      "reposts": 309,
+      "likes": 8499
     }
   ]
 }
