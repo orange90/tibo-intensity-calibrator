@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 30,
+  "postCount": 31,
   "eventCount": 68,
-  "updatedAt": "2026-10-05T15:55:40.000Z",
+  "updatedAt": "2026-10-05T22:34:40.000Z",
   "recentTweets": [
+    {
+      "id": "2107158998495748264",
+      "url": "https://x.com/thsottiaux/status/2107158998495748264",
+      "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
+      "at": "2026-10-05T17:20:29.000Z",
+      "replies": 1942,
+      "reposts": 682,
+      "likes": 15230
+    },
     {
       "id": "2106967126250791091",
       "url": "https://x.com/thsottiaux/status/2106967126250791091",
       "text": "Facts",
       "at": "2026-10-05T04:38:03.000Z",
-      "replies": 180,
+      "replies": 187,
       "reposts": 10,
-      "likes": 1100
+      "likes": 1186
     },
     {
       "id": "2106845738814849339",
       "url": "https://x.com/thsottiaux/status/2106845738814849339",
       "text": "I challenge you to do the same\n\nhttps://t.co/aUNDJbJ9y2",
       "at": "2026-10-04T20:35:42.000Z",
-      "replies": 99,
+      "replies": 101,
       "reposts": 25,
-      "likes": 1660
-    },
-    {
-      "id": "2106845241357824205",
-      "url": "https://x.com/thsottiaux/status/2106845241357824205",
-      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T",
-      "at": "2026-10-04T20:33:43.000Z",
-      "replies": 4181,
-      "reposts": 1394,
-      "likes": 24343
+      "likes": 1721
     }
   ]
 }
