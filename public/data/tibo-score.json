@@ -7,34 +7,34 @@
   "signalActive": true,
   "postCount": 30,
   "eventCount": 68,
-  "updatedAt": "2026-10-05T06:56:40.000Z",
+  "updatedAt": "2026-10-05T15:55:40.000Z",
   "recentTweets": [
     {
       "id": "2106967126250791091",
       "url": "https://x.com/thsottiaux/status/2106967126250791091",
       "text": "Facts",
       "at": "2026-10-05T04:38:03.000Z",
-      "replies": 117,
-      "reposts": 5,
-      "likes": 457
+      "replies": 180,
+      "reposts": 10,
+      "likes": 1100
     },
     {
       "id": "2106845738814849339",
       "url": "https://x.com/thsottiaux/status/2106845738814849339",
       "text": "I challenge you to do the same\n\nhttps://t.co/aUNDJbJ9y2",
       "at": "2026-10-04T20:35:42.000Z",
-      "replies": 91,
-      "reposts": 23,
-      "likes": 1390
+      "replies": 99,
+      "reposts": 25,
+      "likes": 1660
     },
     {
       "id": "2106845241357824205",
       "url": "https://x.com/thsottiaux/status/2106845241357824205",
       "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T",
       "at": "2026-10-04T20:33:43.000Z",
-      "replies": 3200,
-      "reposts": 1136,
-      "likes": 20649
+      "replies": 4181,
+      "reposts": 1394,
+      "likes": 24343
     }
   ]
 }
