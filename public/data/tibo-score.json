@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 29,
+  "postCount": 30,
   "eventCount": 68,
-  "updatedAt": "2026-10-05T00:51:40.000Z",
+  "updatedAt": "2026-10-05T06:56:40.000Z",
   "recentTweets": [
+    {
+      "id": "2106967126250791091",
+      "url": "https://x.com/thsottiaux/status/2106967126250791091",
+      "text": "Facts",
+      "at": "2026-10-05T04:38:03.000Z",
+      "replies": 117,
+      "reposts": 5,
+      "likes": 457
+    },
     {
       "id": "2106845738814849339",
       "url": "https://x.com/thsottiaux/status/2106845738814849339",
       "text": "I challenge you to do the same\n\nhttps://t.co/aUNDJbJ9y2",
       "at": "2026-10-04T20:35:42.000Z",
-      "replies": 83,
-      "reposts": 20,
-      "likes": 1039
+      "replies": 91,
+      "reposts": 23,
+      "likes": 1390
     },
     {
       "id": "2106845241357824205",
       "url": "https://x.com/thsottiaux/status/2106845241357824205",
       "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T",
       "at": "2026-10-04T20:33:43.000Z",
-      "replies": 2151,
-      "reposts": 796,
-      "likes": 14741
-    },
-    {
-      "id": "2106610099720720811",
-      "url": "https://x.com/thsottiaux/status/2106610099720720811",
-      "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
-      "at": "2026-10-04T04:59:21.000Z",
-      "replies": 1811,
-      "reposts": 318,
-      "likes": 13562
+      "replies": 3200,
+      "reposts": 1136,
+      "likes": 20649
     }
   ]
 }
