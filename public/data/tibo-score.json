@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 32,
-  "eventCount": 68,
-  "updatedAt": "2026-10-06T02:53:40.000Z",
+  "postCount": 34,
+  "eventCount": 67,
+  "updatedAt": "2026-10-06T10:09:08.000Z",
   "recentTweets": [
     {
-      "id": "2107301501215613206",
-      "url": "https://x.com/thsottiaux/status/2107301501215613206",
-      "text": "You can be part of the judge panel for the 28 days",
-      "at": "2026-10-06T02:46:44.000Z",
-      "replies": 8,
+      "id": "2107368734981517634",
+      "url": "https://x.com/thsottiaux/status/2107368734981517634",
+      "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This  Auto-review feature is now free and does not draw usage from your plan.",
+      "at": "2026-10-06T07:13:54.000Z",
+      "replies": 909,
+      "reposts": 343,
+      "likes": 6020
+    },
+    {
+      "id": "2107320000554123426",
+      "url": "https://x.com/thsottiaux/status/2107320000554123426",
+      "text": "Will be even more blissful to manage both",
+      "at": "2026-10-06T04:00:14.000Z",
+      "replies": 12,
       "reposts": 0,
-      "likes": 36
+      "likes": 211
     },
     {
-      "id": "2107158998495748264",
-      "url": "https://x.com/thsottiaux/status/2107158998495748264",
-      "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
-      "at": "2026-10-05T17:20:29.000Z",
-      "replies": 2274,
-      "reposts": 875,
-      "likes": 18098
-    },
-    {
-      "id": "2106967126250791091",
-      "url": "https://x.com/thsottiaux/status/2106967126250791091",
-      "text": "Facts",
-      "at": "2026-10-05T04:38:03.000Z",
-      "replies": 187,
-      "reposts": 10,
-      "likes": 1202
+      "id": "2107314411975381479",
+      "url": "https://x.com/thsottiaux/status/2107314411975381479",
+      "text": "Let’s call upon the @poteto",
+      "at": "2026-10-06T03:38:02.000Z",
+      "replies": 10,
+      "reposts": 0,
+      "likes": 59
     }
   ]
 }
