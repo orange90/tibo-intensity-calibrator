@@ -7,25 +7,25 @@
   "signalActive": true,
   "postCount": 34,
   "eventCount": 67,
-  "updatedAt": "2026-10-06T10:09:08.000Z",
+  "updatedAt": "2026-10-06T17:09:08.000Z",
   "recentTweets": [
     {
       "id": "2107368734981517634",
       "url": "https://x.com/thsottiaux/status/2107368734981517634",
       "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This  Auto-review feature is now free and does not draw usage from your plan.",
       "at": "2026-10-06T07:13:54.000Z",
-      "replies": 909,
-      "reposts": 343,
-      "likes": 6020
+      "replies": 1632,
+      "reposts": 555,
+      "likes": 10944
     },
     {
       "id": "2107320000554123426",
       "url": "https://x.com/thsottiaux/status/2107320000554123426",
       "text": "Will be even more blissful to manage both",
       "at": "2026-10-06T04:00:14.000Z",
-      "replies": 12,
-      "reposts": 0,
-      "likes": 211
+      "replies": 13,
+      "reposts": 1,
+      "likes": 321
     },
     {
       "id": "2107314411975381479",
@@ -34,7 +34,7 @@
       "at": "2026-10-06T03:38:02.000Z",
       "replies": 10,
       "reposts": 0,
-      "likes": 59
+      "likes": 72
     }
   ]
 }
