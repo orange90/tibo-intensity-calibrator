@@ -6,35 +6,35 @@
   "signalKind": "reset",
   "signalActive": true,
   "postCount": 43,
-  "eventCount": 68,
-  "updatedAt": "2026-10-07T08:34:27.000Z",
+  "eventCount": 70,
+  "updatedAt": "2026-10-07T16:22:48.000Z",
   "recentTweets": [
     {
       "id": "2107676653895967106",
       "url": "https://x.com/thsottiaux/status/2107676653895967106",
       "text": "Also! Good evening!!",
       "at": "2026-10-07T03:37:27.000Z",
-      "replies": 64,
-      "reposts": 6,
-      "likes": 1456
+      "replies": 70,
+      "reposts": 8,
+      "likes": 1761
     },
     {
       "id": "2107676261099426030",
       "url": "https://x.com/thsottiaux/status/2107676261099426030",
       "text": "And we won't unship the improvements. You get to have your cake and eat it too. See you tomorrow for Day 3!",
       "at": "2026-10-07T03:35:54.000Z",
-      "replies": 164,
-      "reposts": 18,
-      "likes": 2586
+      "replies": 244,
+      "reposts": 27,
+      "likes": 3334
     },
     {
       "id": "2107676072871600470",
       "url": "https://x.com/thsottiaux/status/2107676072871600470",
       "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!",
       "at": "2026-10-07T03:35:09.000Z",
-      "replies": 1660,
-      "reposts": 548,
-      "likes": 11740
+      "replies": 2102,
+      "reposts": 634,
+      "likes": 15039
     }
   ]
 }
