@@ -1,40 +1,40 @@
 {
   "date": "2026-10-07",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
-  "signalKind": "reset",
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
+  "signalKind": "banked",
   "signalActive": true,
-  "postCount": 43,
-  "eventCount": 70,
-  "updatedAt": "2026-10-07T16:22:48.000Z",
+  "postCount": 45,
+  "eventCount": 69,
+  "updatedAt": "2026-10-07T21:56:48.000Z",
   "recentTweets": [
+    {
+      "id": "2107913738791596286",
+      "url": "https://x.com/thsottiaux/status/2107913738791596286",
+      "text": "Will be there by EOD PST.",
+      "at": "2026-10-07T19:19:33.000Z",
+      "replies": 104,
+      "reposts": 15,
+      "likes": 1462
+    },
+    {
+      "id": "2107913674593644711",
+      "url": "https://x.com/thsottiaux/status/2107913674593644711",
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow! https://t.co/mHSI0PbWfe",
+      "at": "2026-10-07T19:19:17.000Z",
+      "replies": 914,
+      "reposts": 348,
+      "likes": 11398
+    },
     {
       "id": "2107676653895967106",
       "url": "https://x.com/thsottiaux/status/2107676653895967106",
       "text": "Also! Good evening!!",
       "at": "2026-10-07T03:37:27.000Z",
-      "replies": 70,
+      "replies": 71,
       "reposts": 8,
-      "likes": 1761
-    },
-    {
-      "id": "2107676261099426030",
-      "url": "https://x.com/thsottiaux/status/2107676261099426030",
-      "text": "And we won't unship the improvements. You get to have your cake and eat it too. See you tomorrow for Day 3!",
-      "at": "2026-10-07T03:35:54.000Z",
-      "replies": 244,
-      "reposts": 27,
-      "likes": 3334
-    },
-    {
-      "id": "2107676072871600470",
-      "url": "https://x.com/thsottiaux/status/2107676072871600470",
-      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!",
-      "at": "2026-10-07T03:35:09.000Z",
-      "replies": 2102,
-      "reposts": 634,
-      "likes": 15039
+      "likes": 1813
     }
   ]
 }
