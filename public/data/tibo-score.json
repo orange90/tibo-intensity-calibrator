@@ -1,40 +1,40 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 37,
+  "postCount": 40,
   "eventCount": 67,
-  "updatedAt": "2026-10-06T21:37:08.000Z",
+  "updatedAt": "2026-10-07T01:29:08.000Z",
   "recentTweets": [
     {
-      "id": "2107579151322591412",
-      "url": "https://x.com/thsottiaux/status/2107579151322591412",
-      "text": "OK fake tibo",
-      "at": "2026-10-06T21:10:01.000Z",
-      "replies": 13,
-      "reposts": 0,
-      "likes": 84
+      "id": "2107592473048715573",
+      "url": "https://x.com/thsottiaux/status/2107592473048715573",
+      "text": "I accept your vote",
+      "at": "2026-10-06T22:02:57.000Z",
+      "replies": 42,
+      "reposts": 12,
+      "likes": 621
     },
     {
-      "id": "2107578625419866469",
-      "url": "https://x.com/thsottiaux/status/2107578625419866469",
-      "text": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
-      "at": "2026-10-06T21:07:55.000Z",
-      "replies": 446,
-      "reposts": 28,
-      "likes": 1099
+      "id": "2107592271952748814",
+      "url": "https://x.com/thsottiaux/status/2107592271952748814",
+      "text": "Is this how the internet works 👀",
+      "at": "2026-10-06T22:02:09.000Z",
+      "replies": 46,
+      "reposts": 1,
+      "likes": 350
     },
     {
-      "id": "2107577536779870210",
-      "url": "https://x.com/thsottiaux/status/2107577536779870210",
-      "text": "I do like giving resets",
-      "at": "2026-10-06T21:03:36.000Z",
-      "replies": 67,
-      "reposts": 3,
-      "likes": 377
+      "id": "2107587334661378382",
+      "url": "https://x.com/thsottiaux/status/2107587334661378382",
+      "text": "Feels right, but such is the game",
+      "at": "2026-10-06T21:42:32.000Z",
+      "replies": 36,
+      "reposts": 1,
+      "likes": 440
     }
   ]
 }
