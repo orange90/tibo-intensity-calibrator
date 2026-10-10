@@ -7,25 +7,25 @@
   "signalActive": true,
   "postCount": 46,
   "eventCount": 72,
-  "updatedAt": "2026-10-10T06:58:03.000Z",
+  "updatedAt": "2026-10-10T13:34:03.000Z",
   "recentTweets": [
     {
       "id": "2108778939057664357",
       "url": "https://x.com/thsottiaux/status/2108778939057664357",
       "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important.",
       "at": "2026-10-10T04:37:32.000Z",
-      "replies": 106,
-      "reposts": 22,
-      "likes": 723
+      "replies": 241,
+      "reposts": 51,
+      "likes": 2291
     },
     {
       "id": "2108645667451318747",
       "url": "https://x.com/thsottiaux/status/2108645667451318747",
       "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage. https://t.co/02dqoClrWn",
       "at": "2026-10-09T19:47:58.000Z",
-      "replies": 1330,
-      "reposts": 162,
-      "likes": 4924
+      "replies": 1398,
+      "reposts": 180,
+      "likes": 5337
     },
     {
       "id": "2108040921044639779",
@@ -34,7 +34,7 @@
       "at": "2026-10-08T03:44:55.000Z",
       "replies": 1588,
       "reposts": 118,
-      "likes": 7872
+      "likes": 7873
     }
   ]
 }
