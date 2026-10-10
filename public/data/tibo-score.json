@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "score": 26,
   "stage": "神TIBO",
   "signalStrength": 0.85,
   "signalKind": "banked",
   "signalActive": true,
-  "postCount": 47,
-  "eventCount": 72,
-  "updatedAt": "2026-10-09T20:52:14.000Z",
+  "postCount": 45,
+  "eventCount": 71,
+  "updatedAt": "2026-10-10T00:45:14.000Z",
   "recentTweets": [
     {
       "id": "2108645667451318747",
       "url": "https://x.com/thsottiaux/status/2108645667451318747",
       "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage. https://t.co/02dqoClrWn",
       "at": "2026-10-09T19:47:58.000Z",
-      "replies": 589,
-      "reposts": 52,
-      "likes": 2065
+      "replies": 967,
+      "reposts": 116,
+      "likes": 3852
     },
     {
       "id": "2108040921044639779",
       "url": "https://x.com/thsottiaux/status/2108040921044639779",
       "text": "Confirmed landed across all accounts. How are we doing so far? https://t.co/tzw7dNX4pN",
       "at": "2026-10-08T03:44:55.000Z",
-      "replies": 1584,
+      "replies": 1586,
       "reposts": 118,
-      "likes": 7846
+      "likes": 7861
     },
     {
       "id": "2107913738791596286",
@@ -34,7 +34,7 @@
       "at": "2026-10-07T19:19:33.000Z",
       "replies": 205,
       "reposts": 22,
-      "likes": 2420
+      "likes": 2421
     }
   ]
 }
