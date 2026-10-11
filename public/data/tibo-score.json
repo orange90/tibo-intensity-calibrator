@@ -1,40 +1,40 @@
 {
   "date": "2026-10-11",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
   "signalKind": "reset",
-  "signalActive": true,
-  "postCount": 47,
-  "eventCount": 73,
-  "updatedAt": "2026-10-11T01:49:18.000Z",
+  "signalActive": false,
+  "postCount": 48,
+  "eventCount": 74,
+  "updatedAt": "2026-10-11T08:42:37.000Z",
   "recentTweets": [
+    {
+      "id": "2109132167112782291",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
+      "at": "2026-10-11T04:01:09.000Z",
+      "replies": 682,
+      "reposts": 207,
+      "likes": 5018
+    },
     {
       "id": "2109090080497508356",
       "url": "https://x.com/thsottiaux/status/2109090080497508356",
       "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT",
       "at": "2026-10-11T01:13:54.000Z",
-      "replies": 312,
-      "reposts": 40,
-      "likes": 1393
+      "replies": 677,
+      "reposts": 106,
+      "likes": 4612
     },
     {
       "id": "2109045392684032299",
       "url": "https://x.com/thsottiaux/status/2109045392684032299",
       "text": "Global reset by EOD. May the tokens do good things for you.",
       "at": "2026-10-10T22:16:20.000Z",
-      "replies": 414,
-      "reposts": 123,
-      "likes": 3008
-    },
-    {
-      "id": "2109045220411351517",
-      "url": "https://x.com/thsottiaux/status/2109045220411351517",
-      "text": "Day 6/ Reset",
-      "at": "2026-10-10T22:15:39.000Z",
-      "replies": 1166,
-      "reposts": 461,
-      "likes": 9468
+      "replies": 523,
+      "reposts": 158,
+      "likes": 4047
     }
   ]
 }
