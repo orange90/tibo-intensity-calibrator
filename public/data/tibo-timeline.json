@@ -317,5 +317,16 @@
     "postCount": 48,
     "eventCount": 74,
     "updatedAt": "2026-10-11T20:12:04.000Z"
+  },
+  {
+    "date": "2026-10-12",
+    "score": 26,
+    "stage": "神TIBO",
+    "signalStrength": 0.85,
+    "signalKind": "reset",
+    "signalActive": false,
+    "postCount": 50,
+    "eventCount": 74,
+    "updatedAt": "2026-10-12T00:27:28.000Z"
   }
 ]

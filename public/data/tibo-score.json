@@ -1,40 +1,40 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "score": 26,
   "stage": "神TIBO",
   "signalStrength": 0.85,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 48,
+  "postCount": 50,
   "eventCount": 74,
-  "updatedAt": "2026-10-11T20:12:04.000Z",
+  "updatedAt": "2026-10-12T00:27:28.000Z",
   "recentTweets": [
     {
-      "id": "2109132167112782291",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291",
-      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
-      "at": "2026-10-11T04:01:09.000Z",
-      "replies": 849,
-      "reposts": 238,
-      "likes": 7383
+      "id": "2109439315570999598",
+      "url": "https://x.com/thsottiaux/status/2109439315570999598",
+      "text": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT",
+      "at": "2026-10-12T00:21:38.000Z",
+      "replies": 441,
+      "reposts": 13,
+      "likes": 381
     },
     {
-      "id": "2109090080497508356",
-      "url": "https://x.com/thsottiaux/status/2109090080497508356",
-      "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT",
-      "at": "2026-10-11T01:13:54.000Z",
-      "replies": 754,
-      "reposts": 123,
-      "likes": 6151
+      "id": "2109438305188327838",
+      "url": "https://x.com/thsottiaux/status/2109438305188327838",
+      "text": "We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it",
+      "at": "2026-10-12T00:17:38.000Z",
+      "replies": 9,
+      "reposts": 1,
+      "likes": 79
     },
     {
-      "id": "2109045392684032299",
-      "url": "https://x.com/thsottiaux/status/2109045392684032299",
-      "text": "Global reset by EOD. May the tokens do good things for you.",
-      "at": "2026-10-10T22:16:20.000Z",
-      "replies": 549,
-      "reposts": 163,
-      "likes": 4383
+      "id": "2109430894604026039",
+      "url": "https://x.com/thsottiaux/status/2109430894604026039",
+      "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
+      "at": "2026-10-11T23:48:11.000Z",
+      "replies": 79,
+      "reposts": 25,
+      "likes": 881
     }
   ]
 }
