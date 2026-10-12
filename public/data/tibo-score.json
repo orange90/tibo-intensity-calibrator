@@ -1,40 +1,40 @@
 {
   "date": "2026-10-12",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "score": 21,
+  "stage": "硬TIBO",
+  "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
   "postCount": 50,
   "eventCount": 74,
-  "updatedAt": "2026-10-12T00:27:28.000Z",
+  "updatedAt": "2026-10-12T07:16:28.000Z",
   "recentTweets": [
     {
       "id": "2109439315570999598",
       "url": "https://x.com/thsottiaux/status/2109439315570999598",
       "text": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT",
       "at": "2026-10-12T00:21:38.000Z",
-      "replies": 441,
-      "reposts": 13,
-      "likes": 381
+      "replies": 3368,
+      "reposts": 103,
+      "likes": 4703
     },
     {
       "id": "2109438305188327838",
       "url": "https://x.com/thsottiaux/status/2109438305188327838",
       "text": "We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it",
       "at": "2026-10-12T00:17:38.000Z",
-      "replies": 9,
-      "reposts": 1,
-      "likes": 79
+      "replies": 48,
+      "reposts": 7,
+      "likes": 1083
     },
     {
       "id": "2109430894604026039",
       "url": "https://x.com/thsottiaux/status/2109430894604026039",
       "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
       "at": "2026-10-11T23:48:11.000Z",
-      "replies": 79,
-      "reposts": 25,
-      "likes": 881
+      "replies": 158,
+      "reposts": 57,
+      "likes": 2582
     }
   ]
 }
