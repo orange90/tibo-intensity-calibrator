@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "score": 26,
   "stage": "神TIBO",
   "signalStrength": 0.85,
@@ -7,34 +7,34 @@
   "signalActive": false,
   "postCount": 48,
   "eventCount": 78,
-  "updatedAt": "2026-10-13T21:11:24.000Z",
+  "updatedAt": "2026-10-14T01:09:04.000Z",
   "recentTweets": [
     {
       "id": "2109892247580000595",
       "url": "https://x.com/thsottiaux/status/2109892247580000595",
       "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
       "at": "2026-10-13T06:21:26.000Z",
-      "replies": 2230,
-      "reposts": 230,
-      "likes": 11681
+      "replies": 2305,
+      "reposts": 241,
+      "likes": 12126
     },
     {
       "id": "2109873307722121591",
       "url": "https://x.com/thsottiaux/status/2109873307722121591",
       "text": "Mashed @poteto on the house.",
       "at": "2026-10-13T05:06:10.000Z",
-      "replies": 146,
-      "reposts": 21,
-      "likes": 1930
+      "replies": 154,
+      "reposts": 22,
+      "likes": 1992
     },
     {
       "id": "2109873287853707513",
       "url": "https://x.com/thsottiaux/status/2109873287853707513",
       "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
       "at": "2026-10-13T05:06:06.000Z",
-      "replies": 1308,
-      "reposts": 131,
-      "likes": 5481
+      "replies": 1328,
+      "reposts": 134,
+      "likes": 5646
     }
   ]
 }
