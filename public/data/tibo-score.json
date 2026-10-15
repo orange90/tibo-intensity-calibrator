@@ -1,22 +1,22 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 46,
+  "postCount": 45,
   "eventCount": 78,
-  "updatedAt": "2026-10-14T22:14:42.000Z",
+  "updatedAt": "2026-10-15T01:25:08.000Z",
   "recentTweets": [
     {
       "id": "2109892247580000595",
       "url": "https://x.com/thsottiaux/status/2109892247580000595",
       "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
       "at": "2026-10-13T06:21:26.000Z",
-      "replies": 2423,
-      "reposts": 257,
-      "likes": 13036
+      "replies": 2432,
+      "reposts": 258,
+      "likes": 13137
     },
     {
       "id": "2109873307722121591",
@@ -25,7 +25,7 @@
       "at": "2026-10-13T05:06:10.000Z",
       "replies": 156,
       "reposts": 23,
-      "likes": 2131
+      "likes": 2148
     },
     {
       "id": "2109873287853707513",
@@ -34,7 +34,7 @@
       "at": "2026-10-13T05:06:06.000Z",
       "replies": 1370,
       "reposts": 141,
-      "likes": 5973
+      "likes": 5992
     }
   ]
 }
