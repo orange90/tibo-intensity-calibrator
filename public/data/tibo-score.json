@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 47,
   "eventCount": 79,
-  "updatedAt": "2026-10-15T07:20:45.000Z",
+  "updatedAt": "2026-10-15T13:20:45.000Z",
   "recentTweets": [
     {
       "id": "2110595554036400151",
       "url": "https://x.com/thsottiaux/status/2110595554036400151",
       "text": "Landing within the next 2 hours",
       "at": "2026-10-15T04:56:07.000Z",
-      "replies": 448,
-      "reposts": 105,
-      "likes": 2819
+      "replies": 487,
+      "reposts": 117,
+      "likes": 3471
     },
     {
       "id": "2110595484180214059",
       "url": "https://x.com/thsottiaux/status/2110595484180214059",
       "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
       "at": "2026-10-15T04:55:51.000Z",
-      "replies": 1666,
-      "reposts": 518,
-      "likes": 10253
+      "replies": 1996,
+      "reposts": 647,
+      "likes": 14482
     },
     {
       "id": "2109892247580000595",
@@ -33,8 +33,8 @@
       "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
       "at": "2026-10-13T06:21:26.000Z",
       "replies": 2456,
-      "reposts": 258,
-      "likes": 13273
+      "reposts": 259,
+      "likes": 13301
     }
   ]
 }
