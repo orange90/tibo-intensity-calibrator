@@ -6,35 +6,35 @@
   "signalKind": "reset",
   "signalActive": false,
   "postCount": 47,
-  "eventCount": 79,
-  "updatedAt": "2026-10-15T13:20:45.000Z",
+  "eventCount": 78,
+  "updatedAt": "2026-10-15T18:13:29.000Z",
   "recentTweets": [
+    {
+      "id": "2110750421367287996",
+      "url": "https://x.com/thsottiaux/status/2110750421367287996",
+      "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
+      "at": "2026-10-15T15:11:30.000Z",
+      "replies": 1637,
+      "reposts": 205,
+      "likes": 6977
+    },
     {
       "id": "2110595554036400151",
       "url": "https://x.com/thsottiaux/status/2110595554036400151",
       "text": "Landing within the next 2 hours",
       "at": "2026-10-15T04:56:07.000Z",
-      "replies": 487,
-      "reposts": 117,
-      "likes": 3471
+      "replies": 502,
+      "reposts": 119,
+      "likes": 3633
     },
     {
       "id": "2110595484180214059",
       "url": "https://x.com/thsottiaux/status/2110595484180214059",
       "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
       "at": "2026-10-15T04:55:51.000Z",
-      "replies": 1996,
-      "reposts": 647,
-      "likes": 14482
-    },
-    {
-      "id": "2109892247580000595",
-      "url": "https://x.com/thsottiaux/status/2109892247580000595",
-      "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
-      "at": "2026-10-13T06:21:26.000Z",
-      "replies": 2456,
-      "reposts": 259,
-      "likes": 13301
+      "replies": 2060,
+      "reposts": 662,
+      "likes": 15681
     }
   ]
 }
