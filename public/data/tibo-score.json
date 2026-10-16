@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 45,
   "eventCount": 77,
-  "updatedAt": "2026-10-16T07:04:11.000Z",
+  "updatedAt": "2026-10-16T12:20:22.000Z",
   "recentTweets": [
     {
       "id": "2110951585983631505",
       "url": "https://x.com/thsottiaux/status/2110951585983631505",
       "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
       "at": "2026-10-16T04:30:52.000Z",
-      "replies": 67,
-      "reposts": 6,
-      "likes": 624
+      "replies": 85,
+      "reposts": 9,
+      "likes": 990
     },
     {
       "id": "2110750421367287996",
       "url": "https://x.com/thsottiaux/status/2110750421367287996",
       "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
       "at": "2026-10-15T15:11:30.000Z",
-      "replies": 2497,
-      "reposts": 300,
-      "likes": 10327
+      "replies": 2593,
+      "reposts": 306,
+      "likes": 10588
     },
     {
       "id": "2110595554036400151",
@@ -34,7 +34,7 @@
       "at": "2026-10-15T04:56:07.000Z",
       "replies": 509,
       "reposts": 120,
-      "likes": 3739
+      "likes": 3765
     }
   ]
 }
