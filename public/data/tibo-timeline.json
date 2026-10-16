@@ -364,13 +364,13 @@
   },
   {
     "date": "2026-10-16",
-    "score": 26,
-    "stage": "神TIBO",
-    "signalStrength": 0.85,
+    "score": 21,
+    "stage": "硬TIBO",
+    "signalStrength": 0.7,
     "signalKind": "reset",
     "signalActive": false,
-    "postCount": 47,
-    "eventCount": 78,
-    "updatedAt": "2026-10-16T01:16:13.000Z"
+    "postCount": 45,
+    "eventCount": 77,
+    "updatedAt": "2026-10-16T07:04:11.000Z"
   }
 ]
