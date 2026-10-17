@@ -375,13 +375,13 @@
   },
   {
     "date": "2026-10-17",
-    "score": 21,
-    "stage": "硬TIBO",
-    "signalStrength": 0.7,
+    "score": 30,
+    "stage": "圣TIBO",
+    "signalStrength": 1,
     "signalKind": "reset",
-    "signalActive": false,
-    "postCount": 43,
-    "eventCount": 77,
-    "updatedAt": "2026-10-17T13:40:17.000Z"
+    "signalActive": true,
+    "postCount": 45,
+    "eventCount": 79,
+    "updatedAt": "2026-10-17T17:05:17.000Z"
   }
 ]
