@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 44,
+  "postCount": 43,
   "eventCount": 77,
-  "updatedAt": "2026-10-17T04:17:17.000Z",
+  "updatedAt": "2026-10-17T09:16:17.000Z",
   "recentTweets": [
     {
       "id": "2111244596131111253",
       "url": "https://x.com/thsottiaux/status/2111244596131111253",
       "text": "Day 12/\n\nWe’ve made improvements to Codex &amp; Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.",
       "at": "2026-10-16T23:55:11.000Z",
-      "replies": 1210,
-      "reposts": 223,
-      "likes": 6841
+      "replies": 1493,
+      "reposts": 273,
+      "likes": 9274
     },
     {
       "id": "2110951585983631505",
       "url": "https://x.com/thsottiaux/status/2110951585983631505",
       "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
       "at": "2026-10-16T04:30:52.000Z",
-      "replies": 107,
+      "replies": 108,
       "reposts": 14,
-      "likes": 1481
+      "likes": 1503
     },
     {
       "id": "2110750421367287996",
       "url": "https://x.com/thsottiaux/status/2110750421367287996",
       "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
       "at": "2026-10-15T15:11:30.000Z",
-      "replies": 2668,
+      "replies": 2674,
       "reposts": 310,
-      "likes": 10952
+      "likes": 10983
     }
   ]
 }
