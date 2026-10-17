@@ -1,40 +1,40 @@
 {
   "date": "2026-10-17",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
   "signalKind": "reset",
-  "signalActive": true,
+  "signalActive": false,
   "postCount": 45,
   "eventCount": 79,
-  "updatedAt": "2026-10-17T19:20:17.000Z",
+  "updatedAt": "2026-10-17T22:13:17.000Z",
   "recentTweets": [
     {
       "id": "2111492738025959922",
       "url": "https://x.com/thsottiaux/status/2111492738025959922",
       "text": "Landing sometime today by EOD PST",
       "at": "2026-10-17T16:21:13.000Z",
-      "replies": 272,
-      "reposts": 35,
-      "likes": 1914
+      "replies": 367,
+      "reposts": 40,
+      "likes": 2317
     },
     {
       "id": "2111492673890824348",
       "url": "https://x.com/thsottiaux/status/2111492673890824348",
       "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
       "at": "2026-10-17T16:20:57.000Z",
-      "replies": 1119,
-      "reposts": 426,
-      "likes": 10020
+      "replies": 1329,
+      "reposts": 500,
+      "likes": 12225
     },
     {
       "id": "2111244596131111253",
       "url": "https://x.com/thsottiaux/status/2111244596131111253",
       "text": "Day 12/\n\nWe’ve made improvements to Codex &amp; Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.",
       "at": "2026-10-16T23:55:11.000Z",
-      "replies": 1689,
-      "reposts": 303,
-      "likes": 10681
+      "replies": 1694,
+      "reposts": 305,
+      "likes": 10761
     }
   ]
 }
