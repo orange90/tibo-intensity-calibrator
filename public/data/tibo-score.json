@@ -7,34 +7,34 @@
   "signalActive": false,
   "postCount": 44,
   "eventCount": 79,
-  "updatedAt": "2026-10-18T14:31:17.000Z",
+  "updatedAt": "2026-10-18T18:02:17.000Z",
   "recentTweets": [
     {
       "id": "2111583927156760690",
       "url": "https://x.com/thsottiaux/status/2111583927156760690",
       "text": "Pot committed",
       "at": "2026-10-17T22:23:34.000Z",
-      "replies": 93,
+      "replies": 95,
       "reposts": 8,
-      "likes": 834
+      "likes": 882
     },
     {
       "id": "2111492738025959922",
       "url": "https://x.com/thsottiaux/status/2111492738025959922",
       "text": "Landing sometime today by EOD PST",
       "at": "2026-10-17T16:21:13.000Z",
-      "replies": 395,
+      "replies": 397,
       "reposts": 46,
-      "likes": 2682
+      "likes": 2713
     },
     {
       "id": "2111492673890824348",
       "url": "https://x.com/thsottiaux/status/2111492673890824348",
       "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
       "at": "2026-10-17T16:20:57.000Z",
-      "replies": 1606,
-      "reposts": 625,
-      "likes": 15686
+      "replies": 1622,
+      "reposts": 628,
+      "likes": 15905
     }
   ]
 }
