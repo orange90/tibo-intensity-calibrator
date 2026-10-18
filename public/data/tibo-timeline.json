@@ -386,13 +386,13 @@
   },
   {
     "date": "2026-10-18",
-    "score": 26,
-    "stage": "神TIBO",
-    "signalStrength": 0.85,
+    "score": 21,
+    "stage": "硬TIBO",
+    "signalStrength": 0.7,
     "signalKind": "reset",
     "signalActive": false,
-    "postCount": 45,
-    "eventCount": 78,
-    "updatedAt": "2026-10-18T20:35:17.000Z"
+    "postCount": 44,
+    "eventCount": 77,
+    "updatedAt": "2026-10-18T23:05:17.000Z"
   }
 ]

@@ -1,40 +1,40 @@
 {
   "date": "2026-10-18",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "score": 21,
+  "stage": "硬TIBO",
+  "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 45,
-  "eventCount": 78,
-  "updatedAt": "2026-10-18T20:35:17.000Z",
+  "postCount": 44,
+  "eventCount": 77,
+  "updatedAt": "2026-10-18T23:05:17.000Z",
   "recentTweets": [
     {
       "id": "2111918768733753664",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "at": "2026-10-18T20:34:06.000Z",
-      "replies": 81,
-      "reposts": 5,
-      "likes": 319
+      "replies": 764,
+      "reposts": 105,
+      "likes": 5751
     },
     {
       "id": "2111918635849801739",
       "url": "https://x.com/thsottiaux/status/2111918635849801739",
       "text": "We’ll see",
       "at": "2026-10-18T20:33:34.000Z",
-      "replies": 2,
-      "reposts": 0,
-      "likes": 19
+      "replies": 39,
+      "reposts": 1,
+      "likes": 493
     },
     {
       "id": "2111583927156760690",
       "url": "https://x.com/thsottiaux/status/2111583927156760690",
       "text": "Pot committed",
       "at": "2026-10-17T22:23:34.000Z",
-      "replies": 96,
+      "replies": 97,
       "reposts": 8,
-      "likes": 897
+      "likes": 905
     }
   ]
 }
