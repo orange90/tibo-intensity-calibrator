@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 44,
   "eventCount": 77,
-  "updatedAt": "2026-10-18T23:05:17.000Z",
+  "updatedAt": "2026-10-19T01:11:17.000Z",
   "recentTweets": [
     {
       "id": "2111918768733753664",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "at": "2026-10-18T20:34:06.000Z",
-      "replies": 764,
-      "reposts": 105,
-      "likes": 5751
+      "replies": 963,
+      "reposts": 148,
+      "likes": 7323
     },
     {
       "id": "2111918635849801739",
       "url": "https://x.com/thsottiaux/status/2111918635849801739",
       "text": "We’ll see",
       "at": "2026-10-18T20:33:34.000Z",
-      "replies": 39,
+      "replies": 41,
       "reposts": 1,
-      "likes": 493
+      "likes": 633
     },
     {
       "id": "2111583927156760690",
@@ -34,7 +34,7 @@
       "at": "2026-10-17T22:23:34.000Z",
       "replies": 97,
       "reposts": 8,
-      "likes": 905
+      "likes": 916
     }
   ]
 }
