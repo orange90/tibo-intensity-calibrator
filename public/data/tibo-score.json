@@ -7,34 +7,34 @@
   "signalActive": false,
   "postCount": 41,
   "eventCount": 78,
-  "updatedAt": "2026-10-20T16:55:12.979Z",
+  "updatedAt": "2026-10-20T20:31:12.979Z",
   "recentTweets": [
+    {
+      "id": "2112592264686149749",
+      "url": "https://x.com/thsottiaux/status/2112592264686149749",
+      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
+      "at": "2026-10-20T17:10:20.000Z",
+      "replies": 1627,
+      "reposts": 195,
+      "likes": 7048
+    },
     {
       "id": "2112432076767289678",
       "url": "https://x.com/thsottiaux/status/2112432076767289678",
       "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
       "at": "2026-10-20T06:33:48.000Z",
-      "replies": 2746,
-      "reposts": 442,
-      "likes": 10552
+      "replies": 2783,
+      "reposts": 451,
+      "likes": 10975
     },
     {
       "id": "2112034063934742720",
       "url": "https://x.com/thsottiaux/status/2112034063934742720",
       "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until you have to deal with an incident. We’re here to help.",
       "at": "2026-10-19T04:12:15.000Z",
-      "replies": 458,
-      "reposts": 291,
-      "likes": 8100
-    },
-    {
-      "id": "2111918768733753664",
-      "url": "https://x.com/thsottiaux/status/2111918768733753664",
-      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-      "at": "2026-10-18T20:34:06.000Z",
-      "replies": 1204,
-      "reposts": 233,
-      "likes": 11472
+      "replies": 460,
+      "reposts": 292,
+      "likes": 8166
     }
   ]
 }
