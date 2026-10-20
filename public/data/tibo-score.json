@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 43,
+  "postCount": 40,
   "eventCount": 77,
-  "updatedAt": "2026-10-20T00:16:12.979Z",
+  "updatedAt": "2026-10-20T05:57:12.979Z",
   "recentTweets": [
     {
       "id": "2112034063934742720",
       "url": "https://x.com/thsottiaux/status/2112034063934742720",
       "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until you have to deal with an incident. We’re here to help.",
       "at": "2026-10-19T04:12:15.000Z",
-      "replies": 443,
-      "reposts": 280,
-      "likes": 7595
+      "replies": 450,
+      "reposts": 290,
+      "likes": 7809
     },
     {
       "id": "2111918768733753664",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "at": "2026-10-18T20:34:06.000Z",
-      "replies": 1189,
-      "reposts": 226,
-      "likes": 11108
+      "replies": 1195,
+      "reposts": 227,
+      "likes": 11281
     },
     {
       "id": "2111918635849801739",
       "url": "https://x.com/thsottiaux/status/2111918635849801739",
       "text": "We’ll see",
       "at": "2026-10-18T20:33:34.000Z",
-      "replies": 52,
+      "replies": 55,
       "reposts": 5,
-      "likes": 1062
+      "likes": 1085
     }
   ]
 }
