@@ -1,40 +1,40 @@
 {
   "date": "2026-10-21",
-  "score": 26,
-  "stage": "神TIBO",
-  "signalStrength": 0.85,
+  "score": 21,
+  "stage": "硬TIBO",
+  "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 30,
+  "postCount": 31,
   "eventCount": 76,
-  "updatedAt": "2026-10-21T04:37:12.979Z",
+  "updatedAt": "2026-10-21T10:03:12.979Z",
   "recentTweets": [
+    {
+      "id": "2112798407928713717",
+      "url": "https://x.com/thsottiaux/status/2112798407928713717",
+      "text": "I demand a reset",
+      "at": "2026-10-21T06:49:29.000Z",
+      "replies": 210,
+      "reposts": 25,
+      "likes": 1986
+    },
     {
       "id": "2112592264686149749",
       "url": "https://x.com/thsottiaux/status/2112592264686149749",
       "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
       "at": "2026-10-20T17:10:20.000Z",
-      "replies": 2432,
-      "reposts": 316,
-      "likes": 10277
+      "replies": 2592,
+      "reposts": 340,
+      "likes": 10928
     },
     {
       "id": "2112432076767289678",
       "url": "https://x.com/thsottiaux/status/2112432076767289678",
       "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
       "at": "2026-10-20T06:33:48.000Z",
-      "replies": 2813,
-      "reposts": 461,
-      "likes": 11345
-    },
-    {
-      "id": "2112034063934742720",
-      "url": "https://x.com/thsottiaux/status/2112034063934742720",
-      "text": "Our team worked with OpenCode to have their users who are also OpenAI API customers back in business and any credits refunded which would have been drawn in the attack.\n\nAlso, you can request Daybreak Blue access to use our cyber permissive setup for defense. Do not wait until you have to deal with an incident. We’re here to help.",
-      "at": "2026-10-19T04:12:15.000Z",
-      "replies": 465,
-      "reposts": 294,
-      "likes": 8214
+      "replies": 2823,
+      "reposts": 462,
+      "likes": 11440
     }
   ]
 }
