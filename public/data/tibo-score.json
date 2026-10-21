@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 30,
+  "postCount": 31,
   "eventCount": 76,
-  "updatedAt": "2026-10-21T20:05:12.979Z",
+  "updatedAt": "2026-10-21T23:14:12.979Z",
   "recentTweets": [
+    {
+      "id": "2113029854417600834",
+      "url": "https://x.com/thsottiaux/status/2113029854417600834",
+      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+      "at": "2026-10-21T22:09:10.000Z",
+      "replies": 308,
+      "reposts": 21,
+      "likes": 953
+    },
     {
       "id": "2112906496736641416",
       "url": "https://x.com/thsottiaux/status/2112906496736641416",
       "text": "is this true",
       "at": "2026-10-21T13:58:59.000Z",
-      "replies": 218,
-      "reposts": 35,
-      "likes": 2648
+      "replies": 238,
+      "reposts": 38,
+      "likes": 2887
     },
     {
       "id": "2112798407928713717",
       "url": "https://x.com/thsottiaux/status/2112798407928713717",
       "text": "I demand a reset",
       "at": "2026-10-21T06:49:29.000Z",
-      "replies": 288,
-      "reposts": 39,
-      "likes": 3905
-    },
-    {
-      "id": "2112592264686149749",
-      "url": "https://x.com/thsottiaux/status/2112592264686149749",
-      "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
-      "at": "2026-10-20T17:10:20.000Z",
-      "replies": 2761,
-      "reposts": 353,
-      "likes": 11619
+      "replies": 294,
+      "reposts": 40,
+      "likes": 4082
     }
   ]
 }
