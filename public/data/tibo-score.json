@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 31,
+  "postCount": 32,
   "eventCount": 76,
-  "updatedAt": "2026-10-21T10:03:12.979Z",
+  "updatedAt": "2026-10-21T15:09:12.979Z",
   "recentTweets": [
+    {
+      "id": "2112906496736641416",
+      "url": "https://x.com/thsottiaux/status/2112906496736641416",
+      "text": "is this true",
+      "at": "2026-10-21T13:58:59.000Z",
+      "replies": 90,
+      "reposts": 17,
+      "likes": 929
+    },
     {
       "id": "2112798407928713717",
       "url": "https://x.com/thsottiaux/status/2112798407928713717",
       "text": "I demand a reset",
       "at": "2026-10-21T06:49:29.000Z",
-      "replies": 210,
-      "reposts": 25,
-      "likes": 1986
+      "replies": 273,
+      "reposts": 36,
+      "likes": 3310
     },
     {
       "id": "2112592264686149749",
       "url": "https://x.com/thsottiaux/status/2112592264686149749",
       "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
       "at": "2026-10-20T17:10:20.000Z",
-      "replies": 2592,
-      "reposts": 340,
-      "likes": 10928
-    },
-    {
-      "id": "2112432076767289678",
-      "url": "https://x.com/thsottiaux/status/2112432076767289678",
-      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
-      "at": "2026-10-20T06:33:48.000Z",
-      "replies": 2823,
-      "reposts": 462,
-      "likes": 11440
+      "replies": 2704,
+      "reposts": 349,
+      "likes": 11370
     }
   ]
 }
