@@ -1,40 +1,40 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 31,
+  "postCount": 30,
   "eventCount": 76,
-  "updatedAt": "2026-10-21T23:14:12.979Z",
+  "updatedAt": "2026-10-22T04:34:12.979Z",
   "recentTweets": [
     {
       "id": "2113029854417600834",
       "url": "https://x.com/thsottiaux/status/2113029854417600834",
       "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
       "at": "2026-10-21T22:09:10.000Z",
-      "replies": 308,
-      "reposts": 21,
-      "likes": 953
+      "replies": 547,
+      "reposts": 34,
+      "likes": 1680
     },
     {
       "id": "2112906496736641416",
       "url": "https://x.com/thsottiaux/status/2112906496736641416",
       "text": "is this true",
       "at": "2026-10-21T13:58:59.000Z",
-      "replies": 238,
-      "reposts": 38,
-      "likes": 2887
+      "replies": 263,
+      "reposts": 41,
+      "likes": 3261
     },
     {
       "id": "2112798407928713717",
       "url": "https://x.com/thsottiaux/status/2112798407928713717",
       "text": "I demand a reset",
       "at": "2026-10-21T06:49:29.000Z",
-      "replies": 294,
-      "reposts": 40,
-      "likes": 4082
+      "replies": 302,
+      "reposts": 42,
+      "likes": 4188
     }
   ]
 }
