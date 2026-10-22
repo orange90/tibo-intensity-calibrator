@@ -1,40 +1,40 @@
 {
   "date": "2026-10-22",
-  "score": 21,
-  "stage": "硬TIBO",
-  "signalStrength": 0.7,
+  "score": 30,
+  "stage": "圣TIBO",
+  "signalStrength": 1,
   "signalKind": "reset",
-  "signalActive": false,
-  "postCount": 30,
-  "eventCount": 76,
-  "updatedAt": "2026-10-22T04:34:12.979Z",
+  "signalActive": true,
+  "postCount": 32,
+  "eventCount": 78,
+  "updatedAt": "2026-10-22T10:03:12.979Z",
   "recentTweets": [
+    {
+      "id": "2113162413008884099",
+      "url": "https://x.com/thsottiaux/status/2113162413008884099",
+      "text": "Lands tomorrow before 10am PST.",
+      "at": "2026-10-22T06:55:54.000Z",
+      "replies": 522,
+      "reposts": 70,
+      "likes": 1697
+    },
+    {
+      "id": "2113162277688070445",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "at": "2026-10-22T06:55:22.000Z",
+      "replies": 1399,
+      "reposts": 411,
+      "likes": 7481
+    },
     {
       "id": "2113029854417600834",
       "url": "https://x.com/thsottiaux/status/2113029854417600834",
       "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
       "at": "2026-10-21T22:09:10.000Z",
-      "replies": 547,
-      "reposts": 34,
-      "likes": 1680
-    },
-    {
-      "id": "2112906496736641416",
-      "url": "https://x.com/thsottiaux/status/2112906496736641416",
-      "text": "is this true",
-      "at": "2026-10-21T13:58:59.000Z",
-      "replies": 263,
-      "reposts": 41,
-      "likes": 3261
-    },
-    {
-      "id": "2112798407928713717",
-      "url": "https://x.com/thsottiaux/status/2112798407928713717",
-      "text": "I demand a reset",
-      "at": "2026-10-21T06:49:29.000Z",
-      "replies": 302,
-      "reposts": 42,
-      "likes": 4188
+      "replies": 620,
+      "reposts": 37,
+      "likes": 1917
     }
   ]
 }
