@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 32,
-  "eventCount": 78,
-  "updatedAt": "2026-10-23T04:37:12.979Z",
+  "postCount": 34,
+  "eventCount": 80,
+  "updatedAt": "2026-10-23T14:59:12.979Z",
   "recentTweets": [
+    {
+      "id": "2113492502355562875",
+      "url": "https://x.com/thsottiaux/status/2113492502355562875",
+      "text": "Landing tomorrow before 10am PST together with a small ship.",
+      "at": "2026-10-23T04:47:34.000Z",
+      "replies": 392,
+      "reposts": 93,
+      "likes": 2494
+    },
+    {
+      "id": "2113492187770175603",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "at": "2026-10-23T04:46:19.000Z",
+      "replies": 1307,
+      "reposts": 346,
+      "likes": 8831
+    },
     {
       "id": "2113162413008884099",
       "url": "https://x.com/thsottiaux/status/2113162413008884099",
       "text": "Lands tomorrow before 10am PST.",
       "at": "2026-10-22T06:55:54.000Z",
-      "replies": 1234,
-      "reposts": 104,
-      "likes": 3113
-    },
-    {
-      "id": "2113162277688070445",
-      "url": "https://x.com/thsottiaux/status/2113162277688070445",
-      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
-      "at": "2026-10-22T06:55:22.000Z",
-      "replies": 2484,
-      "reposts": 549,
-      "likes": 12892
-    },
-    {
-      "id": "2113029854417600834",
-      "url": "https://x.com/thsottiaux/status/2113029854417600834",
-      "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
-      "at": "2026-10-21T22:09:10.000Z",
-      "replies": 666,
-      "reposts": 39,
-      "likes": 2103
+      "replies": 1236,
+      "reposts": 105,
+      "likes": 3193
     }
   ]
 }
