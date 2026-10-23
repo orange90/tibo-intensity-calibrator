@@ -5,27 +5,27 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 34,
+  "postCount": 33,
   "eventCount": 80,
-  "updatedAt": "2026-10-23T19:08:12.979Z",
+  "updatedAt": "2026-10-23T22:09:12.979Z",
   "recentTweets": [
     {
       "id": "2113492502355562875",
       "url": "https://x.com/thsottiaux/status/2113492502355562875",
       "text": "Landing tomorrow before 10am PST together with a small ship.",
       "at": "2026-10-23T04:47:34.000Z",
-      "replies": 838,
+      "replies": 859,
       "reposts": 106,
-      "likes": 2880
+      "likes": 2951
     },
     {
       "id": "2113492187770175603",
       "url": "https://x.com/thsottiaux/status/2113492187770175603",
       "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
       "at": "2026-10-23T04:46:19.000Z",
-      "replies": 1597,
-      "reposts": 366,
-      "likes": 9768
+      "replies": 1640,
+      "reposts": 373,
+      "likes": 10058
     },
     {
       "id": "2113162413008884099",
@@ -34,7 +34,7 @@
       "at": "2026-10-22T06:55:54.000Z",
       "replies": 1240,
       "reposts": 106,
-      "likes": 3220
+      "likes": 3235
     }
   ]
 }
