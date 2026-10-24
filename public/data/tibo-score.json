@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 34,
+  "postCount": 33,
   "eventCount": 80,
-  "updatedAt": "2026-10-24T01:31:12.979Z",
+  "updatedAt": "2026-10-24T07:12:12.979Z",
   "recentTweets": [
     {
       "id": "2113770862860222611",
       "url": "https://x.com/thsottiaux/status/2113770862860222611",
       "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
       "at": "2026-10-23T23:13:40.000Z",
-      "replies": 120,
-      "reposts": 18,
-      "likes": 792
+      "replies": 167,
+      "reposts": 25,
+      "likes": 1310
     },
     {
       "id": "2113492502355562875",
       "url": "https://x.com/thsottiaux/status/2113492502355562875",
       "text": "Landing tomorrow before 10am PST together with a small ship.",
       "at": "2026-10-23T04:47:34.000Z",
-      "replies": 862,
+      "replies": 867,
       "reposts": 106,
-      "likes": 3002
+      "likes": 3052
     },
     {
       "id": "2113492187770175603",
       "url": "https://x.com/thsottiaux/status/2113492187770175603",
       "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
       "at": "2026-10-23T04:46:19.000Z",
-      "replies": 1665,
-      "reposts": 382,
-      "likes": 10239
+      "replies": 1667,
+      "reposts": 385,
+      "likes": 10388
     }
   ]
 }
