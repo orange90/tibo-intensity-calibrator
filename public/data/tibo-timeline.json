@@ -449,5 +449,16 @@
     "postCount": 33,
     "eventCount": 80,
     "updatedAt": "2026-10-23T22:09:12.979Z"
+  },
+  {
+    "date": "2026-10-24",
+    "score": 30,
+    "stage": "圣TIBO",
+    "signalStrength": 1,
+    "signalKind": "reset",
+    "signalActive": true,
+    "postCount": 34,
+    "eventCount": 80,
+    "updatedAt": "2026-10-24T01:31:12.979Z"
   }
 ]
