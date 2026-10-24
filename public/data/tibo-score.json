@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 33,
+  "postCount": 34,
   "eventCount": 80,
-  "updatedAt": "2026-10-24T16:32:12.979Z",
+  "updatedAt": "2026-10-24T19:25:12.979Z",
   "recentTweets": [
+    {
+      "id": "2114037527598576003",
+      "url": "https://x.com/thsottiaux/status/2114037527598576003",
+      "text": "One day",
+      "at": "2026-10-24T16:53:18.000Z",
+      "replies": 58,
+      "reposts": 3,
+      "likes": 355
+    },
     {
       "id": "2113770862860222611",
       "url": "https://x.com/thsottiaux/status/2113770862860222611",
       "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
       "at": "2026-10-23T23:13:40.000Z",
-      "replies": 207,
+      "replies": 211,
       "reposts": 28,
-      "likes": 1609
+      "likes": 1648
     },
     {
       "id": "2113492502355562875",
       "url": "https://x.com/thsottiaux/status/2113492502355562875",
       "text": "Landing tomorrow before 10am PST together with a small ship.",
       "at": "2026-10-23T04:47:34.000Z",
-      "replies": 869,
+      "replies": 871,
       "reposts": 107,
-      "likes": 3090
-    },
-    {
-      "id": "2113492187770175603",
-      "url": "https://x.com/thsottiaux/status/2113492187770175603",
-      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
-      "at": "2026-10-23T04:46:19.000Z",
-      "replies": 1673,
-      "reposts": 386,
-      "likes": 10534
+      "likes": 3097
     }
   ]
 }
