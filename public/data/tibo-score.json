@@ -7,7 +7,7 @@
   "signalActive": false,
   "postCount": 34,
   "eventCount": 79,
-  "updatedAt": "2026-10-25T18:59:12.979Z",
+  "updatedAt": "2026-10-25T21:41:12.979Z",
   "recentTweets": [
     {
       "id": "2114228445043691592",
@@ -16,7 +16,7 @@
       "at": "2026-10-25T05:31:56.000Z",
       "replies": 51,
       "reposts": 4,
-      "likes": 1162
+      "likes": 1270
     },
     {
       "id": "2114228044072403055",
@@ -25,16 +25,16 @@
       "at": "2026-10-25T05:30:20.000Z",
       "replies": 64,
       "reposts": 14,
-      "likes": 1786
+      "likes": 1897
     },
     {
       "id": "2114200291319124163",
       "url": "https://x.com/thsottiaux/status/2114200291319124163",
       "text": "By midnight PST",
       "at": "2026-10-25T03:40:04.000Z",
-      "replies": 348,
+      "replies": 350,
       "reposts": 55,
-      "likes": 2018
+      "likes": 2050
     }
   ]
 }
