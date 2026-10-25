@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "score": 30,
   "stage": "圣TIBO",
   "signalStrength": 1,
@@ -7,25 +7,25 @@
   "signalActive": true,
   "postCount": 32,
   "eventCount": 78,
-  "updatedAt": "2026-10-24T22:25:12.979Z",
+  "updatedAt": "2026-10-25T01:04:12.979Z",
   "recentTweets": [
     {
       "id": "2114037527598576003",
       "url": "https://x.com/thsottiaux/status/2114037527598576003",
       "text": "One day",
       "at": "2026-10-24T16:53:18.000Z",
-      "replies": 64,
+      "replies": 65,
       "reposts": 3,
-      "likes": 445
+      "likes": 505
     },
     {
       "id": "2113770862860222611",
       "url": "https://x.com/thsottiaux/status/2113770862860222611",
       "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
       "at": "2026-10-23T23:13:40.000Z",
-      "replies": 212,
+      "replies": 215,
       "reposts": 30,
-      "likes": 1686
+      "likes": 1708
     },
     {
       "id": "2113492502355562875",
@@ -34,7 +34,7 @@
       "at": "2026-10-23T04:47:34.000Z",
       "replies": 872,
       "reposts": 107,
-      "likes": 3107
+      "likes": 3113
     }
   ]
 }
