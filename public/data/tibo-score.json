@@ -1,40 +1,40 @@
 {
   "date": "2026-10-25",
-  "score": 30,
-  "stage": "圣TIBO",
-  "signalStrength": 1,
+  "score": 26,
+  "stage": "神TIBO",
+  "signalStrength": 0.85,
   "signalKind": "reset",
-  "signalActive": true,
+  "signalActive": false,
   "postCount": 34,
   "eventCount": 79,
-  "updatedAt": "2026-10-25T06:01:12.979Z",
+  "updatedAt": "2026-10-25T11:15:56.759Z",
   "recentTweets": [
     {
       "id": "2114228445043691592",
       "url": "https://x.com/thsottiaux/status/2114228445043691592",
       "text": "https://t.co/cjuGQnsUgA",
       "at": "2026-10-25T05:31:56.000Z",
-      "replies": 23,
-      "reposts": 1,
-      "likes": 217
+      "replies": 37,
+      "reposts": 3,
+      "likes": 732
     },
     {
       "id": "2114228044072403055",
       "url": "https://x.com/thsottiaux/status/2114228044072403055",
       "text": "Not a real improvement, put the reset in the bag",
       "at": "2026-10-25T05:30:20.000Z",
-      "replies": 33,
-      "reposts": 7,
-      "likes": 265
+      "replies": 57,
+      "reposts": 10,
+      "likes": 1036
     },
     {
       "id": "2114200291319124163",
       "url": "https://x.com/thsottiaux/status/2114200291319124163",
       "text": "By midnight PST",
       "at": "2026-10-25T03:40:04.000Z",
-      "replies": 277,
-      "reposts": 45,
-      "likes": 1340
+      "replies": 331,
+      "reposts": 53,
+      "likes": 1826
     }
   ]
 }
