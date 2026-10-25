@@ -7,16 +7,16 @@
   "signalActive": false,
   "postCount": 34,
   "eventCount": 79,
-  "updatedAt": "2026-10-25T15:49:12.979Z",
+  "updatedAt": "2026-10-25T18:59:12.979Z",
   "recentTweets": [
     {
       "id": "2114228445043691592",
       "url": "https://x.com/thsottiaux/status/2114228445043691592",
       "text": "https://t.co/cjuGQnsUgA",
       "at": "2026-10-25T05:31:56.000Z",
-      "replies": 44,
+      "replies": 51,
       "reposts": 4,
-      "likes": 1007
+      "likes": 1162
     },
     {
       "id": "2114228044072403055",
@@ -24,17 +24,17 @@
       "text": "Not a real improvement, put the reset in the bag",
       "at": "2026-10-25T05:30:20.000Z",
       "replies": 64,
-      "reposts": 13,
-      "likes": 1610
+      "reposts": 14,
+      "likes": 1786
     },
     {
       "id": "2114200291319124163",
       "url": "https://x.com/thsottiaux/status/2114200291319124163",
       "text": "By midnight PST",
       "at": "2026-10-25T03:40:04.000Z",
-      "replies": 344,
+      "replies": 348,
       "reposts": 55,
-      "likes": 1965
+      "likes": 2018
     }
   ]
 }
