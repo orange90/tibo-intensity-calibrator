@@ -5,36 +5,36 @@
   "signalStrength": 1,
   "signalKind": "reset",
   "signalActive": true,
-  "postCount": 32,
-  "eventCount": 78,
-  "updatedAt": "2026-10-25T01:04:12.979Z",
+  "postCount": 34,
+  "eventCount": 79,
+  "updatedAt": "2026-10-25T06:01:12.979Z",
   "recentTweets": [
     {
-      "id": "2114037527598576003",
-      "url": "https://x.com/thsottiaux/status/2114037527598576003",
-      "text": "One day",
-      "at": "2026-10-24T16:53:18.000Z",
-      "replies": 65,
-      "reposts": 3,
-      "likes": 505
+      "id": "2114228445043691592",
+      "url": "https://x.com/thsottiaux/status/2114228445043691592",
+      "text": "https://t.co/cjuGQnsUgA",
+      "at": "2026-10-25T05:31:56.000Z",
+      "replies": 23,
+      "reposts": 1,
+      "likes": 217
     },
     {
-      "id": "2113770862860222611",
-      "url": "https://x.com/thsottiaux/status/2113770862860222611",
-      "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
-      "at": "2026-10-23T23:13:40.000Z",
-      "replies": 215,
-      "reposts": 30,
-      "likes": 1708
+      "id": "2114228044072403055",
+      "url": "https://x.com/thsottiaux/status/2114228044072403055",
+      "text": "Not a real improvement, put the reset in the bag",
+      "at": "2026-10-25T05:30:20.000Z",
+      "replies": 33,
+      "reposts": 7,
+      "likes": 265
     },
     {
-      "id": "2113492502355562875",
-      "url": "https://x.com/thsottiaux/status/2113492502355562875",
-      "text": "Landing tomorrow before 10am PST together with a small ship.",
-      "at": "2026-10-23T04:47:34.000Z",
-      "replies": 872,
-      "reposts": 107,
-      "likes": 3113
+      "id": "2114200291319124163",
+      "url": "https://x.com/thsottiaux/status/2114200291319124163",
+      "text": "By midnight PST",
+      "at": "2026-10-25T03:40:04.000Z",
+      "replies": 277,
+      "reposts": 45,
+      "likes": 1340
     }
   ]
 }
