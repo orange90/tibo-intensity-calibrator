@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "score": 26,
   "stage": "神TIBO",
   "signalStrength": 0.85,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 34,
+  "postCount": 33,
   "eventCount": 79,
-  "updatedAt": "2026-10-25T21:41:12.979Z",
+  "updatedAt": "2026-10-26T00:15:56.759Z",
   "recentTweets": [
     {
       "id": "2114228445043691592",
@@ -16,7 +16,7 @@
       "at": "2026-10-25T05:31:56.000Z",
       "replies": 51,
       "reposts": 4,
-      "likes": 1270
+      "likes": 1344
     },
     {
       "id": "2114228044072403055",
@@ -24,8 +24,8 @@
       "text": "Not a real improvement, put the reset in the bag",
       "at": "2026-10-25T05:30:20.000Z",
       "replies": 64,
-      "reposts": 14,
-      "likes": 1897
+      "reposts": 15,
+      "likes": 1970
     },
     {
       "id": "2114200291319124163",
@@ -34,7 +34,7 @@
       "at": "2026-10-25T03:40:04.000Z",
       "replies": 350,
       "reposts": 55,
-      "likes": 2050
+      "likes": 2080
     }
   ]
 }
