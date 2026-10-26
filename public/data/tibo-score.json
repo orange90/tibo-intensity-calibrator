@@ -5,36 +5,36 @@
   "signalStrength": 0.85,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 32,
+  "postCount": 33,
   "eventCount": 80,
-  "updatedAt": "2026-10-26T06:04:12.979Z",
+  "updatedAt": "2026-10-26T12:52:12.979Z",
   "recentTweets": [
+    {
+      "id": "2114599388454481930",
+      "url": "https://x.com/thsottiaux/status/2114599388454481930",
+      "text": "Not enough resets",
+      "at": "2026-10-26T06:05:56.000Z",
+      "replies": 116,
+      "reposts": 5,
+      "likes": 959
+    },
     {
       "id": "2114588174249071102",
       "url": "https://x.com/thsottiaux/status/2114588174249071102",
       "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
       "at": "2026-10-26T05:21:22.000Z",
-      "replies": 992,
-      "reposts": 205,
-      "likes": 3325
+      "replies": 2038,
+      "reposts": 391,
+      "likes": 8860
     },
     {
       "id": "2114228445043691592",
       "url": "https://x.com/thsottiaux/status/2114228445043691592",
       "text": "https://t.co/cjuGQnsUgA",
       "at": "2026-10-25T05:31:56.000Z",
-      "replies": 51,
+      "replies": 52,
       "reposts": 4,
-      "likes": 1449
-    },
-    {
-      "id": "2114228044072403055",
-      "url": "https://x.com/thsottiaux/status/2114228044072403055",
-      "text": "Not a real improvement, put the reset in the bag",
-      "at": "2026-10-25T05:30:20.000Z",
-      "replies": 67,
-      "reposts": 16,
-      "likes": 2064
+      "likes": 1487
     }
   ]
 }
