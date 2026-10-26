@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 33,
   "eventCount": 80,
-  "updatedAt": "2026-10-26T12:52:12.979Z",
+  "updatedAt": "2026-10-26T19:12:12.979Z",
   "recentTweets": [
     {
       "id": "2114599388454481930",
       "url": "https://x.com/thsottiaux/status/2114599388454481930",
       "text": "Not enough resets",
       "at": "2026-10-26T06:05:56.000Z",
-      "replies": 116,
-      "reposts": 5,
-      "likes": 959
+      "replies": 134,
+      "reposts": 12,
+      "likes": 1274
     },
     {
       "id": "2114588174249071102",
       "url": "https://x.com/thsottiaux/status/2114588174249071102",
       "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
       "at": "2026-10-26T05:21:22.000Z",
-      "replies": 2038,
-      "reposts": 391,
-      "likes": 8860
+      "replies": 2245,
+      "reposts": 420,
+      "likes": 10304
     },
     {
       "id": "2114228445043691592",
@@ -34,7 +34,7 @@
       "at": "2026-10-25T05:31:56.000Z",
       "replies": 52,
       "reposts": 4,
-      "likes": 1487
+      "likes": 1554
     }
   ]
 }
