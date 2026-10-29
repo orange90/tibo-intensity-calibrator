@@ -507,13 +507,13 @@
   },
   {
     "date": "2026-10-29",
-    "score": 26,
-    "stage": "神TIBO",
-    "signalStrength": 0.85,
+    "score": 21,
+    "stage": "硬TIBO",
+    "signalStrength": 0.7,
     "signalKind": "reset",
     "signalActive": false,
-    "postCount": 33,
+    "postCount": 31,
     "eventCount": 79,
-    "updatedAt": "2026-10-29T00:49:12.979Z"
+    "updatedAt": "2026-10-29T06:57:12.979Z"
   }
 ]
