@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 31,
+  "postCount": 32,
   "eventCount": 79,
-  "updatedAt": "2026-10-29T14:10:12.979Z",
+  "updatedAt": "2026-10-29T20:14:12.979Z",
   "recentTweets": [
+    {
+      "id": "2115851621137784832",
+      "url": "https://x.com/thsottiaux/status/2115851621137784832",
+      "text": "Graduating from The Reset Company to The Token Company.",
+      "at": "2026-10-29T17:01:51.000Z",
+      "replies": 445,
+      "reposts": 110,
+      "likes": 5769
+    },
+    {
+      "id": "2115850175868727621",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+      "at": "2026-10-29T16:56:07.000Z",
+      "replies": 4774,
+      "reposts": 1658,
+      "likes": 24987
+    },
     {
       "id": "2115290318652444729",
       "url": "https://x.com/thsottiaux/status/2115290318652444729",
       "text": "Maybe it’s because I have bad long term memory.",
       "at": "2026-10-28T03:51:26.000Z",
-      "replies": 94,
+      "replies": 96,
       "reposts": 8,
-      "likes": 1373
-    },
-    {
-      "id": "2115273253711409208",
-      "url": "https://x.com/thsottiaux/status/2115273253711409208",
-      "text": "Lands by midnight PST.",
-      "at": "2026-10-28T02:43:38.000Z",
-      "replies": 451,
-      "reposts": 58,
-      "likes": 2180
-    },
-    {
-      "id": "2115273064481218829",
-      "url": "https://x.com/thsottiaux/status/2115273064481218829",
-      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though! https://t.co/tHe09XkVXH",
-      "at": "2026-10-28T02:42:53.000Z",
-      "replies": 1125,
-      "reposts": 346,
-      "likes": 8263
+      "likes": 1384
     }
   ]
 }
