@@ -5,36 +5,36 @@
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 32,
+  "postCount": 33,
   "eventCount": 79,
-  "updatedAt": "2026-10-30T19:15:56.759Z",
+  "updatedAt": "2026-10-30T23:39:12.979Z",
   "recentTweets": [
+    {
+      "id": "2116256600436641887",
+      "url": "https://x.com/thsottiaux/status/2116256600436641887",
+      "text": "Better announce 28 days of reset",
+      "at": "2026-10-30T19:51:06.000Z",
+      "replies": 323,
+      "reposts": 58,
+      "likes": 3040
+    },
     {
       "id": "2116045727642366367",
       "url": "https://x.com/thsottiaux/status/2116045727642366367",
       "text": "Good list",
       "at": "2026-10-30T05:53:10.000Z",
-      "replies": 66,
-      "reposts": 8,
-      "likes": 772
+      "replies": 67,
+      "reposts": 9,
+      "likes": 831
     },
     {
       "id": "2115851621137784832",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "at": "2026-10-29T17:01:51.000Z",
-      "replies": 759,
-      "reposts": 162,
-      "likes": 8417
-    },
-    {
-      "id": "2115850175868727621",
-      "url": "https://x.com/thsottiaux/status/2115850175868727621",
-      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
-      "at": "2026-10-29T16:56:07.000Z",
-      "replies": 7119,
-      "reposts": 2615,
-      "likes": 37623
+      "replies": 777,
+      "reposts": 163,
+      "likes": 8498
     }
   ]
 }
