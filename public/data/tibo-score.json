@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 32,
   "eventCount": 79,
-  "updatedAt": "2026-10-29T20:14:12.979Z",
+  "updatedAt": "2026-10-30T00:51:12.979Z",
   "recentTweets": [
     {
       "id": "2115851621137784832",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "at": "2026-10-29T17:01:51.000Z",
-      "replies": 445,
-      "reposts": 110,
-      "likes": 5769
+      "replies": 541,
+      "reposts": 142,
+      "likes": 7105
     },
     {
       "id": "2115850175868727621",
       "url": "https://x.com/thsottiaux/status/2115850175868727621",
       "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
       "at": "2026-10-29T16:56:07.000Z",
-      "replies": 4774,
-      "reposts": 1658,
-      "likes": 24987
+      "replies": 5720,
+      "reposts": 2212,
+      "likes": 31650
     },
     {
       "id": "2115290318652444729",
@@ -34,7 +34,7 @@
       "at": "2026-10-28T03:51:26.000Z",
       "replies": 96,
       "reposts": 8,
-      "likes": 1384
+      "likes": 1387
     }
   ]
 }
