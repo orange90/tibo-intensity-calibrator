@@ -1,40 +1,40 @@
 {
   "date": "2026-10-31",
-  "score": 21,
-  "stage": "硬TIBO",
-  "signalStrength": 0.7,
+  "score": 17,
+  "stage": "笑TIBO",
+  "signalStrength": 0.55,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 32,
+  "postCount": 33,
   "eventCount": 79,
-  "updatedAt": "2026-10-31T05:28:12.979Z",
+  "updatedAt": "2026-10-31T12:15:56.759Z",
   "recentTweets": [
+    {
+      "id": "2116405414921384099",
+      "url": "https://x.com/thsottiaux/status/2116405414921384099",
+      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
+      "at": "2026-10-31T05:42:26.000Z",
+      "replies": 1901,
+      "reposts": 510,
+      "likes": 10182
+    },
     {
       "id": "2116256600436641887",
       "url": "https://x.com/thsottiaux/status/2116256600436641887",
       "text": "Better announce 28 days of reset",
       "at": "2026-10-30T19:51:06.000Z",
-      "replies": 577,
-      "reposts": 103,
-      "likes": 5586
+      "replies": 628,
+      "reposts": 119,
+      "likes": 6454
     },
     {
       "id": "2116045727642366367",
       "url": "https://x.com/thsottiaux/status/2116045727642366367",
       "text": "Good list",
       "at": "2026-10-30T05:53:10.000Z",
-      "replies": 68,
+      "replies": 69,
       "reposts": 9,
-      "likes": 903
-    },
-    {
-      "id": "2115851621137784832",
-      "url": "https://x.com/thsottiaux/status/2115851621137784832",
-      "text": "Graduating from The Reset Company to The Token Company.",
-      "at": "2026-10-29T17:01:51.000Z",
-      "replies": 804,
-      "reposts": 166,
-      "likes": 8616
+      "likes": 916
     }
   ]
 }
