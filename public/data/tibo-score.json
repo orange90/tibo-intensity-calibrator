@@ -1,40 +1,40 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "score": 21,
   "stage": "硬TIBO",
   "signalStrength": 0.7,
   "signalKind": "reset",
   "signalActive": false,
-  "postCount": 33,
+  "postCount": 32,
   "eventCount": 79,
-  "updatedAt": "2026-10-30T23:39:12.979Z",
+  "updatedAt": "2026-10-31T05:28:12.979Z",
   "recentTweets": [
     {
       "id": "2116256600436641887",
       "url": "https://x.com/thsottiaux/status/2116256600436641887",
       "text": "Better announce 28 days of reset",
       "at": "2026-10-30T19:51:06.000Z",
-      "replies": 323,
-      "reposts": 58,
-      "likes": 3040
+      "replies": 577,
+      "reposts": 103,
+      "likes": 5586
     },
     {
       "id": "2116045727642366367",
       "url": "https://x.com/thsottiaux/status/2116045727642366367",
       "text": "Good list",
       "at": "2026-10-30T05:53:10.000Z",
-      "replies": 67,
+      "replies": 68,
       "reposts": 9,
-      "likes": 831
+      "likes": 903
     },
     {
       "id": "2115851621137784832",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "at": "2026-10-29T17:01:51.000Z",
-      "replies": 777,
-      "reposts": 163,
-      "likes": 8498
+      "replies": 804,
+      "reposts": 166,
+      "likes": 8616
     }
   ]
 }
