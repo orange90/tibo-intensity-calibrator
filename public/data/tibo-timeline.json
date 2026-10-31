@@ -529,13 +529,13 @@
   },
   {
     "date": "2026-10-31",
-    "score": 17,
-    "stage": "笑TIBO",
-    "signalStrength": 0.55,
-    "signalKind": "reset",
+    "score": 23,
+    "stage": "硬TIBO",
+    "signalStrength": 0.75,
+    "signalKind": "banked",
     "signalActive": false,
     "postCount": 31,
-    "eventCount": 78,
-    "updatedAt": "2026-10-31T17:39:12.979Z"
+    "eventCount": 79,
+    "updatedAt": "2026-10-31T21:25:12.979Z"
   }
 ]

@@ -1,31 +1,31 @@
 {
   "date": "2026-10-31",
-  "score": 17,
-  "stage": "笑TIBO",
-  "signalStrength": 0.55,
-  "signalKind": "reset",
+  "score": 23,
+  "stage": "硬TIBO",
+  "signalStrength": 0.75,
+  "signalKind": "banked",
   "signalActive": false,
   "postCount": 31,
-  "eventCount": 78,
-  "updatedAt": "2026-10-31T17:39:12.979Z",
+  "eventCount": 79,
+  "updatedAt": "2026-10-31T21:25:12.979Z",
   "recentTweets": [
     {
       "id": "2116405414921384099",
       "url": "https://x.com/thsottiaux/status/2116405414921384099",
       "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
       "at": "2026-10-31T05:42:26.000Z",
-      "replies": 2294,
-      "reposts": 593,
-      "likes": 12791
+      "replies": 2415,
+      "reposts": 611,
+      "likes": 13417
     },
     {
       "id": "2116256600436641887",
       "url": "https://x.com/thsottiaux/status/2116256600436641887",
       "text": "Better announce 28 days of reset",
       "at": "2026-10-30T19:51:06.000Z",
-      "replies": 662,
-      "reposts": 128,
-      "likes": 6943
+      "replies": 674,
+      "reposts": 135,
+      "likes": 7183
     },
     {
       "id": "2116045727642366367",
@@ -34,7 +34,7 @@
       "at": "2026-10-30T05:53:10.000Z",
       "replies": 70,
       "reposts": 9,
-      "likes": 922
+      "likes": 924
     }
   ]
 }
