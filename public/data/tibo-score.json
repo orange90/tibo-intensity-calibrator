@@ -5,36 +5,36 @@
   "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 32,
-  "eventCount": 79,
-  "updatedAt": "2026-11-01T19:35:12.979Z",
+  "postCount": 30,
+  "eventCount": 80,
+  "updatedAt": "2026-11-01T23:31:12.979Z",
   "recentTweets": [
     {
       "id": "2116942192497533418",
       "url": "https://x.com/thsottiaux/status/2116942192497533418",
       "text": "I demand a banked reset",
       "at": "2026-11-01T17:15:24.000Z",
-      "replies": 143,
-      "reposts": 13,
-      "likes": 1211
+      "replies": 168,
+      "reposts": 21,
+      "likes": 1775
     },
     {
       "id": "2116692529970311254",
       "url": "https://x.com/thsottiaux/status/2116692529970311254",
       "text": "Banked 1/2",
       "at": "2026-11-01T00:43:20.000Z",
-      "replies": 1568,
-      "reposts": 226,
-      "likes": 9449
+      "replies": 1599,
+      "reposts": 227,
+      "likes": 9725
     },
     {
       "id": "2116405414921384099",
       "url": "https://x.com/thsottiaux/status/2116405414921384099",
       "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
       "at": "2026-10-31T05:42:26.000Z",
-      "replies": 2597,
-      "reposts": 643,
-      "likes": 14342
+      "replies": 2607,
+      "reposts": 647,
+      "likes": 14400
     }
   ]
 }
