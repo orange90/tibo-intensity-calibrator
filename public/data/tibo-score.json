@@ -1,40 +1,40 @@
 {
   "date": "2026-11-02",
-  "score": 23,
+  "score": 20,
   "stage": "硬TIBO",
-  "signalStrength": 0.75,
+  "signalStrength": 0.65,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 29,
+  "postCount": 31,
   "eventCount": 80,
-  "updatedAt": "2026-11-02T15:38:12.979Z",
+  "updatedAt": "2026-11-02T23:25:12.979Z",
   "recentTweets": [
+    {
+      "id": "2117283355427495983",
+      "url": "https://x.com/thsottiaux/status/2117283355427495983",
+      "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+      "at": "2026-11-02T15:51:03.000Z",
+      "replies": 228,
+      "reposts": 29,
+      "likes": 1865
+    },
+    {
+      "id": "2117283124833055196",
+      "url": "https://x.com/thsottiaux/status/2117283124833055196",
+      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.",
+      "at": "2026-11-02T15:50:08.000Z",
+      "replies": 1476,
+      "reposts": 245,
+      "likes": 8804
+    },
     {
       "id": "2116942192497533418",
       "url": "https://x.com/thsottiaux/status/2116942192497533418",
       "text": "I demand a banked reset",
       "at": "2026-11-01T17:15:24.000Z",
-      "replies": 194,
+      "replies": 195,
       "reposts": 23,
-      "likes": 2212
-    },
-    {
-      "id": "2116692529970311254",
-      "url": "https://x.com/thsottiaux/status/2116692529970311254",
-      "text": "Banked 1/2",
-      "at": "2026-11-01T00:43:20.000Z",
-      "replies": 1613,
-      "reposts": 232,
-      "likes": 10005
-    },
-    {
-      "id": "2116405414921384099",
-      "url": "https://x.com/thsottiaux/status/2116405414921384099",
-      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://t.co/iQxsqbuk0f",
-      "at": "2026-10-31T05:42:26.000Z",
-      "replies": 2617,
-      "reposts": 651,
-      "likes": 14471
+      "likes": 2260
     }
   ]
 }

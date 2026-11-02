@@ -551,13 +551,13 @@
   },
   {
     "date": "2026-11-02",
-    "score": 23,
+    "score": 20,
     "stage": "硬TIBO",
-    "signalStrength": 0.75,
+    "signalStrength": 0.65,
     "signalKind": "banked",
     "signalActive": false,
-    "postCount": 29,
+    "postCount": 31,
     "eventCount": 80,
-    "updatedAt": "2026-11-02T15:38:12.979Z"
+    "updatedAt": "2026-11-02T23:25:12.979Z"
   }
 ]
