@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "score": 20,
   "stage": "硬TIBO",
   "signalStrength": 0.65,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 31,
+  "postCount": 30,
   "eventCount": 80,
-  "updatedAt": "2026-11-02T23:25:12.979Z",
+  "updatedAt": "2026-11-03T06:39:12.979Z",
   "recentTweets": [
     {
       "id": "2117283355427495983",
       "url": "https://x.com/thsottiaux/status/2117283355427495983",
       "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
       "at": "2026-11-02T15:51:03.000Z",
-      "replies": 228,
-      "reposts": 29,
-      "likes": 1865
+      "replies": 268,
+      "reposts": 34,
+      "likes": 2178
     },
     {
       "id": "2117283124833055196",
       "url": "https://x.com/thsottiaux/status/2117283124833055196",
       "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.",
       "at": "2026-11-02T15:50:08.000Z",
-      "replies": 1476,
-      "reposts": 245,
-      "likes": 8804
+      "replies": 1724,
+      "reposts": 294,
+      "likes": 10215
     },
     {
       "id": "2116942192497533418",
       "url": "https://x.com/thsottiaux/status/2116942192497533418",
       "text": "I demand a banked reset",
       "at": "2026-11-01T17:15:24.000Z",
-      "replies": 195,
+      "replies": 196,
       "reposts": 23,
-      "likes": 2260
+      "likes": 2297
     }
   ]
 }
