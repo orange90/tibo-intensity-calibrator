@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 30,
   "eventCount": 80,
-  "updatedAt": "2026-11-03T06:39:12.979Z",
+  "updatedAt": "2026-11-03T15:00:56.759Z",
   "recentTweets": [
     {
       "id": "2117283355427495983",
       "url": "https://x.com/thsottiaux/status/2117283355427495983",
       "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
       "at": "2026-11-02T15:51:03.000Z",
-      "replies": 268,
-      "reposts": 34,
-      "likes": 2178
+      "replies": 280,
+      "reposts": 35,
+      "likes": 2296
     },
     {
       "id": "2117283124833055196",
       "url": "https://x.com/thsottiaux/status/2117283124833055196",
       "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.",
       "at": "2026-11-02T15:50:08.000Z",
-      "replies": 1724,
-      "reposts": 294,
-      "likes": 10215
+      "replies": 1823,
+      "reposts": 314,
+      "likes": 10757
     },
     {
       "id": "2116942192497533418",
@@ -34,7 +34,7 @@
       "at": "2026-11-01T17:15:24.000Z",
       "replies": 196,
       "reposts": 23,
-      "likes": 2297
+      "likes": 2310
     }
   ]
 }
