@@ -5,18 +5,18 @@
   "signalStrength": 0.5,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 27,
-  "eventCount": 80,
-  "updatedAt": "2026-11-05T06:34:12.979Z",
+  "postCount": 25,
+  "eventCount": 78,
+  "updatedAt": "2026-11-05T15:23:12.979Z",
   "recentTweets": [
     {
       "id": "2118024737070957009",
       "url": "https://x.com/thsottiaux/status/2118024737070957009",
       "text": "I was moved to the basement yesterday",
       "at": "2026-11-04T16:57:02.000Z",
-      "replies": 273,
+      "replies": 299,
       "reposts": 36,
-      "likes": 3196
+      "likes": 3486
     },
     {
       "id": "2117283355427495983",
