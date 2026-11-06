@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "score": 15,
   "stage": "笑TIBO",
   "signalStrength": 0.5,
@@ -7,7 +7,7 @@
   "signalActive": false,
   "postCount": 25,
   "eventCount": 78,
-  "updatedAt": "2026-11-05T21:55:12.979Z",
+  "updatedAt": "2026-11-06T02:20:12.979Z",
   "recentTweets": [
     {
       "id": "2118024737070957009",
@@ -16,7 +16,7 @@
       "at": "2026-11-04T16:57:02.000Z",
       "replies": 301,
       "reposts": 36,
-      "likes": 3543
+      "likes": 3545
     },
     {
       "id": "2117283355427495983",
