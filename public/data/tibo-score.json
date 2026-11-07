@@ -7,16 +7,25 @@
   "signalActive": false,
   "postCount": 23,
   "eventCount": 76,
-  "updatedAt": "2026-11-07T16:21:12.979Z",
+  "updatedAt": "2026-11-07T20:48:12.979Z",
   "recentTweets": [
+    {
+      "id": "2119113859747426370",
+      "url": "https://x.com/thsottiaux/status/2119113859747426370",
+      "text": "Missed that you can dash",
+      "at": "2026-11-07T17:04:50.000Z",
+      "replies": 31,
+      "reposts": 3,
+      "likes": 262
+    },
     {
       "id": "2118931941907165401",
       "url": "https://x.com/thsottiaux/status/2118931941907165401",
       "text": "Savage, John",
       "at": "2026-11-07T05:01:57.000Z",
-      "replies": 103,
-      "reposts": 9,
-      "likes": 1319
+      "replies": 106,
+      "reposts": 10,
+      "likes": 1487
     },
     {
       "id": "2118024737070957009",
@@ -26,15 +35,6 @@
       "replies": 301,
       "reposts": 36,
       "likes": 3545
-    },
-    {
-      "id": "2117283355427495983",
-      "url": "https://x.com/thsottiaux/status/2117283355427495983",
-      "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-      "at": "2026-11-02T15:51:03.000Z",
-      "replies": 307,
-      "reposts": 37,
-      "likes": 2437
     }
   ]
 }
