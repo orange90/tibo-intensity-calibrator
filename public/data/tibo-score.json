@@ -5,10 +5,19 @@
   "signalStrength": 0.5,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 22,
+  "postCount": 23,
   "eventCount": 76,
-  "updatedAt": "2026-11-07T02:43:12.979Z",
+  "updatedAt": "2026-11-07T09:57:12.979Z",
   "recentTweets": [
+    {
+      "id": "2118931941907165401",
+      "url": "https://x.com/thsottiaux/status/2118931941907165401",
+      "text": "Savage, John",
+      "at": "2026-11-07T05:01:57.000Z",
+      "replies": 89,
+      "reposts": 7,
+      "likes": 871
+    },
     {
       "id": "2118024737070957009",
       "url": "https://x.com/thsottiaux/status/2118024737070957009",
@@ -26,15 +35,6 @@
       "replies": 307,
       "reposts": 37,
       "likes": 2437
-    },
-    {
-      "id": "2117283124833055196",
-      "url": "https://x.com/thsottiaux/status/2117283124833055196",
-      "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.",
-      "at": "2026-11-02T15:50:08.000Z",
-      "replies": 1880,
-      "reposts": 325,
-      "likes": 11348
     }
   ]
 }
