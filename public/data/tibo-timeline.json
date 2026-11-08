@@ -617,13 +617,13 @@
   },
   {
     "date": "2026-11-08",
-    "score": 15,
-    "stage": "笑TIBO",
-    "signalStrength": 0.5,
+    "score": 11,
+    "stage": "小TIBO",
+    "signalStrength": 0.35,
     "signalKind": "banked",
     "signalActive": false,
     "postCount": 22,
     "eventCount": 75,
-    "updatedAt": "2026-11-08T19:37:12.979Z"
+    "updatedAt": "2026-11-08T23:39:12.979Z"
   }
 ]
