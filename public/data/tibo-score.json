@@ -7,34 +7,34 @@
   "signalActive": false,
   "postCount": 20,
   "eventCount": 74,
-  "updatedAt": "2026-11-09T06:13:12.979Z",
+  "updatedAt": "2026-11-09T17:24:12.979Z",
   "recentTweets": [
     {
       "id": "2119308687676432672",
       "url": "https://x.com/thsottiaux/status/2119308687676432672",
       "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
       "at": "2026-11-08T05:59:00.000Z",
-      "replies": 80,
+      "replies": 90,
       "reposts": 6,
-      "likes": 776
+      "likes": 840
     },
     {
       "id": "2119296267545419987",
       "url": "https://x.com/thsottiaux/status/2119296267545419987",
       "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
       "at": "2026-11-08T05:09:39.000Z",
-      "replies": 1572,
-      "reposts": 242,
-      "likes": 8648
+      "replies": 1635,
+      "reposts": 253,
+      "likes": 9128
     },
     {
       "id": "2119232059537514598",
       "url": "https://x.com/thsottiaux/status/2119232059537514598",
       "text": "We doubled the usage on Pro plans and Business 100",
       "at": "2026-11-08T00:54:31.000Z",
-      "replies": 298,
-      "reposts": 21,
-      "likes": 1943
+      "replies": 306,
+      "reposts": 22,
+      "likes": 2030
     }
   ]
 }
