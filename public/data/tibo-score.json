@@ -7,7 +7,7 @@
   "signalActive": false,
   "postCount": 19,
   "eventCount": 78,
-  "updatedAt": "2026-11-10T09:39:12.979Z",
+  "updatedAt": "2026-11-10T17:43:12.979Z",
   "recentTweets": [
     {
       "id": "2119308687676432672",
@@ -16,16 +16,16 @@
       "at": "2026-11-08T05:59:00.000Z",
       "replies": 94,
       "reposts": 6,
-      "likes": 870
+      "likes": 871
     },
     {
       "id": "2119296267545419987",
       "url": "https://x.com/thsottiaux/status/2119296267545419987",
       "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
       "at": "2026-11-08T05:09:39.000Z",
-      "replies": 1655,
-      "reposts": 256,
-      "likes": 9374
+      "replies": 1664,
+      "reposts": 257,
+      "likes": 9396
     },
     {
       "id": "2119232059537514598",
@@ -34,7 +34,7 @@
       "at": "2026-11-08T00:54:31.000Z",
       "replies": 308,
       "reposts": 22,
-      "likes": 2046
+      "likes": 2047
     }
   ]
 }
