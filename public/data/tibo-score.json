@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-12",
-  "score": 11,
-  "stage": "小TIBO",
-  "signalStrength": 0.35,
+  "date": "2026-11-13",
+  "score": 23,
+  "stage": "硬TIBO",
+  "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 15,
-  "eventCount": 77,
-  "updatedAt": "2026-11-12T18:49:12.979Z",
+  "postCount": 16,
+  "eventCount": 79,
+  "updatedAt": "2026-11-13T00:13:12.979Z",
   "recentTweets": [
+    {
+      "id": "2120999993079451919",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
+      "at": "2026-11-12T21:59:39.000Z",
+      "replies": 1169,
+      "reposts": 162,
+      "likes": 3932
+    },
     {
       "id": "2120410480204525936",
       "url": "https://x.com/thsottiaux/status/2120410480204525936",
       "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
       "at": "2026-11-11T06:57:08.000Z",
-      "replies": 1386,
-      "reposts": 294,
-      "likes": 11135
+      "replies": 1506,
+      "reposts": 298,
+      "likes": 11294
     },
     {
       "id": "2120410006273380750",
       "url": "https://x.com/thsottiaux/status/2120410006273380750",
       "text": "It’s been a while without resets. Maybe I should come back out of the basement",
       "at": "2026-11-11T06:55:15.000Z",
-      "replies": 3171,
-      "reposts": 402,
-      "likes": 18555
-    },
-    {
-      "id": "2119308687676432672",
-      "url": "https://x.com/thsottiaux/status/2119308687676432672",
-      "text": "We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
-      "at": "2026-11-08T05:59:00.000Z",
-      "replies": 97,
-      "reposts": 6,
-      "likes": 873
+      "replies": 3265,
+      "reposts": 406,
+      "likes": 18862
     }
   ]
 }
