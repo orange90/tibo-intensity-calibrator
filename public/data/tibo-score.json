@@ -5,36 +5,36 @@
   "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 16,
+  "postCount": 15,
   "eventCount": 79,
-  "updatedAt": "2026-11-13T00:13:12.979Z",
+  "updatedAt": "2026-11-13T07:51:12.979Z",
   "recentTweets": [
     {
       "id": "2120999993079451919",
       "url": "https://x.com/thsottiaux/status/2120999993079451919",
       "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
       "at": "2026-11-12T21:59:39.000Z",
-      "replies": 1169,
-      "reposts": 162,
-      "likes": 3932
+      "replies": 1497,
+      "reposts": 219,
+      "likes": 5868
     },
     {
       "id": "2120410480204525936",
       "url": "https://x.com/thsottiaux/status/2120410480204525936",
       "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
       "at": "2026-11-11T06:57:08.000Z",
-      "replies": 1506,
-      "reposts": 298,
-      "likes": 11294
+      "replies": 1523,
+      "reposts": 300,
+      "likes": 11354
     },
     {
       "id": "2120410006273380750",
       "url": "https://x.com/thsottiaux/status/2120410006273380750",
       "text": "It’s been a while without resets. Maybe I should come back out of the basement",
       "at": "2026-11-11T06:55:15.000Z",
-      "replies": 3265,
-      "reposts": 406,
-      "likes": 18862
+      "replies": 3279,
+      "reposts": 408,
+      "likes": 19018
     }
   ]
 }
