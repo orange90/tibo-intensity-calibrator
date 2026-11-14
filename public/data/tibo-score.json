@@ -7,16 +7,16 @@
   "signalActive": false,
   "postCount": 13,
   "eventCount": 79,
-  "updatedAt": "2026-11-14T10:22:12.979Z",
+  "updatedAt": "2026-11-14T16:58:12.979Z",
   "recentTweets": [
     {
       "id": "2120999993079451919",
       "url": "https://x.com/thsottiaux/status/2120999993079451919",
       "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
       "at": "2026-11-12T21:59:39.000Z",
-      "replies": 1651,
-      "reposts": 249,
-      "likes": 6831
+      "replies": 1665,
+      "reposts": 250,
+      "likes": 6889
     },
     {
       "id": "2120410480204525936",
@@ -25,16 +25,16 @@
       "at": "2026-11-11T06:57:08.000Z",
       "replies": 1529,
       "reposts": 300,
-      "likes": 11414
+      "likes": 11425
     },
     {
       "id": "2120410006273380750",
       "url": "https://x.com/thsottiaux/status/2120410006273380750",
       "text": "It’s been a while without resets. Maybe I should come back out of the basement",
       "at": "2026-11-11T06:55:15.000Z",
-      "replies": 3289,
+      "replies": 3290,
       "reposts": 409,
-      "likes": 19091
+      "likes": 19098
     }
   ]
 }
