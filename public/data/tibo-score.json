@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-15",
-  "score": 20,
-  "stage": "硬TIBO",
-  "signalStrength": 0.65,
+  "date": "2026-11-16",
+  "score": 15,
+  "stage": "笑TIBO",
+  "signalStrength": 0.5,
   "signalKind": "banked",
   "signalActive": false,
   "postCount": 11,
   "eventCount": 79,
-  "updatedAt": "2026-11-15T21:41:12.979Z",
+  "updatedAt": "2026-11-16T01:57:12.979Z",
   "recentTweets": [
     {
       "id": "2120999993079451919",
@@ -16,7 +16,7 @@
       "at": "2026-11-12T21:59:39.000Z",
       "replies": 1679,
       "reposts": 251,
-      "likes": 6942
+      "likes": 6944
     },
     {
       "id": "2120410480204525936",
@@ -25,7 +25,7 @@
       "at": "2026-11-11T06:57:08.000Z",
       "replies": 1531,
       "reposts": 300,
-      "likes": 11446
+      "likes": 11450
     },
     {
       "id": "2120410006273380750",

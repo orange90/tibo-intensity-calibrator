@@ -702,5 +702,16 @@
     "postCount": 11,
     "eventCount": 79,
     "updatedAt": "2026-11-15T21:41:12.979Z"
+  },
+  {
+    "date": "2026-11-16",
+    "score": 15,
+    "stage": "笑TIBO",
+    "signalStrength": 0.5,
+    "signalKind": "banked",
+    "signalActive": false,
+    "postCount": 11,
+    "eventCount": 79,
+    "updatedAt": "2026-11-16T01:57:12.979Z"
   }
 ]
