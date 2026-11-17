@@ -5,18 +5,27 @@
   "signalStrength": 0.5,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 10,
+  "postCount": 11,
   "eventCount": 79,
-  "updatedAt": "2026-11-17T13:11:12.979Z",
+  "updatedAt": "2026-11-17T22:14:12.979Z",
   "recentTweets": [
+    {
+      "id": "2122754551187132438",
+      "url": "https://x.com/thsottiaux/status/2122754551187132438",
+      "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
+      "at": "2026-11-17T18:11:38.000Z",
+      "replies": 245,
+      "reposts": 63,
+      "likes": 1817
+    },
     {
       "id": "2122206990101536852",
       "url": "https://x.com/thsottiaux/status/2122206990101536852",
       "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
       "at": "2026-11-16T05:55:49.000Z",
-      "replies": 2422,
-      "reposts": 245,
-      "likes": 8915
+      "replies": 2501,
+      "reposts": 248,
+      "likes": 9148
     },
     {
       "id": "2120999993079451919",
@@ -25,16 +34,7 @@
       "at": "2026-11-12T21:59:39.000Z",
       "replies": 1689,
       "reposts": 253,
-      "likes": 6968
-    },
-    {
-      "id": "2120410480204525936",
-      "url": "https://x.com/thsottiaux/status/2120410480204525936",
-      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
-      "at": "2026-11-11T06:57:08.000Z",
-      "replies": 1531,
-      "reposts": 300,
-      "likes": 11469
+      "likes": 6971
     }
   ]
 }
