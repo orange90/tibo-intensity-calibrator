@@ -5,10 +5,19 @@
   "signalStrength": 0.35,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 5,
+  "postCount": 6,
   "eventCount": 79,
-  "updatedAt": "2026-11-23T08:55:12.979Z",
+  "updatedAt": "2026-11-23T21:13:12.979Z",
   "recentTweets": [
+    {
+      "id": "2124922313019953319",
+      "url": "https://x.com/thsottiaux/status/2124922313019953319",
+      "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
+      "at": "2026-11-23T17:45:33.000Z",
+      "replies": 253,
+      "reposts": 46,
+      "likes": 1200
+    },
     {
       "id": "2122754551187132438",
       "url": "https://x.com/thsottiaux/status/2122754551187132438",
@@ -26,15 +35,6 @@
       "replies": 2528,
       "reposts": 249,
       "likes": 9227
-    },
-    {
-      "id": "2120999993079451919",
-      "url": "https://x.com/thsottiaux/status/2120999993079451919",
-      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! https://t.co/Y7Mnp6Cuu1",
-      "at": "2026-11-12T21:59:39.000Z",
-      "replies": 1689,
-      "reposts": 253,
-      "likes": 6971
     }
   ]
 }
