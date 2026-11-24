@@ -790,5 +790,16 @@
     "postCount": 6,
     "eventCount": 79,
     "updatedAt": "2026-11-23T21:13:12.979Z"
+  },
+  {
+    "date": "2026-11-24",
+    "score": 11,
+    "stage": "小TIBO",
+    "signalStrength": 0.35,
+    "signalKind": "banked",
+    "signalActive": false,
+    "postCount": 6,
+    "eventCount": 79,
+    "updatedAt": "2026-11-24T05:55:12.979Z"
   }
 ]
