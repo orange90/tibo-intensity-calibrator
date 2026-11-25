@@ -5,36 +5,36 @@
   "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 9,
+  "postCount": 7,
   "eventCount": 80,
-  "updatedAt": "2026-11-25T02:18:12.979Z",
+  "updatedAt": "2026-11-25T12:41:12.979Z",
   "recentTweets": [
     {
       "id": "2125299467691987445",
       "url": "https://x.com/thsottiaux/status/2125299467691987445",
       "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
       "at": "2026-11-24T18:44:13.000Z",
-      "replies": 21,
+      "replies": 27,
       "reposts": 3,
-      "likes": 152
+      "likes": 175
     },
     {
       "id": "2125299436964479474",
       "url": "https://x.com/thsottiaux/status/2125299436964479474",
       "text": "https://t.co/SY2X7f40c5",
       "at": "2026-11-24T18:44:06.000Z",
-      "replies": 43,
-      "reposts": 6,
-      "likes": 267
+      "replies": 58,
+      "reposts": 10,
+      "likes": 366
     },
     {
       "id": "2125299248782778588",
       "url": "https://x.com/thsottiaux/status/2125299248782778588",
       "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
       "at": "2026-11-24T18:43:21.000Z",
-      "replies": 828,
-      "reposts": 130,
-      "likes": 4434
+      "replies": 1280,
+      "reposts": 176,
+      "likes": 5993
     }
   ]
 }
