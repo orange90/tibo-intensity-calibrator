@@ -1,13 +1,13 @@
 {
   "date": "2026-11-25",
-  "score": 23,
+  "score": 20,
   "stage": "硬TIBO",
-  "signalStrength": 0.75,
+  "signalStrength": 0.65,
   "signalKind": "banked",
   "signalActive": false,
   "postCount": 7,
   "eventCount": 80,
-  "updatedAt": "2026-11-25T12:41:12.979Z",
+  "updatedAt": "2026-11-25T22:27:12.979Z",
   "recentTweets": [
     {
       "id": "2125299467691987445",
@@ -16,25 +16,25 @@
       "at": "2026-11-24T18:44:13.000Z",
       "replies": 27,
       "reposts": 3,
-      "likes": 175
+      "likes": 179
     },
     {
       "id": "2125299436964479474",
       "url": "https://x.com/thsottiaux/status/2125299436964479474",
       "text": "https://t.co/SY2X7f40c5",
       "at": "2026-11-24T18:44:06.000Z",
-      "replies": 58,
+      "replies": 65,
       "reposts": 10,
-      "likes": 366
+      "likes": 407
     },
     {
       "id": "2125299248782778588",
       "url": "https://x.com/thsottiaux/status/2125299248782778588",
       "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
       "at": "2026-11-24T18:43:21.000Z",
-      "replies": 1280,
-      "reposts": 176,
-      "likes": 5993
+      "replies": 1437,
+      "reposts": 190,
+      "likes": 6504
     }
   ]
 }
