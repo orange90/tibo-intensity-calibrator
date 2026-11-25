@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-24",
-  "score": 11,
-  "stage": "小TIBO",
-  "signalStrength": 0.35,
+  "date": "2026-11-25",
+  "score": 23,
+  "stage": "硬TIBO",
+  "signalStrength": 0.75,
   "signalKind": "banked",
   "signalActive": false,
-  "postCount": 6,
-  "eventCount": 79,
-  "updatedAt": "2026-11-24T17:32:12.979Z",
+  "postCount": 9,
+  "eventCount": 80,
+  "updatedAt": "2026-11-25T02:18:12.979Z",
   "recentTweets": [
     {
-      "id": "2124922313019953319",
-      "url": "https://x.com/thsottiaux/status/2124922313019953319",
-      "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀 https://t.co/Lw8q9Qw00r",
-      "at": "2026-11-23T17:45:33.000Z",
-      "replies": 356,
-      "reposts": 71,
-      "likes": 1852
+      "id": "2125299467691987445",
+      "url": "https://x.com/thsottiaux/status/2125299467691987445",
+      "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
+      "at": "2026-11-24T18:44:13.000Z",
+      "replies": 21,
+      "reposts": 3,
+      "likes": 152
     },
     {
-      "id": "2122754551187132438",
-      "url": "https://x.com/thsottiaux/status/2122754551187132438",
-      "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-      "at": "2026-11-17T18:11:38.000Z",
-      "replies": 346,
-      "reposts": 81,
-      "likes": 2462
+      "id": "2125299436964479474",
+      "url": "https://x.com/thsottiaux/status/2125299436964479474",
+      "text": "https://t.co/SY2X7f40c5",
+      "at": "2026-11-24T18:44:06.000Z",
+      "replies": 43,
+      "reposts": 6,
+      "likes": 267
     },
     {
-      "id": "2122206990101536852",
-      "url": "https://x.com/thsottiaux/status/2122206990101536852",
-      "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
-      "at": "2026-11-16T05:55:49.000Z",
-      "replies": 2528,
-      "reposts": 249,
-      "likes": 9227
+      "id": "2125299248782778588",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "at": "2026-11-24T18:43:21.000Z",
+      "replies": 828,
+      "reposts": 130,
+      "likes": 4434
     }
   ]
 }
