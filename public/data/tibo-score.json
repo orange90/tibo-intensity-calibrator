@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "score": 20,
   "stage": "硬TIBO",
   "signalStrength": 0.65,
@@ -7,25 +7,25 @@
   "signalActive": false,
   "postCount": 8,
   "eventCount": 83,
-  "updatedAt": "2026-11-27T18:52:12.000Z",
+  "updatedAt": "2026-11-28T01:53:12.000Z",
   "recentTweets": [
     {
       "id": "2125853628250599730",
       "url": "https://x.com/thsottiaux/status/2125853628250599730",
       "text": "Banked reset is online",
       "at": "2026-11-26T07:26:16.000Z",
-      "replies": 1697,
-      "reposts": 207,
-      "likes": 8404
+      "replies": 1738,
+      "reposts": 210,
+      "likes": 8552
     },
     {
       "id": "2125784147889393806",
       "url": "https://x.com/thsottiaux/status/2125784147889393806",
       "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
       "at": "2026-11-26T02:50:10.000Z",
-      "replies": 6372,
-      "reposts": 986,
-      "likes": 19393
+      "replies": 6415,
+      "reposts": 997,
+      "likes": 19602
     },
     {
       "id": "2125299467691987445",
